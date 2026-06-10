@@ -12,7 +12,7 @@ export default function Footer() {
   const year = new Date().getFullYear();
 
   const productLinks = [
-    { href: `${prefix}/products/lumber-boards`, label: "Lumber & Boards" },
+    { href: `${prefix}/products/lumber-boards`, label: "Timber & Boards" },
     { href: `${prefix}/products/pine-mouldings`, label: "Pine Mouldings" },
     { href: `${prefix}/products/finger-joint-mouldings`, label: "Finger Joint Mouldings" },
     { href: `${prefix}/products/panels-sheet-goods`, label: "Panels & Sheet Goods" },

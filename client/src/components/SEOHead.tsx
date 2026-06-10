@@ -11,7 +11,7 @@ interface SEOHeadProps {
 
 const SITE_NAME = "ArgentinaPine.com";
 const DEFAULT_DESC =
-  "The independent resource for international buyers of Argentine pine — lumber, mouldings, panels, and finger joint products from Argentina's plantation forests.";
+  "The independent resource for international buyers of Argentine pine timber — sawn timber, mouldings, panels, and finger joint products from Argentina's plantation forests.";
 
 export default function SEOHead({ title, description, canonical }: SEOHeadProps) {
   useEffect(() => {

@@ -24,9 +24,9 @@ export interface Product {
 export const products: Product[] = [
   {
     slug: "lumber-boards",
-    title: "Lumber & Boards",
-    shortDesc: "Rough-sawn and dressed pine lumber in standard and custom dimensions.",
-    description: "Argentine pine lumber is produced from Pinus taeda grown in the Mesopotamia region of northeastern Argentina. This species produces a light-coloured, straight-grained timber that is easy to machine, glue, and finish. Lumber is available in rough-sawn (RS) and dressed/planed (DAR/S4S) form, with kiln-dried (KD) options available from most major mills.",
+    title: "Timber & Boards",
+    shortDesc: "Rough-sawn and dressed pine timber in standard and custom dimensions.",
+    description: "Argentine pine timber is produced from Pinus taeda grown in the Mesopotamia region of northeastern Argentina. This species produces a light-coloured, straight-grained wood that is easy to machine, glue, and finish. Sawn timber is available in rough-sawn (RS) and dressed/planed (DAR/S4S) form, with kiln-dried (KD) options available from most major mills. Also available as pine lumber in standard dimensional sizes.",
     specs: [
       { label: "Species", value: "Pinus taeda" },
       { label: "Moisture Content", value: "KD 12–18% or Green" },
@@ -48,7 +48,7 @@ export const products: Product[] = [
       { name: "No. 2 Common", desc: "Larger knots and minor defects permitted, suitable for structural and utility applications." },
       { name: "Utility / Economy", desc: "Significant defects permitted, suitable for packing, crating, and low-grade construction." },
     ],
-    cta: "Inquire About Lumber & Boards",
+    cta: "Inquire About Timber & Boards",
   },
   {
     slug: "pine-mouldings",
@@ -155,7 +155,7 @@ The wood is light yellowish-brown in colour with a straight to slightly interloc
 
 In Argentina, Pinus taeda is grown primarily in the province of Misiones, which accounts for the majority of the country's pine plantation area. The province's combination of subtropical climate, fertile soils, and established forestry infrastructure has made it the centre of Argentina's softwood processing industry.
 
-For international buyers, Pinus taeda from Argentina offers a reliable, consistent, and cost-competitive alternative to North American southern yellow pine, European spruce, and New Zealand radiata pine. The species' combination of workability, dimensional stability, and availability in a wide range of processed forms makes it a versatile choice for furniture manufacturers, joinery producers, construction companies, and distributors across Asia, the Middle East, and the Pacific.`,
+For international buyers, Pinus taeda timber from Argentina offers a reliable, consistent, and cost-competitive alternative to North American southern yellow pine, European spruce, and New Zealand radiata pine. The species' combination of workability, dimensional stability, and availability in a wide range of processed forms makes it a versatile choice for furniture manufacturers, joinery producers, construction companies, and distributors across Asia, the Middle East, and the Pacific.`,
     keyFacts: [
       { label: "Common Name", value: "Loblolly Pine" },
       { label: "Origin", value: "Southeastern USA (introduced to Argentina)" },
@@ -259,7 +259,7 @@ Argentina's commercial pine plantations cover approximately 900,000 hectares, co
 
 **Production and Processing**
 
-Argentina's wood processing industry has grown significantly over the past two decades, with substantial investment in sawmilling, kiln-drying, moulding, and panel manufacturing capacity. The country produces a broad range of processed pine products for export, from rough-sawn lumber and kiln-dried boards to precision mouldings, finger joint products, and laminated panels.
+Argentina's wood processing industry has grown significantly over the past two decades, with substantial investment in sawmilling, kiln-drying, moulding, and panel manufacturing capacity. The country produces a broad range of processed pine products for export, from rough-sawn sawn timber and kiln-dried boards to precision mouldings, finger joint products, and laminated panels.
 
 **Key Export Markets**
 
@@ -267,7 +267,7 @@ Argentina's pine products are exported to markets across the world. Key destinat
 
 **Trade and Certification**
 
-Most Argentine pine exporters comply with CITES and phytosanitary requirements for export. A growing number of mills hold FSC Chain of Custody certification, enabling supply of certified timber to buyers with sustainability requirements.
+Most Argentine pine exporters comply with CITES and phytosanitary requirements for export. A growing number of mills hold FSC Chain of Custody certification, enabling supply of certified pine timber to buyers with sustainability requirements.
 
 **Currency and Payment**
 
@@ -280,11 +280,11 @@ Argentine pine is typically priced and invoiced in US dollars. Payment terms var
     intro: "Understanding Argentina's export logistics is essential for buyers planning to source pine products from the country. This page covers the main export ports, typical shipping routes, container specifications, and lead time expectations.",
     body: `**Main Export Port**
 
-All Argentine pine exports are shipped through the Port of Buenos Aires (Puerto de Buenos Aires), Argentina's primary container port. The port is well-equipped for container handling of lumber and processed wood products, with regular liner services to Asia, the Middle East, Oceania, and Europe. Timber from the Mesopotamia growing regions in northeastern Argentina is transported by road and rail to Buenos Aires for container loading and export.
+All Argentine pine exports are shipped through the Port of Buenos Aires (Puerto de Buenos Aires), Argentina's primary container port. The port is well-equipped for container handling of pine timber and processed wood products, with regular liner services to Asia, the Middle East, Oceania, and Europe. Sawn timber from the Mesopotamia growing regions in northeastern Argentina is transported by road and rail to Buenos Aires for container loading and export.
 
 **Container Specifications**
 
-Argentine pine lumber and processed products are typically exported in 20-foot or 40-foot dry containers. Typical container loads for pine lumber range from 18–25 cubic metres (20-foot) to 38–50 cubic metres (40-foot), depending on product dimensions and packing method.
+Argentine pine timber and processed products are typically exported in 20-foot or 40-foot dry containers. Typical container loads for sawn timber range from 18–25 cubic metres (20-foot) to 38–50 cubic metres (40-foot), depending on product dimensions and packing method.
 
 **Shipping Routes and Transit Times**
 
@@ -327,7 +327,7 @@ export const blogPosts: BlogPost[] = [
 
 **The Species**
 
-The dominant commercial pine species grown in Argentina is Pinus taeda (loblolly pine), introduced from the southeastern United States and proven exceptionally well-suited to the subtropical climate of Argentina's Mesopotamia region. Pinus taeda accounts for the vast majority of Argentina's pine lumber and processed wood production.
+The dominant commercial pine species grown in Argentina is Pinus taeda (loblolly pine), introduced from the southeastern United States and proven exceptionally well-suited to the subtropical climate of Argentina's Mesopotamia region. Pinus taeda accounts for the vast majority of Argentina's pine timber and processed wood production.
 
 **The Growing Regions**
 
@@ -335,7 +335,7 @@ Argentina's pine plantations are concentrated in three northeastern provinces: M
 
 **The Products**
 
-Argentine mills produce a comprehensive range of pine products for export, from rough-sawn lumber and kiln-dried boards to precision mouldings, finger joint products, and laminated panels. The industry has invested significantly in value-added processing capacity over the past two decades.
+Argentine mills produce a comprehensive range of pine products for export, from rough-sawn sawn timber and kiln-dried boards to precision mouldings, finger joint products, and laminated panels. The industry has invested significantly in value-added processing capacity over the past two decades.
 
 **Why It Matters**
 
@@ -363,15 +363,15 @@ Entre Ríos, the southernmost of the three main pine-growing provinces, has a sm
   },
   {
     slug: "argentine-pine-lumber-grades-explained",
-    title: "Argentine Pine Lumber Grades Explained",
+    title: "Argentine Pine Timber Grades Explained",
     date: "2025-02-24",
     category: "Products",
-    excerpt: "A practical guide to Argentine pine lumber grading — what the grades mean, how they are assessed, and which grade is right for your application.",
-    body: `Lumber grading is one of the most important factors in sourcing pine products, yet it is also one of the most frequently misunderstood. This post explains the main grading systems used for Argentine pine lumber and provides practical guidance for buyers.
+    excerpt: "A practical guide to Argentine pine timber grading — what the grades mean, how they are assessed, and which grade is right for your application.",
+    body: `Timber grading is one of the most important factors in sourcing pine products, yet it is also one of the most frequently misunderstood. This post explains the main grading systems used for Argentine pine timber and provides practical guidance for buyers.
 
 **How Argentine Pine is Graded**
 
-Argentine pine lumber is typically graded visually, with graders assessing each piece for knots, grain deviation, warp, bow, twist, splits, and other defects. Argentina does not have a single national grading standard, so grading terminology can vary between mills. However, most Argentine exporters use a broadly consistent set of grade descriptions.
+Argentine pine timber is typically graded visually, with graders assessing each piece for knots, grain deviation, warp, bow, twist, splits, and other defects. Argentina does not have a single national grading standard, so grading terminology can vary between mills. However, most Argentine exporters use a broadly consistent set of grade descriptions.
 
 **Common Grade Descriptions**
 
@@ -385,7 +385,7 @@ Argentine pine lumber is typically graded visually, with graders assessing each 
 
 **Practical Guidance**
 
-When ordering Argentine pine, buyers should specify the grade required for their application and request sample pieces or photographs before committing to a large order.`,
+When ordering Argentine pine timber, buyers should specify the grade required for their application and request sample pieces or photographs before committing to a large order.`,
   },
   {
     slug: "pine-mouldings-argentina-export",
@@ -461,7 +461,7 @@ Argentine EGP is used in furniture and joinery applications including tabletops,
 
 **Step 1: Define Your Requirements**
 
-Before approaching suppliers, prepare a clear specification for the product you need. This should include: species, product type, dimensions, grade, moisture content, surface finish, and packaging requirements.
+Before approaching suppliers, prepare a clear specification for the pine timber or wood products you need. This should include: species, product type, dimensions, grade, moisture content, surface finish, and packaging requirements.
 
 **Step 2: Identify Potential Suppliers**
 
@@ -489,7 +489,7 @@ Place your order with a clear written purchase order specifying all agreed speci
 
 **The Port of Buenos Aires**
 
-All Argentine pine exports are shipped through the Port of Buenos Aires (Puerto de Buenos Aires), Argentina's primary container port. The port is well-equipped for container handling of lumber and processed wood products, with regular liner services to Asia, the Middle East, Oceania, and Europe. Timber from the Mesopotamia growing regions in northeastern Argentina is transported by road and rail to Buenos Aires for container loading and export.
+All Argentine pine exports are shipped through the Port of Buenos Aires (Puerto de Buenos Aires), Argentina's primary container port. The port is well-equipped for container handling of pine timber and processed wood products, with regular liner services to Asia, the Middle East, Oceania, and Europe. Sawn timber from the Mesopotamia growing regions in northeastern Argentina is transported by road and rail to Buenos Aires for container loading and export.
 
 **Transit Times from Buenos Aires**
 
@@ -504,7 +504,7 @@ Typical ocean transit times from the Port of Buenos Aires to major destination p
 
 **Container Specifications**
 
-Pine lumber is typically shipped in 20-foot or 40-foot dry containers. Buyers should confirm fumigation and phytosanitary requirements with their customs broker before shipment.`,
+Pine timber is typically shipped in 20-foot or 40-foot dry containers. Buyers should confirm fumigation and phytosanitary requirements with their customs broker before shipment.`,
   },
   {
     slug: "kiln-drying-argentine-pine",
@@ -512,11 +512,11 @@ Pine lumber is typically shipped in 20-foot or 40-foot dry containers. Buyers sh
     date: "2025-06-30",
     category: "Products",
     excerpt: "An explanation of kiln drying for Argentine pine — why it matters, what moisture content to specify, and how to verify it.",
-    body: `Kiln drying is one of the most important processing steps for pine lumber and processed wood products, and it is a critical factor in the quality and performance of Argentine pine in service.
+    body: `Kiln drying is one of the most important processing steps for pine timber and processed wood products, and it is a critical factor in the quality and performance of Argentine pine in service.
 
 **Why Kiln Drying Matters**
 
-Freshly sawn pine timber contains a high proportion of free and bound water — typically 80–120% moisture content (MC) on a dry weight basis. Kiln drying reduces the moisture content to a level appropriate for the intended application, improving dimensional stability, durability, and workability.
+Freshly sawn pine wood contains a high proportion of free and bound water — typically 80–120% moisture content (MC) on a dry weight basis. Kiln drying reduces the moisture content to a level appropriate for the intended application, improving dimensional stability, durability, and workability.
 
 **What Moisture Content to Specify**
 
@@ -587,25 +587,25 @@ Furniture producers should pay particular attention to: moisture content (8–12
   },
   {
     slug: "container-loading-pine-lumber",
-    title: "Container Loading Guide for Pine Lumber",
+    title: "Container Loading Guide for Pine Timber",
     date: "2025-09-22",
     category: "Sourcing",
-    excerpt: "A practical guide to container loading for pine lumber — how to maximise container utilisation and what to specify for efficient loading.",
-    body: `Efficient container loading is important for buyers of pine lumber, as it directly affects the cost per cubic metre of product delivered to the destination port.
+    excerpt: "A practical guide to container loading for pine timber — how to maximise container utilisation and what to specify for efficient loading.",
+    body: `Efficient container loading is important for buyers of pine timber, as it directly affects the cost per cubic metre of product delivered to the destination port.
 
 **Container Types**
 
-Pine lumber is typically shipped in 20-foot or 40-foot dry containers. For most buyers, the 40-foot container offers the best value per cubic metre of product.
+Pine timber is typically shipped in 20-foot or 40-foot dry containers. For most buyers, the 40-foot container offers the best value per cubic metre of product.
 
 **Typical Container Loads**
 
-- 20-foot container: 18–25 m³ of pine lumber
-- 40-foot container: 38–50 m³ of pine lumber
-- 40-foot High Cube: 42–55 m³ of pine lumber
+- 20-foot container: 18–25 m³ of pine timber
+- 40-foot container: 38–50 m³ of pine timber
+- 40-foot High Cube: 42–55 m³ of pine timber
 
 **Fumigation**
 
-Most destination countries require pine lumber to be fumigated or heat-treated before import to prevent the introduction of wood-boring insects and other pests. The most common treatment is methyl bromide fumigation or heat treatment to ISPM 15 standards.`,
+Most destination countries require pine timber to be fumigated or heat-treated before import to prevent the introduction of wood-boring insects and other pests. The most common treatment is methyl bromide fumigation or heat treatment to ISPM 15 standards.`,
   },
   {
     slug: "argentine-pine-vs-new-zealand-radiata",
@@ -617,7 +617,7 @@ Most destination countries require pine lumber to be fumigated or heat-treated b
 
 **Quality Comparison**
 
-Both species produce high-quality timber suitable for a wide range of applications. New Zealand radiata pine is widely regarded as one of the most consistent and uniform plantation softwoods in the world. Argentine Pinus taeda is slightly denser and harder, with a more pronounced grain.
+Both species produce high-quality wood suitable for a wide range of applications. New Zealand radiata pine is widely regarded as one of the most consistent and uniform plantation softwoods in the world. Argentine Pinus taeda is slightly denser and harder, with a more pronounced grain.
 
 **Pricing**
 
@@ -629,19 +629,19 @@ For buyers with strict quality requirements and established supply chains, New Z
   },
   {
     slug: "pine-lumber-moisture-content-guide",
-    title: "Moisture Content in Pine Lumber: A Buyer's Guide",
+    title: "Moisture Content in Pine Wood: A Buyer's Guide",
     date: "2025-11-03",
     category: "Products",
-    excerpt: "Understanding moisture content in pine lumber — why it matters, how to specify it, and how to verify it on arrival.",
-    body: `Moisture content is one of the most important quality parameters for pine lumber and processed wood products.
+    excerpt: "Understanding moisture content in pine wood — why it matters, how to specify it, and how to verify it on arrival.",
+    body: `Moisture content is one of the most important quality parameters for pine wood and processed timber products.
 
 **What is Moisture Content?**
 
-Moisture content (MC) is the weight of water in timber expressed as a percentage of the dry weight of the wood. Freshly sawn pine timber typically has a moisture content of 80–120%.
+Moisture content (MC) is the weight of water in wood expressed as a percentage of the dry weight. Freshly sawn pine wood typically has a moisture content of 80–120%.
 
 **Why Does Moisture Content Matter?**
 
-Timber with too high a moisture content will continue to dry and shrink after installation, potentially causing gaps, warping, or splitting. Matching the moisture content of the timber to the equilibrium moisture content of the environment where it will be used is the key to dimensional stability in service.
+Wood with too high a moisture content will continue to dry and shrink after installation, potentially causing gaps, warping, or splitting. Matching the moisture content of the timber to the equilibrium moisture content of the environment where it will be used is the key to dimensional stability in service.
 
 **Recommended Moisture Content Levels**
 
@@ -720,23 +720,23 @@ Surface finish should be specified as: rough machined (RM), smooth machined (SM)
   },
   {
     slug: "pine-lumber-uses-construction",
-    title: "Pine Lumber in Construction: Applications and Grades",
+    title: "Pine Timber in Construction: Applications and Grades",
     date: "2026-02-16",
     category: "Products",
-    excerpt: "How pine lumber from Argentina is used in construction applications, and which grades are appropriate for different uses.",
-    body: `Pine lumber is one of the most versatile construction materials in the world, used in applications ranging from structural framing to interior fit-out.
+    excerpt: "How pine timber from Argentina is used in construction applications, and which grades are appropriate for different uses.",
+    body: `Pine timber is one of the most versatile construction materials in the world, used in applications ranging from structural framing to interior fit-out.
 
 **Structural Framing**
 
-Pine lumber is widely used for structural framing in residential and light commercial construction, including wall framing, floor joists, roof rafters, and beams. For structural applications, lumber must be graded to a recognised structural grading standard.
+Pine timber is widely used for structural framing in residential and light commercial construction, including wall framing, floor joists, roof rafters, and beams. For structural applications, timber must be graded to a recognised structural grading standard.
 
 **Interior Fit-Out**
 
-Pine lumber is widely used in interior fit-out applications, including door and window frames, stair components, shelving, and decorative trim. For these applications, appearance is important, and higher grades (Select or No. 1 Common) are typically specified.
+Pine timber is widely used in interior fit-out applications, including door and window frames, stair components, shelving, and decorative trim. For these applications, appearance is important, and higher grades (Select or No. 1 Common) are typically specified.
 
 **Packing and Crating**
 
-Lower-grade pine lumber (Utility or Economy grade) is widely used for packing cases, crates, and pallets. For these applications, structural performance is more important than appearance.`,
+Lower-grade pine wood (Utility or Economy grade) is widely used for packing cases, crates, and pallets. For these applications, structural performance is more important than appearance.`,
   },
   {
     slug: "sourcing-pine-mouldings-vietnam-buyers",
@@ -772,11 +772,11 @@ The most successful buyers build long-term relationships with their suppliers, w
 
 **Market Overview**
 
-The Middle East's construction boom has created strong demand for timber products across the region. Argentina has established itself as a reliable supplier of pine lumber, mouldings, and panels to buyers in Saudi Arabia, the UAE, Qatar, and other Gulf states.
+The Middle East's construction boom has created strong demand for timber products across the region. Argentina has established itself as a reliable supplier of pine timber, mouldings, and panels to buyers in Saudi Arabia, the UAE, Qatar, and other Gulf states.
 
 **Key Applications**
 
-Pine lumber is used in construction for formwork and temporary structures. Pine mouldings, finger joint products, and panels are widely used in interior fit-out applications. A growing furniture manufacturing sector in Saudi Arabia, UAE, and Egypt uses Argentine pine panels and lumber.
+Pine timber is used in construction for formwork and temporary structures. Pine mouldings, finger joint products, and panels are widely used in interior fit-out applications. A growing furniture manufacturing sector in Saudi Arabia, UAE, and Egypt uses Argentine pine panels and sawn timber.
 
 **What Middle Eastern Buyers Look For**
 
