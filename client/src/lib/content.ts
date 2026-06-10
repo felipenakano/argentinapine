@@ -6,7 +6,7 @@ export const PRODUCT_IMAGES: Record<string, string> = {
   "pine-mouldings": "https://d2xsxph8kpxj0f.cloudfront.net/310519663536877726/Tzc2WoRPUavmHoeUZjteAe/pine-mouldings-YR6gNyeXNvEqodfVDq7fb5.webp",
   "finger-joint-mouldings": "https://d2xsxph8kpxj0f.cloudfront.net/310519663536877726/Tzc2WoRPUavmHoeUZjteAe/finger-joint-mouldings-3Y4FG8TFU9hTRsPt4jjYWt.webp",
   "panels-sheet-goods": "https://d2xsxph8kpxj0f.cloudfront.net/310519663536877726/Tzc2WoRPUavmHoeUZjteAe/pine-panels-n2UJybQ9sVpiAYqeoxWgnJ.webp",
-  "pallet-wood": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
+  "pallet-wood": "https://d2xsxph8kpxj0f.cloudfront.net/310519663536877726/Tzc2WoRPUavmHoeUZjteAe/pallet-wood-product-Qh39aPYkxFnFDxVXcDo8DJ.webp",
 };
 
 export const HERO_IMAGE = "https://d2xsxph8kpxj0f.cloudfront.net/310519663536877726/Tzc2WoRPUavmHoeUZjteAe/hero-pine-forest-XgRiG9fbVxGeZLeukbZW6z.webp";
@@ -139,8 +139,8 @@ export const products: Product[] = [
     specs: [
       { label: "Species", value: "Pinus taeda" },
       { label: "Moisture Content", value: "Green or HT (Heat Treated to ISPM 15)" },
-      { label: "Common Thicknesses", value: "19mm, 22mm, 25mm" },
-      { label: "Common Widths", value: "75mm, 100mm, 125mm, 150mm" },
+      { label: "Common Thicknesses", value: "15mm, 16mm, 17mm, 18mm, 19mm, 22mm, 25mm" },
+      { label: "Common Widths", value: "75mm, 88mm, 95mm, 100mm, 125mm, 150mm" },
       { label: "Common Lengths", value: "800mm, 1000mm, 1100mm, 1200mm, custom" },
       { label: "Surface Finish", value: "Rough Sawn (RS)" },
       { label: "Treatment", value: "Untreated or ISPM 15 Heat Treatment (HT mark available)" },
@@ -155,7 +155,6 @@ export const products: Product[] = [
     grades: [
       { name: "Pallet Grade A", desc: "Consistent dimensions, minimal wane, suitable for standard export pallets and reusable pallet programmes." },
       { name: "Pallet Grade B", desc: "Some wane and minor defects permitted. Suitable for one-way export pallets and general packaging." },
-      { name: "Industrial / Millrun", desc: "Mixed dimensions and grade as it comes from the mill. Suitable for low-cost packaging and blocking applications." },
     ],
     cta: "Inquire About Pallet Wood",
   },

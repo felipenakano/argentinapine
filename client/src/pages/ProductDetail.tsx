@@ -108,26 +108,6 @@ export default function ProductDetail({ params }: Props) {
                 </p>
               </div>
 
-              {/* Uses */}
-              <div>
-                <h2
-                  className="font-display text-2xl font-semibold mb-5"
-                  style={{ color: "var(--pine-green)" }}
-                >
-                  {t.products.uses}
-                </h2>
-                <ul className="space-y-3">
-                  {product.uses.map(use => (
-                    <li key={use} className="flex items-start gap-3">
-                      <CheckCircle2 size={18} className="mt-0.5 shrink-0" style={{ color: "var(--pine-green)" }} />
-                      <span className="text-sm" style={{ color: "#3a3a38", fontFamily: "'Lato', sans-serif" }}>
-                        {use}
-                      </span>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-
               {/* Grades */}
               <div>
                 <h2
@@ -158,6 +138,26 @@ export default function ProductDetail({ params }: Props) {
                     </div>
                   ))}
                 </div>
+              </div>
+
+              {/* Uses */}
+              <div>
+                <h2
+                  className="font-display text-2xl font-semibold mb-5"
+                  style={{ color: "var(--pine-green)" }}
+                >
+                  {t.products.uses}
+                </h2>
+                <ul className="space-y-3">
+                  {product.uses.map(use => (
+                    <li key={use} className="flex items-start gap-3">
+                      <CheckCircle2 size={18} className="mt-0.5 shrink-0" style={{ color: "var(--pine-green)" }} />
+                      <span className="text-sm" style={{ color: "#3a3a38", fontFamily: "'Lato', sans-serif" }}>
+                        {use}
+                      </span>
+                    </li>
+                  ))}
+                </ul>
               </div>
 
               {/* Other products */}
