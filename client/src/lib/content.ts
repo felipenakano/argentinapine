@@ -139,7 +139,7 @@ export const products: Product[] = [
     specs: [
       { label: "Species", value: "Pinus taeda" },
       { label: "Moisture Content", value: "Green or HT (Heat Treated to ISPM 15)" },
-      { label: "Common Thicknesses", value: "15mm, 16mm, 17mm, 18mm, 19mm, 22mm, 25mm" },
+      { label: "Common Thicknesses", value: "15mm, 16mm, 17mm, 18mm, 19mm, 20mm" },
       { label: "Common Widths", value: "75mm, 88mm, 95mm, 100mm, 125mm, 150mm" },
       { label: "Common Lengths", value: "800mm, 1000mm, 1100mm, 1200mm, custom" },
       { label: "Surface Finish", value: "Rough Sawn (RS)" },
