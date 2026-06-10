@@ -149,7 +149,7 @@ export default function Contact() {
                 <ul className="space-y-2.5">
                   {[
                     "Product type (lumber, mouldings, panels, finger joint)",
-                    "Species preference (Pinus taeda, Pinus elliottii, or no preference)",
+                    "Species preference (Pinus taeda or no preference)",
                     "Dimensions required (thickness × width × length)",
                     "Grade required",
                     "Moisture content required",
