@@ -30,7 +30,7 @@ export const products: Product[] = [
     description: "Argentine pine timber is produced from Pinus taeda grown in the Mesopotamia region of northeastern Argentina. This species produces a light-coloured, straight-grained wood that is easy to machine, glue, and finish. Sawn timber is available in rough-sawn (RS) form, with kiln-dried (KD) options available from most major mills. Also available as pine lumber in standard dimensional sizes.",
     specs: [
       { label: "Species", value: "Pinus taeda" },
-      { label: "Moisture Content", value: "KD 12–18% or Green" },
+      { label: "Moisture Content", value: "KD 12–18%" },
       { label: "Common Thicknesses", value: "19mm, 25mm, 38mm, 50mm" },
       { label: "Common Widths", value: "75mm, 100mm, 150mm, 200mm" },
       { label: "Common Lengths", value: "1.8m, 2.4m, 3.0m, 3.6m, 4.2m, 4.8m, 5.4m, 6.0m" },
@@ -135,15 +135,15 @@ export const products: Product[] = [
     slug: "pallet-wood",
     title: "Pallet Wood",
     shortDesc: "Argentine Pinus taeda cut stock and boards for pallet and packaging manufacture.",
-    description: "Argentine pine pallet wood is produced from Pinus taeda and supplied as cut-to-length boards and notched components for pallet manufacturers. Material is available green (undried) or heat-treated to ISPM 15 standards, making it suitable for export packaging applications worldwide. Consistent dimensions, straight grain, and competitive pricing make Argentine pine a preferred raw material for pallet producers across Asia, the Middle East, and the Pacific.",
+    description: "Argentine pine pallet wood is produced from Pinus taeda and supplied as kiln-dried (KD) or heat-treated (HT) cut-to-length boards and notched components for pallet manufacturers. Heat-treated material meets ISPM 15 standards, making it suitable for export packaging applications worldwide. Consistent dimensions, straight grain, and competitive pricing make Argentine pine a preferred raw material for pallet producers across Asia, the Middle East, and the Pacific.",
     specs: [
       { label: "Species", value: "Pinus taeda" },
-      { label: "Moisture Content", value: "Green or HT (Heat Treated to ISPM 15)" },
+      { label: "Moisture Content", value: "KD 12–18%" },
       { label: "Common Thicknesses", value: "15mm, 16mm, 17mm, 18mm, 19mm, 20mm" },
       { label: "Common Widths", value: "75mm, 88mm, 95mm, 100mm, 125mm, 150mm" },
       { label: "Common Lengths", value: "800mm, 1000mm, 1100mm, 1200mm, custom" },
       { label: "Surface Finish", value: "Rough Sawn (RS)" },
-      { label: "Treatment", value: "Untreated or ISPM 15 Heat Treatment (HT mark available)" },
+      { label: "Treatment", value: "ISPM 15 Heat Treatment (HT mark available)" },
     ],
     uses: [
       "Pallet deck boards and stringer boards",
@@ -242,7 +242,7 @@ Pinus taeda has moderate mechanical properties for a plantation softwood, making
 
 **Durability**
 
-Untreated Pinus taeda has low natural durability and is susceptible to fungal decay and insect attack in exposed or high-moisture environments. For exterior or ground-contact applications, treatment with preservative (CCA, ACQ, or equivalent) is required.
+Pinus taeda has low natural durability and is susceptible to fungal decay and insect attack in exposed or high-moisture environments. For exterior or ground-contact applications, treatment with preservative (CCA, ACQ, or equivalent) is required.
 
 **Treatability**
 
@@ -253,7 +253,6 @@ Pinus taeda is highly treatable with preservative chemicals due to its permeable
 The species machines cleanly with standard tooling. It glues well with PVA, MUF, and epoxy adhesives. It accepts nails, screws, and mechanical fasteners without splitting when pre-drilled. The timber sands to a smooth finish and accepts paint, primer, and clear finishes without difficulty.`,
     propertiesTable: [
       { property: "Air-dry density", value: "480–560 kg/m³" },
-      { property: "Green density", value: "800–900 kg/m³" },
       { property: "Janka hardness (air dry)", value: "~870 lbf (3,870 N)" },
       { property: "Modulus of Rupture (MOR)", value: "70–90 MPa" },
       { property: "Modulus of Elasticity (MOE)", value: "10,000–13,000 MPa" },
