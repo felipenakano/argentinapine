@@ -85,6 +85,12 @@ export default function SourcingDetail({ params }: Props) {
           <h1 className="font-display text-4xl md:text-5xl font-semibold" style={{ color: "#fff" }}>
             {page.title}
           </h1>
+          {page.slug === "ports-logistics" && (
+            <div className="mt-4 inline-flex items-center gap-2 px-3 py-1.5 rounded-full" style={{ backgroundColor: "rgba(255,255,255,0.12)", border: "1px solid rgba(255,255,255,0.2)" }}>
+              <span style={{ fontSize: "1rem", lineHeight: 1 }}>🇦🇷</span>
+              <span className="font-mono-label text-xs" style={{ color: "rgba(255,255,255,0.85)", letterSpacing: "0.1em" }}>PORT OF BUENOS AIRES</span>
+            </div>
+          )}
         </div>
       </section>
 

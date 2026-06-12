@@ -117,6 +117,19 @@ export default function Home() {
                   </div>
                 ))}
               </div>
+              {/* Argentina origin badge */}
+              <div
+                className="mt-4 pt-4 flex items-center justify-center gap-2"
+                style={{ borderTop: "1px solid var(--border-warm)" }}
+              >
+                <span style={{ fontSize: "1.25rem", lineHeight: 1 }}>🇦🇷</span>
+                <span
+                  className="font-mono-label text-xs tracking-widest uppercase"
+                  style={{ color: "var(--pine-green)", letterSpacing: "0.12em" }}
+                >
+                  {t.home.originBadge}
+                </span>
+              </div>
             </div>
           </div>
         </div>

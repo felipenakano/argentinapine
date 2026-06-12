@@ -64,6 +64,7 @@ export const enTranslations = {
     ctaTitle: "Ready to Source Argentine Pine?",
     ctaBody: "Send us your specifications and we will provide product information, typical pricing ranges, and sourcing guidance.",
     ctaBtn: "Send an Inquiry",
+    originBadge: "Sourced from Argentina",
     stats: [
       { value: "900K+", label: "Hectares of plantation pine" },
       { value: "3", label: "Main growing provinces" },
@@ -164,6 +165,7 @@ export const viTranslations: Translations = {
     ctaTitle: "Sẵn Sàng Thu Mua Gỗ Thông Argentina?",
     ctaBody: "Gửi thông số kỹ thuật của bạn và chúng tôi sẽ cung cấp thông tin sản phẩm, mức giá tham khảo và hướng dẫn thu mua.",
     ctaBtn: "Gửi Yêu Cầu",
+    originBadge: "Xuất xứ từ Argentina",
     stats: [
       { value: "900K+", label: "Héc-ta đồn điền thông" },
       { value: "3", label: "Tỉnh trồng thông chính" },
@@ -264,6 +266,7 @@ export const filTranslations: Translations = {
     ctaTitle: "Handa na Bang Kumuha ng Pine mula Argentina?",
     ctaBody: "Ipadala ang inyong mga detalye at magbibigay kami ng impormasyon ng produkto, mga tipikal na hanay ng presyo, at gabay sa pagkuha.",
     ctaBtn: "Magpadala ng Katanungan",
+    originBadge: "Pinagmulan: Argentina",
     stats: [
       { value: "900K+", label: "Ektarya ng plantation pine" },
       { value: "3", label: "Pangunahing lalawigan" },
@@ -364,6 +367,7 @@ export const zhTranslations: Translations = {
     ctaTitle: "准备好采购阿根廷松木了吗？",
     ctaBody: "请发送您的产品规格，我们将为您提供产品信息、参考价格区间及采购指导。",
     ctaBtn: "发送询价",
+    originBadge: "产地：阿根廷",
     stats: [
       { value: "900K+", label: "公顷人工林松木" },
       { value: "3", label: "主要种植省份" },
