@@ -75,7 +75,7 @@ export const enTranslations = {
     whyPoints: [
       { title: "Consistent Quality", body: "Argentine pine plantations are managed to international forestry standards, producing uniform, well-graded timber with predictable moisture content and dimensional tolerances." },
       { title: "Competitive Pricing", body: "Lower land and labour costs relative to North American and European producers make Argentine pine one of the most cost-effective softwood options for Asian and Pacific buyers." },
-      { title: "Established Export Infrastructure", body: "Argentina's northeastern ports are well-equipped for container loading of pine timber and processed wood products, with regular liner services to Asia, the Middle East, and the Pacific." },
+      { title: "Established Export Infrastructure", body: "The Port of Buenos Aires is well-equipped for container loading of pine timber and processed wood products, with regular liner services to Asia, the Middle East, Central America, and the Pacific." },
       { title: "Broad Product Range", body: "From rough-sawn sawn timber and dressed boards to precision finger joint mouldings and laminated panels, Argentine mills offer a wide range of value-added pine wood products ready for export." },
     ],
   },
@@ -177,7 +177,7 @@ export const viTranslations: Translations = {
     whyPoints: [
       { title: "Chất Lượng Đồng Đều", body: "Các đồn điền thông Argentina được quản lý theo tiêu chuẩn lâm nghiệp quốc tế, tạo ra gỗ đồng đều với độ ẩm và dung sai kích thước có thể dự đoán được." },
       { title: "Giá Cạnh Tranh", body: "Chi phí đất đai và lao động thấp hơn so với các nhà sản xuất Bắc Mỹ và châu Âu khiến gỗ thông Argentina trở thành lựa chọn gỗ mềm tiết kiệm nhất cho người mua châu Á và Thái Bình Dương." },
-      { title: "Cơ Sở Hạ Tầng Xuất Khẩu Đã Được Thiết Lập", body: "Các cảng đông bắc Argentina được trang bị tốt để đóng container gỗ thông xẻ (sawn timber) và các sản phẩm gỗ chế biến, với các tuyến vận chuyển thường xuyên đến châu Á, Trung Đông và Thái Bình Dương." },
+      { title: "Cơ Sở Hạ Tầng Xuất Khẩu Đã Được Thiết Lập", body: "Cảng Buenos Aires được trang bị tốt để đóng container gỗ thông xẻ (sawn timber) và các sản phẩm gỗ chế biến, với các tuyến vận chuyển thường xuyên đến châu Á, Trung Đông, Trung Mỹ và Thái Bình Dương." },
       { title: "Đa Dạng Sản Phẩm", body: "Từ gỗ thông xẻ thô (sawn timber) và ván đã bào đến khuôn gỗ ghép ngón chính xác và tấm ván ép, các xưởng Argentina cung cấp nhiều loại sản phẩm gỗ có giá trị gia tăng sẵn sàng để xuất khẩu." },
     ],
   },
@@ -279,7 +279,7 @@ export const filTranslations: Translations = {
     whyPoints: [
       { title: "Pare-parehong Kalidad", body: "Ang mga plantation ng pine sa Argentina ay pinamamahalaan ayon sa mga internasyonal na pamantayan sa kagubatan, na gumagawa ng pare-pareho, mahusay na na-grade na kahoy." },
       { title: "Mapagkumpitensyang Presyo", body: "Ang mas mababang gastos sa lupa at paggawa kumpara sa mga producer sa Hilagang Amerika at Europa ay nagpapagawa sa pine mula Argentina na isa sa mga pinaka-cost-effective na softwood na opsyon." },
-      { title: "Naitatag na Export Infrastructure", body: "Ang mga daungan sa hilagang-silangan ng Argentina ay mahusay na nilagyan ng kagamitan para sa container loading ng pine timber at mga processed na produktong kahoy." },
+      { title: "Naitatag na Export Infrastructure", body: "Ang Port of Buenos Aires ay mahusay na nilagyan ng kagamitan para sa container loading ng pine timber at mga processed na produktong kahoy, na may regular na liner services patungong Asya, Gitnang Silangan, Gitnang Amerika, at Pasipiko." },
       { title: "Malawak na Hanay ng Produkto", body: "Mula sa rough-sawn sawn timber at dressed boards hanggang sa precision finger joint mouldings at laminated panels, nag-aalok ang mga mill sa Argentina ng malawak na hanay ng value-added na mga produktong kahoy." },
     ],
   },
@@ -381,7 +381,7 @@ export const zhTranslations: Translations = {
     whyPoints: [
       { title: "品质稳定", body: "阿根廷松木人工林按照国际林业标准管理，出产规格一致、分级良好的木材，含水率和尺寸公差可预测。" },
       { title: "价格具有竞争力", body: "与北美和欧洲生产商相比，阿根廷较低的土地和劳动力成本使阿根廷松木成为亚洲和太平洋地区买家最具成本效益的软木选择之一。" },
-      { title: "成熟的出口基础设施", body: "阿根廷东北部港口具备完善的松木材（pine timber）及木制品集装箱装载设施，定期开通前往亚洲、中东和太平洋地区的航线。" },
+      { title: "成熟的出口基础设施", body: "布宜诺斯艾利斯港具备完善的松木材（pine timber）及木制品集装箱装载设施，定期开通前往亚洲、中东、中美洲和太平洋地区的航线。" },
       { title: "产品种类丰富", body: "从粗锯材（sawn timber）和刨光板到精密指接线条和层压板，阿根廷工厂提供多种增值木制品，可直接出口。" },
     ],
   },
