@@ -394,25 +394,33 @@ Entre Ríos, the southernmost of the three main pine-growing provinces, has a sm
     date: "2025-02-24",
     category: "Products",
     excerpt: "A practical guide to Argentine pine timber grading — what the grades mean, how they are assessed, and which grade is right for your application.",
-    body: `Timber grading is one of the most important factors in sourcing pine products, yet it is also one of the most frequently misunderstood. This post explains the main grading systems used for Argentine pine timber and provides practical guidance for buyers.
+    body: `Timber grading is one of the most important factors in sourcing pine products, yet it is also one of the most frequently misunderstood. This post explains the grading system used for Argentine pine sawn timber and provides practical guidance for international buyers.
 
-**How Argentine Pine is Graded**
+**How Argentine Pine Timber is Graded**
 
-Argentine pine timber is typically graded visually, with graders assessing each piece for knots, grain deviation, warp, bow, twist, splits, and other defects. Argentina does not have a single national grading standard, so grading terminology can vary between mills. However, most Argentine exporters use a broadly consistent set of grade descriptions.
+Argentine pine timber is graded visually. Graders assess each piece for knots, grain deviation, pith, warp, bow, twist, splits, and other defects. Most Argentine exporters use a broadly consistent set of grade descriptions, which are outlined below from highest to lowest.
 
-**Common Grade Descriptions**
+**Clears**
 
-*Select / Clear:* The highest grade, with minimal or no knots and straight grain. Suitable for furniture, joinery, and applications where appearance is critical.
+The highest appearance grade. Clears are free of knots and pith, with straight, consistent grain. This grade is specified for applications where the natural wood surface will be visible — furniture faces, joinery, and high-end interior fit-out. Expect a significant price premium over lower grades.
 
-*No. 1 Common:* Small, tight knots are permitted, but the piece must be otherwise free of significant defects. Suitable for furniture carcassing, general joinery, and construction.
+**COL-A / COL-Select**
 
-*No. 2 Common:* Larger knots and minor defects are permitted. Suitable for general construction, framing, and applications where structural performance is more important than appearance.
+A high-quality structural and appearance grade. COL-A / COL-Select pieces are free of pith and contain only small, tight knots. This grade is well-suited to paint-grade joinery, furniture carcassing, and applications where dimensional stability and a clean surface are required but a fully clear face is not essential. It represents the best value for most B2B buyers.
 
-*Utility / Economy:* The lowest grade, with significant defects permitted. Suitable for packing, crating, and low-grade construction.
+**Millrun**
 
-**Practical Guidance**
+Mixed grade as it comes from the mill, without sorting by appearance. Millrun includes a range of knot sizes and minor defects. It is suitable for general construction, framing, and structural applications where appearance is secondary to structural performance. Millrun is the most common grade for volume orders and offers the most competitive pricing.
 
-When ordering Argentine pine timber, buyers should specify the grade required for their application and request sample pieces or photographs before committing to a large order.`,
+**Industrial**
+
+The lowest grade, with significant defects permitted. Industrial-grade timber is suitable for packing, crating, pallet components, and low-grade construction where structural integrity is the only requirement. It is not suitable for visible applications.
+
+**Practical Guidance for Buyers**
+
+When ordering Argentine pine timber, specify the grade clearly in your purchase order. If you are unsure which grade suits your application, request sample pieces or photographs before committing to a container order. Most mills can supply Clears and COL-A / COL-Select in kiln-dried (KD) form; Millrun and Industrial are typically available KD or heat-treated (HT) depending on end use.
+
+For pallet and packaging applications, see our separate Pallet Wood product page, which covers specific pallet grades and ISPM 15 heat treatment options.`,
   },
   {
     slug: "pine-mouldings-argentina-export",
