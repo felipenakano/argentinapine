@@ -418,7 +418,7 @@ The lowest grade, with significant defects permitted. Industrial-grade timber is
 
 **Practical Guidance for Buyers**
 
-When ordering Argentine pine timber, specify the grade clearly in your purchase order. If you are unsure which grade suits your application, request sample pieces or photographs before committing to a container order. Most mills can supply Clears and COL-A / COL-Select in kiln-dried (KD) form; Millrun and Industrial are typically available KD or heat-treated (HT) depending on end use.
+When ordering Argentine pine timber, specify the grade clearly in your purchase order. Most mills can supply Clears and COL-A / COL-Select in kiln-dried (KD) form; Millrun and Industrial are typically available KD or heat-treated (HT) depending on end use.
 
 For pallet and packaging applications, see our separate Pallet Wood product page, which covers specific pallet grades and ISPM 15 heat treatment options.`,
   },
@@ -502,9 +502,9 @@ Before approaching suppliers, prepare a clear specification for the pine timber 
 
 Argentina has dozens of pine exporters, ranging from large integrated mills to smaller specialist producers. Potential suppliers can be identified through trade directories, industry associations, trade fairs, and through sourcing agents with experience in the Argentine market.
 
-**Step 3: Request Samples and Quotes**
+**Step 3: Request Quotations**
 
-Request product samples and quotations. Samples should be assessed for grade, moisture content, surface finish, and dimensional accuracy.
+Request quotations from shortlisted suppliers. Quotations should clearly state grade, moisture content, surface finish, dimensions, and dimensional accuracy.
 
 **Step 4: Conduct Due Diligence**
 
@@ -739,7 +739,7 @@ The overall outlook for Argentine pine exports is positive, with growing product
 
 **Profile Dimensions**
 
-The most important dimension for a moulding is the profile — the cross-sectional shape of the finished piece. For standard profiles, buyers can reference the profile by name and provide a cross-section drawing. For custom profiles, a full-size drawing or a physical sample piece should be provided.
+The most important dimension for a moulding is the profile — the cross-sectional shape of the finished piece. For standard profiles, buyers can reference the profile by name and provide a cross-section drawing. For custom profiles, a full-size drawing or a detailed cross-section specification should be provided.
 
 **Dimensional Tolerances**
 
@@ -791,7 +791,7 @@ Vietnamese furniture manufacturers should prioritise: moisture content (12–15%
 
 **Common Pitfalls**
 
-Always request and inspect samples before placing a large order. Allow sufficient lead time (6–12 weeks for production items). Provide a clear, written specification for all products ordered.
+Allow sufficient lead time (6–12 weeks for production items). Provide a clear, written specification for all products ordered. Confirm grade, moisture content, and surface finish in writing before the order is placed.
 
 **Building a Long-Term Relationship**
 
