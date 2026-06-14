@@ -99,7 +99,7 @@ export default function Home() {
               className="rounded-lg p-8"
               style={{ backgroundColor: "var(--cream)", border: "1px solid var(--border-warm)" }}
             >
-              <div className="grid grid-cols-2 gap-6">
+              <div className="grid grid-cols-2 sm:grid-cols-3 gap-6">
                 {t.home.stats.map(stat => (
                   <div key={stat.label} className="text-center p-4">
                     <div

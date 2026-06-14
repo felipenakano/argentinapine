@@ -68,6 +68,7 @@ export const enTranslations = {
     stats: [
       { value: "900K+", label: "Hectares of plantation pine" },
       { value: "3", label: "Main growing provinces" },
+      { value: "50+", label: "Active sawmills" },
       { value: "4", label: "Export product categories" },
       { value: "20+", label: "Key export markets" },
     ],
@@ -169,6 +170,7 @@ export const viTranslations: Translations = {
     stats: [
       { value: "900K+", label: "Héc-ta đồn điền thông" },
       { value: "3", label: "Tỉnh trồng thông chính" },
+      { value: "50+", label: "Xưởng cưa hoạt động" },
       { value: "4", label: "Danh mục sản phẩm xuất khẩu" },
       { value: "20+", label: "Thị trường xuất khẩu chính" },
     ],
@@ -270,6 +272,7 @@ export const filTranslations: Translations = {
     stats: [
       { value: "900K+", label: "Ektarya ng plantation pine" },
       { value: "3", label: "Pangunahing lalawigan" },
+      { value: "50+", label: "Mga aktibong sawmill" },
       { value: "4", label: "Kategorya ng produkto" },
       { value: "20+", label: "Mga pangunahing merkado" },
     ],
@@ -371,6 +374,7 @@ export const zhTranslations: Translations = {
     stats: [
       { value: "900K+", label: "公顷人工林松木" },
       { value: "3", label: "主要种植省份" },
+      { value: "50+", label: "在营锯木厂" },
       { value: "4", label: "出口产品类别" },
       { value: "20+", label: "主要出口市场" },
     ],
