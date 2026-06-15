@@ -5,7 +5,7 @@ import { useState } from "react";
 import { Link, useLocation } from "wouter";
 import { useLang } from "@/contexts/LangContext";
 import { LANGUAGES, LANGUAGE_PATH_PREFIX, getPathForLang, Language, getLangFromPath } from "@/lib/i18n";
-import { Menu, X, ChevronDown, Globe } from "lucide-react";
+import { Menu, X, ChevronDown } from "lucide-react";
 
 const LOGO_TEXT = "ArgentinaPine";
 const LOGO_TLD = ".com";
@@ -75,12 +75,12 @@ export default function Header() {
             <div className="relative">
               <button
                 onClick={() => setLangOpen(!langOpen)}
-                className="flex items-center gap-1.5 font-mono-label text-xs transition-colors"
-                style={{ color: "rgba(255,255,255,0.75)" }}
+                className="flex items-center gap-1.5 font-mono-label text-xs transition-colors hover:opacity-100"
+                style={{ color: "rgba(255,255,255,0.85)" }}
                 aria-label="Switch language"
               >
-                <Globe size={14} />
-                <span>{currentLang?.nativeLabel ?? 'EN'}</span>
+                <span className="text-base leading-none">{currentLang?.flag}</span>
+                <span className="tracking-wide">{currentLang?.nativeLabel ?? 'EN'}</span>
                 <ChevronDown size={12} className={`transition-transform ${langOpen ? "rotate-180" : ""}`} />
               </button>
               {langOpen && (
