@@ -45,12 +45,12 @@ export default function Footer() {
               {t.footer.tagline}
             </p>
             <a
-              href="mailto:inquiry@argentinapine.com"
+              href="mailto:ask@argentinapine.com"
               className="mt-4 flex items-center gap-2 text-sm transition-colors hover:text-white"
               style={{ color: "var(--amber-light)", fontFamily: "'Lato', sans-serif" }}
             >
               <Mail size={15} />
-              inquiry@argentinapine.com
+              ask@argentinapine.com
             </a>
           </div>
 

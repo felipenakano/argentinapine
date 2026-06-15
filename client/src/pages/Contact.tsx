@@ -130,12 +130,12 @@ export default function Contact() {
                   Email Us Directly
                 </h2>
                 <a
-                  href="mailto:inquiry@argentinapine.com"
+                  href="mailto:ask@argentinapine.com"
                   className="inline-flex items-center gap-2 text-base font-medium"
                   style={{ color: "var(--amber)", fontFamily: "'Lato', sans-serif" }}
                 >
                   <Mail size={18} />
-                  inquiry@argentinapine.com
+                  ask@argentinapine.com
                 </a>
               </div>
 

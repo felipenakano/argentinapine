@@ -118,7 +118,7 @@ export const enTranslations = {
   contact: {
     title: "Contact & Inquiry",
     intro: "Send us your product specifications and we will provide information, typical pricing guidance, and sourcing support.",
-    email: "inquiry@argentinapine.com",
+    email: "ask@argentinapine.com",
     name: "Name",
     company: "Company",
     country: "Country",
@@ -220,7 +220,7 @@ export const viTranslations: Translations = {
   contact: {
     title: "Liên Hệ & Yêu Cầu",
     intro: "Gửi thông số kỹ thuật sản phẩm của bạn và chúng tôi sẽ cung cấp thông tin, hướng dẫn giá tham khảo và hỗ trợ thu mua.",
-    email: "inquiry@argentinapine.com",
+    email: "ask@argentinapine.com",
     name: "Họ Tên",
     company: "Công Ty",
     country: "Quốc Gia",
@@ -322,7 +322,7 @@ export const filTranslations: Translations = {
   contact: {
     title: "Makipag-ugnayan at Katanungan",
     intro: "Ipadala ang inyong mga detalye ng produkto at magbibigay kami ng impormasyon, tipikal na gabay sa presyo, at suporta sa pagkuha.",
-    email: "inquiry@argentinapine.com",
+    email: "ask@argentinapine.com",
     name: "Pangalan",
     company: "Kumpanya",
     country: "Bansa",
@@ -424,7 +424,7 @@ export const zhTranslations: Translations = {
   contact: {
     title: "联系与询价",
     intro: "请发送您的产品规格，我们将为您提供产品信息、参考价格指导及采购支持。",
-    email: "inquiry@argentinapine.com",
+    email: "ask@argentinapine.com",
     name: "姓名",
     company: "公司",
     country: "国家",
