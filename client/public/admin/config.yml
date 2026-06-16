@@ -1,0 +1,145 @@
+# ArgentinaPine.com — Decap CMS Configuration
+# Backend: Netlify Git Gateway (requires Netlify Identity enabled on the deployed site)
+
+backend:
+  name: git-gateway
+  branch: main
+
+# Media uploads — stored in the repo under client/public/uploads
+media_folder: "client/public/uploads"
+public_folder: "/uploads"
+
+# Site URL shown in the CMS header
+site_url: https://argentinapine.com
+display_url: https://argentinapine.com
+logo_url: /favicon-32.png
+
+# Locale for the CMS UI
+locale: en
+
+collections:
+  # ─────────────────────────────────────────────
+  # BLOG POSTS
+  # ─────────────────────────────────────────────
+  - name: "blog"
+    label: "Blog Posts"
+    label_singular: "Blog Post"
+    folder: "content/blog"
+    create: true
+    slug: "{{slug}}"
+    identifier_field: title
+    summary: "{{title}} — {{date}} [{{fields.language}}]"
+    sortable_fields: ["date", "title", "fields.language", "fields.category"]
+    view_filters:
+      - label: "English"
+        field: language
+        pattern: "en"
+      - label: "Vietnamese"
+        field: language
+        pattern: "vi"
+      - label: "Filipino"
+        field: language
+        pattern: "fil"
+      - label: "Chinese (Simplified)"
+        field: language
+        pattern: "zh"
+      - label: "Species"
+        field: category
+        pattern: "Species"
+      - label: "Products"
+        field: category
+        pattern: "Products"
+      - label: "Sourcing"
+        field: category
+        pattern: "Sourcing"
+      - label: "Market Intelligence"
+        field: category
+        pattern: "Market Intelligence"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        hint: "The full post title as it appears on the page and in search results."
+
+      - label: "Slug"
+        name: "slug"
+        widget: "string"
+        hint: "URL-friendly identifier, e.g. argentine-pine-timber-grades-explained. Use lowercase letters, numbers, and hyphens only."
+        pattern:
+          - "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          - "Lowercase letters, numbers, and hyphens only — no spaces or special characters."
+
+      - label: "Publish Date"
+        name: "date"
+        widget: "datetime"
+        format: "YYYY-MM-DD"
+        date_format: "YYYY-MM-DD"
+        time_format: false
+        hint: "The date this post was or will be published."
+
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Species", value: "Species" }
+          - { label: "Products", value: "Products" }
+          - { label: "Sourcing", value: "Sourcing" }
+          - { label: "Market Intelligence", value: "Market Intelligence" }
+        hint: "Select the primary category for this post."
+
+      - label: "Language"
+        name: "language"
+        widget: "select"
+        options:
+          - { label: "English (EN)", value: "en" }
+          - { label: "Tiếng Việt (VI)", value: "vi" }
+          - { label: "Filipino (FIL)", value: "fil" }
+          - { label: "中文 — Chinese Simplified (ZH)", value: "zh" }
+        default: "en"
+        hint: "The language this post is written in. Each language version should be a separate post entry."
+
+      - label: "Featured Image"
+        name: "featuredImage"
+        widget: "image"
+        required: false
+        hint: "Upload a featured image for this post. Recommended size: 1200×630px, JPEG or WebP."
+        media_library:
+          config:
+            multiple: false
+
+      - label: "Excerpt"
+        name: "excerpt"
+        widget: "text"
+        hint: "A short summary (1–2 sentences) shown on the blog listing page and in search engine previews. Keep under 160 characters for best SEO results."
+        pattern:
+          - ".{10,300}"
+          - "Excerpt must be between 10 and 300 characters."
+
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        hint: "The full post content. Use headings (H2, H3), bold text, and bullet lists to structure the content. Avoid H1 — the title field above is used as H1."
+        modes:
+          - rich_text
+          - raw
+
+  # ─────────────────────────────────────────────
+  # PRODUCTS (read-only reference — edit via code)
+  # ─────────────────────────────────────────────
+  - name: "products"
+    label: "Products (Reference)"
+    label_singular: "Product"
+    folder: "content/products"
+    create: false
+    delete: false
+    editor:
+      preview: false
+    fields:
+      - label: "Product Name"
+        name: "title"
+        widget: "string"
+      - label: "Notes"
+        name: "notes"
+        widget: "text"
+        required: false
+        hint: "Internal notes only — not displayed on the site."
