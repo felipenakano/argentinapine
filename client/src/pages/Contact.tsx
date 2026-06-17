@@ -1,20 +1,44 @@
 // ArgentinaPine.com — Contact Page
 // Design: Timber Atlas
+// Form submission: Netlify Forms → forwarded to ask@argentinapine.com
 
 import { useState } from "react";
 import { useLang } from "@/contexts/LangContext";
 import Layout from "@/components/Layout";
 import { Mail, CheckCircle2 } from "lucide-react";
 
+function encode(data: Record<string, string>) {
+  return Object.keys(data)
+    .map(key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
+    .join("&");
+}
+
 export default function Contact() {
   const { t } = useLang();
   const [submitted, setSubmitted] = useState(false);
+  const [submitting, setSubmitting] = useState(false);
+  const [error, setError] = useState("");
   const [form, setForm] = useState({ name: "", company: "", country: "", message: "" });
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    // In production this would POST to a backend / email service
-    setSubmitted(true);
+    setSubmitting(true);
+    setError("");
+
+    fetch("/", {
+      method: "POST",
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: encode({ "form-name": "contact", ...form }),
+    })
+      .then(() => {
+        setSubmitted(true);
+      })
+      .catch(() => {
+        setError("Something went wrong. Please email us directly at ask@argentinapine.com");
+      })
+      .finally(() => {
+        setSubmitting(false);
+      });
   };
 
   return (
@@ -36,6 +60,14 @@ export default function Contact() {
         </div>
       </section>
 
+      {/* Hidden form for Netlify bot detection — must match the real form fields exactly */}
+      <form name="contact" data-netlify="true" data-netlify-honeypot="bot-field" hidden>
+        <input type="text" name="name" />
+        <input type="text" name="company" />
+        <input type="text" name="country" />
+        <textarea name="message" />
+      </form>
+
       <section className="py-16" style={{ backgroundColor: "var(--warm-white)" }}>
         <div className="container">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16">
@@ -55,7 +87,18 @@ export default function Contact() {
                   </p>
                 </div>
               ) : (
-                <form onSubmit={handleSubmit} className="space-y-5">
+                <form
+                  name="contact"
+                  method="POST"
+                  data-netlify="true"
+                  data-netlify-honeypot="bot-field"
+                  onSubmit={handleSubmit}
+                  className="space-y-5"
+                >
+                  {/* Netlify hidden fields */}
+                  <input type="hidden" name="form-name" value="contact" />
+                  <p hidden><input name="bot-field" /></p>
+
                   {[
                     { key: "name", label: t.contact.name, type: "text", required: true },
                     { key: "company", label: t.contact.company, type: "text", required: true },
@@ -70,6 +113,7 @@ export default function Contact() {
                       </label>
                       <input
                         type={field.type}
+                        name={field.key}
                         required={field.required}
                         value={form[field.key as keyof typeof form]}
                         onChange={e => setForm(f => ({ ...f, [field.key]: e.target.value }))}
@@ -95,6 +139,7 @@ export default function Contact() {
                     </label>
                     <textarea
                       required
+                      name="message"
                       rows={6}
                       value={form.message}
                       onChange={e => setForm(f => ({ ...f, message: e.target.value }))}
@@ -111,11 +156,20 @@ export default function Contact() {
                     />
                   </div>
 
-                  <button type="submit" className="btn-pine w-full justify-center">
-                    {t.contact.submit}
+                  {error && (
+                    <p className="text-sm" style={{ color: "#c0392b", fontFamily: "'Lato', sans-serif" }}>
+                      {error}
+                    </p>
+                  )}
+
+                  <button
+                    type="submit"
+                    disabled={submitting}
+                    className="btn-pine w-full justify-center"
+                    style={{ opacity: submitting ? 0.7 : 1 }}
+                  >
+                    {submitting ? "Sending…" : t.contact.submit}
                   </button>
-
-
                 </form>
               )}
             </div>
@@ -146,7 +200,7 @@ export default function Contact() {
                 </h3>
                 <ul className="space-y-2.5">
                   {[
-                    "Product type (lumber, mouldings, panels, finger joint)",
+                    "Product type (timber, mouldings, panels, finger joint)",
                     "Species preference (Pinus taeda or no preference)",
                     "Dimensions required (thickness × width × length)",
                     "Grade required",

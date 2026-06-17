@@ -10,3 +10,16 @@
   from = "/*"
   to = "/index.html"
   status = 200
+
+[[plugins]]
+  package = "@netlify/plugin-emails"
+
+[forms]
+  [forms.contact]
+    success_url = "/"
+
+[[notifications.email]]
+  event = "submission_created"
+  form = "contact"
+  to = "ask@argentinapine.com"
+  subject = "New inquiry from ArgentinaPine.com"
