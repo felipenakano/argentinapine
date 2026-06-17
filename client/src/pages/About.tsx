@@ -39,7 +39,6 @@ export default function About() {
                 The site covers the full range of Argentine pine timber and wood products available for export, including sawn timber and boards, pine mouldings, finger joint mouldings, and panels and sheet goods. Content is produced by specialists with direct experience in the Argentine pine export market.
               </p>
               <p className="text-base leading-relaxed mb-8" style={{ color: "#3a3a38", fontFamily: "'Lato', sans-serif" }}>
-                ArgentinaPine.com is operated by New Zealand Lumber Exports Limited, an independent pine sourcing specialist.
               </p>
               <Link href={`${prefix}/contact`} className="btn-pine">
                 {t.nav.inquire} <ArrowRight size={16} />
