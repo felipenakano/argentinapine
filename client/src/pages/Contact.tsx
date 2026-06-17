@@ -115,9 +115,7 @@ export default function Contact() {
                     {t.contact.submit}
                   </button>
 
-                  <p className="text-xs" style={{ color: "var(--warm-gray-light)", fontFamily: "'Lato', sans-serif" }}>
-                    {t.contact.disclosure}
-                  </p>
+
                 </form>
               )}
             </div>

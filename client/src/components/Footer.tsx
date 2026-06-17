@@ -105,9 +105,7 @@ export default function Footer() {
           <p className="text-xs" style={{ color: "rgba(255,255,255,0.4)", fontFamily: "'Lato', sans-serif" }}>
             © {year} ArgentinaPine.com. {t.footer.rights}
           </p>
-          <p className="text-xs max-w-lg" style={{ color: "rgba(255,255,255,0.35)", fontFamily: "'Lato', sans-serif" }}>
-            {t.footer.disclosure}
-          </p>
+
         </div>
       </div>
     </footer>
