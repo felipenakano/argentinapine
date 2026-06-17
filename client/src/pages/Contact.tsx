@@ -18,7 +18,7 @@ export default function Contact() {
   const [submitted, setSubmitted] = useState(false);
   const [submitting, setSubmitting] = useState(false);
   const [error, setError] = useState("");
-  const [form, setForm] = useState({ name: "", company: "", country: "", message: "" });
+  const [form, setForm] = useState({ name: "", company: "", email: "", country: "", message: "" });
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
@@ -102,6 +102,7 @@ export default function Contact() {
                   {[
                     { key: "name", label: t.contact.name, type: "text", required: true },
                     { key: "company", label: t.contact.company, type: "text", required: true },
+                    { key: "email", label: "Email Address", type: "email", required: true },
                     { key: "country", label: t.contact.country, type: "text", required: true },
                   ].map(field => (
                     <div key={field.key}>
@@ -143,7 +144,7 @@ export default function Contact() {
                       rows={6}
                       value={form.message}
                       onChange={e => setForm(f => ({ ...f, message: e.target.value }))}
-                      placeholder="Please describe the products you are looking for, including species, dimensions, grade, quantity, and destination port."
+                      placeholder="Please describe the products you are looking for, including dimensions, grade, quantity, and destination port."
                       className="w-full rounded px-4 py-3 text-sm outline-none transition-all resize-none"
                       style={{
                         border: "1.5px solid var(--border-warm)",
