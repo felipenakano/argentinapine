@@ -1,12 +1,20 @@
 // ArgentinaPine.com — Blog Post Page
 // Design: Timber Atlas
+// JSON-LD: Article schema + BreadcrumbList for every blog post
 
 import { Link } from "wouter";
 import { useLang } from "@/contexts/LangContext";
 import { LANGUAGE_PATH_PREFIX } from "@/lib/i18n";
 import Layout from "@/components/Layout";
+import SEOHead from "@/components/SEOHead";
+import JsonLd from "@/components/JsonLd";
 import { blogPosts } from "@/lib/content";
 import { ArrowLeft, ArrowRight } from "lucide-react";
+
+const BASE_URL = "https://www.argentinapine.com";
+const SITE_NAME = "ArgentinaPine.com";
+const LOGO_URL = "https://d2xsxph8kpxj0f.cloudfront.net/310519663536877726/Tzc2WoRPUavmHoeUZjteAe/logo-icon-transparent-WJFxiLYFJGqHLMhMPMPCHN.png";
+const PUBLISHER_URL = BASE_URL;
 
 interface Props {
   params: { slug: string };
@@ -110,8 +118,84 @@ export default function BlogPost({ params }: Props) {
     .filter(p => p.slug !== post.slug && p.category === post.category)
     .slice(0, 3);
 
+  const canonicalUrl = `${BASE_URL}/blog/${post.slug}`;
+  // Strip HTML anchor tags from excerpt for plain-text description
+  const plainExcerpt = post.excerpt.replace(/<[^>]+>/g, "");
+
+  // ── JSON-LD: Article ────────────────────────────────────────────────────────
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: post.title,
+    description: plainExcerpt,
+    datePublished: post.date,
+    dateModified: post.date,
+    url: canonicalUrl,
+    inLanguage: "en",
+    articleSection: post.category,
+    author: {
+      "@type": "Organization",
+      name: SITE_NAME,
+      url: PUBLISHER_URL,
+    },
+    publisher: {
+      "@type": "Organization",
+      name: SITE_NAME,
+      url: PUBLISHER_URL,
+      logo: {
+        "@type": "ImageObject",
+        url: LOGO_URL,
+        width: 512,
+        height: 512,
+      },
+    },
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": canonicalUrl,
+    },
+    isPartOf: {
+      "@type": "Blog",
+      name: `${SITE_NAME} Blog`,
+      url: `${BASE_URL}/blog`,
+    },
+  };
+
+  // ── JSON-LD: BreadcrumbList ─────────────────────────────────────────────────
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: BASE_URL,
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Blog",
+        item: `${BASE_URL}/blog`,
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: post.title,
+        item: canonicalUrl,
+      },
+    ],
+  };
+
   return (
     <Layout>
+      <SEOHead
+        title={post.title}
+        description={plainExcerpt}
+        canonical={canonicalUrl}
+      />
+      <JsonLd id={`article-${post.slug}`} schema={articleSchema} />
+      <JsonLd id={`breadcrumb-blog-${post.slug}`} schema={breadcrumbSchema} />
+
       <section
         className="py-14"
         style={{ background: "linear-gradient(135deg, var(--pine-green) 0%, var(--pine-green-dark) 100%)" }}

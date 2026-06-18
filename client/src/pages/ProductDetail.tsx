@@ -1,12 +1,19 @@
 // ArgentinaPine.com — Product Detail Page
 // Design: Timber Atlas
+// JSON-LD: Product schema + BreadcrumbList for every product detail page
 
 import { Link } from "wouter";
 import { useLang } from "@/contexts/LangContext";
 import { LANGUAGE_PATH_PREFIX } from "@/lib/i18n";
 import Layout from "@/components/Layout";
+import SEOHead from "@/components/SEOHead";
+import JsonLd from "@/components/JsonLd";
 import { products, PRODUCT_IMAGES } from "@/lib/content";
 import { ArrowLeft, ArrowRight, CheckCircle2 } from "lucide-react";
+
+const BASE_URL = "https://www.argentinapine.com";
+const SITE_NAME = "ArgentinaPine.com";
+const LOGO_URL = "https://d2xsxph8kpxj0f.cloudfront.net/310519663536877726/Tzc2WoRPUavmHoeUZjteAe/logo-icon-transparent-WJFxiLYFJGqHLMhMPMPCHN.png";
 
 interface Props {
   params: { slug: string };
@@ -30,8 +37,85 @@ export default function ProductDetail({ params }: Props) {
     );
   }
 
+  const canonicalUrl = `${BASE_URL}/products/${product.slug}`;
+  const imageUrl = PRODUCT_IMAGES[product.slug] ?? LOGO_URL;
+
+  // ── JSON-LD: Product ────────────────────────────────────────────────────────
+  const productSchema = {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    name: product.title,
+    description: product.description,
+    image: imageUrl,
+    url: canonicalUrl,
+    brand: {
+      "@type": "Brand",
+      name: SITE_NAME,
+    },
+    manufacturer: {
+      "@type": "Organization",
+      name: SITE_NAME,
+      url: BASE_URL,
+      logo: {
+        "@type": "ImageObject",
+        url: LOGO_URL,
+      },
+    },
+    material: "Pinus taeda (Argentine plantation pine)",
+    additionalProperty: product.specs.map(spec => ({
+      "@type": "PropertyValue",
+      name: spec.label,
+      value: spec.value,
+    })),
+    offers: {
+      "@type": "Offer",
+      priceCurrency: "USD",
+      availability: "https://schema.org/InStock",
+      seller: {
+        "@type": "Organization",
+        name: SITE_NAME,
+        url: BASE_URL,
+      },
+      url: `${BASE_URL}/contact`,
+    },
+  };
+
+  // ── JSON-LD: BreadcrumbList ─────────────────────────────────────────────────
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: BASE_URL,
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Products",
+        item: `${BASE_URL}/products`,
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: product.title,
+        item: canonicalUrl,
+      },
+    ],
+  };
+
   return (
     <Layout>
+      <SEOHead
+        title={product.title}
+        description={product.shortDesc}
+        canonical={canonicalUrl}
+      />
+      <JsonLd id={`product-${product.slug}`} schema={productSchema} />
+      <JsonLd id={`breadcrumb-product-${product.slug}`} schema={breadcrumbSchema} />
+
       {/* Breadcrumb + header */}
       <section
         className="py-14"
@@ -59,7 +143,7 @@ export default function ProductDetail({ params }: Props) {
             <div className="lg:col-span-2 space-y-6">
               <div className="rounded-lg overflow-hidden" style={{ border: "1px solid var(--border-warm)" }}>
                 <img
-                  src={PRODUCT_IMAGES[product.slug]}
+                  src={imageUrl}
                   alt={product.title}
                   className="w-full object-cover"
                   style={{ height: "280px" }}
