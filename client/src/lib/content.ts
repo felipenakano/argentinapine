@@ -362,11 +362,11 @@ Argentina's pine plantations are concentrated in three northeastern provinces: M
 
 **The Products**
 
-Argentine mills produce a comprehensive range of pine products for export, from rough-sawn sawn timber and kiln-dried boards to precision mouldings, finger joint products, and laminated panels. The industry has invested significantly in value-added processing capacity over the past two decades.
+Argentine mills produce a comprehensive range of pine products for export, from <a href="/products/lumber-boards">rough-sawn sawn timber and kiln-dried boards</a> to <a href="/products/pine-mouldings">precision mouldings</a>, <a href="/products/finger-joint-mouldings">finger joint products</a>, and <a href="/products/panels-sheet-goods">laminated panels</a>. The industry has invested significantly in value-added processing capacity over the past two decades.
 
 **Why It Matters**
 
-For buyers in Asia, the Middle East, and the Pacific, Argentine pine offers a reliable, consistent, and cost-competitive alternative to North American southern yellow pine, European spruce, and New Zealand radiata pine.`,
+For buyers in Asia, the Middle East, and the Pacific, Argentine pine offers a reliable, consistent, and cost-competitive alternative to North American southern yellow pine, European spruce, and New Zealand radiata pine. Read our <a href="/sourcing/argentine-pine-export-overview">Argentine pine export overview</a> for a full picture of production volumes and key markets, or <a href="/contact">contact us</a> to discuss your requirements.`,
   },
   {
     slug: "pinus-taeda-growing-regions-argentina",
@@ -374,7 +374,7 @@ For buyers in Asia, the Middle East, and the Pacific, Argentine pine offers a re
     date: "2025-02-03",
     category: "Species",
     excerpt: "A geographic overview of Argentina's Pinus taeda plantation regions — Misiones, Corrientes, and Entre Ríos.",
-    body: `Argentina's Pinus taeda plantations are concentrated in the Mesopotamia region — the area between the Paraná and Uruguay rivers in northeastern Argentina. This geographic overview covers the three main pine-growing provinces.
+    body: `Argentina's Pinus taeda plantations are concentrated in the Mesopotamia region — the area between the Paraná and Uruguay rivers in northeastern Argentina. This geographic overview covers the three main pine-growing provinces. For a technical profile of the species itself, see our <a href="/species/what-is-pinus-taeda">Pinus taeda species guide</a>.
 
 **Misiones**
 
@@ -386,7 +386,7 @@ Corrientes province, to the southwest of Misiones, has a significant and growing
 
 **Entre Ríos**
 
-Entre Ríos, the southernmost of the three main pine-growing provinces, has a smaller plantation area but contributes to Argentina's overall pine production. The province's cooler climate results in slower-growing timber with tighter growth rings.`,
+Entre Ríos, the southernmost of the three main pine-growing provinces, has a smaller plantation area but contributes to Argentina's overall pine production. The province's cooler climate results in slower-growing timber with tighter growth rings. All timber from these regions is exported through the <a href="/sourcing/argentine-pine-ports-logistics">Port of Buenos Aires</a>. To request a quotation for <a href="/products/lumber-boards">sawn timber</a> or other products, <a href="/contact">contact our team</a>.`,
   },
   {
     slug: "argentine-pine-lumber-grades-explained",
@@ -418,9 +418,9 @@ The lowest grade, with significant defects permitted. Industrial-grade timber is
 
 **Practical Guidance for Buyers**
 
-When ordering Argentine pine timber, specify the grade clearly in your purchase order. Most mills can supply Clears and COL-A / COL-Select in kiln-dried (KD) form; Millrun and Industrial are typically available KD or heat-treated (HT) depending on end use.
+When ordering <a href="/products/lumber-boards">Argentine pine timber</a>, specify the grade clearly in your purchase order. Most mills can supply Clears and COL-A / COL-Select in kiln-dried (KD) form; Millrun and Industrial are typically available KD or heat-treated (HT) depending on end use.
 
-For pallet and packaging applications, see our separate Pallet Wood product page, which covers specific pallet grades and ISPM 15 heat treatment options.`,
+For pallet and packaging applications, see our <a href="/products/pallet-wood">Pallet Wood product page</a>, which covers specific pallet grades and ISPM 15 heat treatment options. For moulding and joinery grades, see the <a href="/products/pine-mouldings">Pine Mouldings</a> and <a href="/products/finger-joint-mouldings">Finger Joint Mouldings</a> pages. To discuss grade requirements for your application, <a href="/contact">contact us</a>.`,
   },
   {
     slug: "pine-mouldings-argentina-export",
@@ -428,15 +428,15 @@ For pallet and packaging applications, see our separate Pallet Wood product page
     date: "2025-03-17",
     category: "Products",
     excerpt: "A buyer's guide to Argentine pine mouldings — profiles, grades, specifications, and what to look for when sourcing.",
-    body: `Argentine pine mouldings have become an increasingly important export product over the past decade, with growing demand from furniture manufacturers and joinery producers in Vietnam, China, and other Asian markets.
+    body: `Argentine <a href="/products/pine-mouldings">pine mouldings</a> have become an increasingly important export product over the past decade, with growing demand from furniture manufacturers and joinery producers in Vietnam, China, and other Asian markets.
 
 **What Profiles Are Available?**
 
-Argentine mills produce a wide range of standard moulding profiles, including architrave, skirting, scotia, ogee, ovolo, pencil round, and various bead and cove profiles. Most mills can also produce custom profiles to buyer specification.
+Argentine mills produce a wide range of standard moulding profiles, including architrave, skirting, scotia, ogee, ovolo, pencil round, and various bead and cove profiles. Most mills can also produce custom profiles to buyer specification. All profiles are machined from kiln-dried <a href="/species/what-is-pinus-taeda">Pinus taeda</a>.
 
 **Solid vs Finger Joint**
 
-Argentine pine mouldings are available in solid (produced from a single piece of timber) and finger joint (produced by end-joining short, clear pieces) forms. Finger joint mouldings are generally preferred for paint-grade applications because they are more dimensionally stable and free of knots.
+Argentine pine mouldings are available in solid (produced from a single piece of timber) and <a href="/products/finger-joint-mouldings">finger joint</a> (produced by end-joining short, clear pieces) forms. Finger joint mouldings are generally preferred for paint-grade applications because they are more dimensionally stable and free of knots.
 
 **Surface Finish Options**
 
@@ -444,7 +444,7 @@ Argentine mouldings are available in smooth machined, sanded, and primed surface
 
 **Minimum Order Quantities**
 
-Most mills require a minimum of one 20-foot container per order (approximately 15–20 cubic metres of product). For custom profiles, minimum quantities may be higher.`,
+Most mills require a minimum of one 20-foot container per order (approximately 15–20 cubic metres of product). For custom profiles, minimum quantities may be higher. See our <a href="/blog/pine-mouldings-specifications-guide">moulding specification guide</a> for full technical details, or <a href="/contact">contact us</a> to request a quotation.`,
   },
   {
     slug: "finger-joint-mouldings-guide",
@@ -452,19 +452,19 @@ Most mills require a minimum of one 20-foot container per order (approximately 1
     date: "2025-04-07",
     category: "Products",
     excerpt: "Everything buyers need to know about finger joint pine mouldings — how they are made, why they are preferred for paint-grade applications, and what to specify.",
-    body: `Finger joint mouldings are one of the most widely used products in interior joinery, and Argentine pine is one of the most popular raw materials for their production.
+    body: `<a href="/products/finger-joint-mouldings">Finger joint mouldings</a> are one of the most widely used products in interior joinery, and Argentine pine is one of the most popular raw materials for their production.
 
 **How Finger Joint Mouldings Are Made**
 
-Finger joint mouldings are produced by cutting short, clear pieces of kiln-dried pine into precise finger-shaped profiles at each end, then joining them end-to-end using structural adhesive under pressure. The resulting product is a long, continuous piece of timber that is free of knots and other defects.
+Finger joint mouldings are produced by cutting short, clear pieces of kiln-dried <a href="/species/what-is-pinus-taeda">Pinus taeda</a> into precise finger-shaped profiles at each end, then joining them end-to-end using structural adhesive under pressure. The resulting product is a long, continuous piece of timber that is free of knots and other defects.
 
 **Why Finger Joint for Paint-Grade Applications?**
 
-Finger joint mouldings offer several advantages over solid mouldings for paint-grade applications. They are produced from clear, defect-free timber, ensuring a smooth surface that accepts paint without the need for filling or sanding around knots. They are also more dimensionally stable because the finger jointing process randomises the orientation of the wood grain.
+Finger joint mouldings offer several advantages over <a href="/products/pine-mouldings">solid mouldings</a> for paint-grade applications. They are produced from clear, defect-free timber, ensuring a smooth surface that accepts paint without the need for filling or sanding around knots. They are also more dimensionally stable because the finger jointing process randomises the orientation of the wood grain.
 
 **Key Specifications to Confirm**
 
-When ordering finger joint mouldings from Argentina, buyers should confirm: adhesive type, moisture content at time of shipment, profile dimensions and tolerances, surface finish, and packaging method.`,
+When ordering finger joint mouldings from Argentina, buyers should confirm: adhesive type, moisture content at time of shipment, profile dimensions and tolerances, surface finish, and packaging method. For a full technical specification checklist, see our <a href="/blog/pine-mouldings-specifications-guide">moulding specification guide</a>. To request pricing, <a href="/contact">contact us</a>.`,
   },
   {
     slug: "edge-glued-panels-argentina",
@@ -472,11 +472,11 @@ When ordering finger joint mouldings from Argentina, buyers should confirm: adhe
     date: "2025-04-28",
     category: "Products",
     excerpt: "A guide to Argentine edge-glued pine panels — production process, specifications, grades, and applications.",
-    body: `Edge-glued pine panels (EGP) are one of Argentina's most rapidly growing export products, with strong demand from furniture manufacturers in Asia and the Middle East.
+    body: `<a href="/products/panels-sheet-goods">Edge-glued pine panels</a> (EGP) are one of Argentina's most rapidly growing export products, with strong demand from furniture manufacturers in Asia and the Middle East.
 
 **What is an Edge Glued Panel?**
 
-An edge-glued panel is produced by gluing narrow strips of kiln-dried pine together along their long edges to form a wide, flat panel. The strips are selected for colour and grain consistency, arranged to minimise visual variation, and then glued under pressure.
+An edge-glued panel is produced by gluing narrow strips of kiln-dried <a href="/species/what-is-pinus-taeda">Pinus taeda</a> together along their long edges to form a wide, flat panel. The strips are selected for colour and grain consistency, arranged to minimise visual variation, and then glued under pressure.
 
 **Specifications**
 
@@ -484,7 +484,7 @@ Argentine EGP is available in a range of thicknesses (typically 12mm, 18mm, 25mm
 
 **Applications**
 
-Argentine EGP is used in furniture and joinery applications including tabletops, shelving, cabinet components, stair treads, and benchtops. The product's combination of dimensional stability, workability, and competitive pricing makes it a popular choice for furniture manufacturers in Vietnam, China, and other Asian markets.`,
+Argentine EGP is used in furniture and joinery applications including tabletops, shelving, cabinet components, stair treads, and benchtops. The product's combination of dimensional stability, workability, and competitive pricing makes it a popular choice for furniture manufacturers in Vietnam, China, and other Asian markets. See our <a href="/blog/pine-panels-furniture-manufacturing">pine panels in furniture manufacturing</a> article for application-specific guidance, or <a href="/contact">contact us</a> to request a quotation.`,
   },
   {
     slug: "sourcing-pine-from-argentina-first-time-buyers",
@@ -492,11 +492,11 @@ Argentine EGP is used in furniture and joinery applications including tabletops,
     date: "2025-05-19",
     category: "Sourcing",
     excerpt: "A practical guide for buyers sourcing Argentine pine for the first time — how to find suppliers, what to specify, and how to manage the process.",
-    body: `Sourcing pine from Argentina for the first time can seem daunting, but with the right preparation and guidance, the process is straightforward.
+    body: `Sourcing pine from Argentina for the first time can seem daunting, but with the right preparation and guidance, the process is straightforward. Our <a href="/sourcing/argentine-pine-export-overview">Argentine pine export overview</a> provides useful background on the industry before you begin.
 
 **Step 1: Define Your Requirements**
 
-Before approaching suppliers, prepare a clear specification for the pine timber or wood products you need. This should include: species, product type, dimensions, grade, moisture content, surface finish, and packaging requirements.
+Before approaching suppliers, prepare a clear specification for the pine timber or wood products you need. This should include: species (all Argentine exports are <a href="/species/what-is-pinus-taeda">Pinus taeda</a>), product type, dimensions, grade, moisture content, surface finish, and packaging requirements.
 
 **Step 2: Identify Potential Suppliers**
 
@@ -504,15 +504,15 @@ Argentina has dozens of pine exporters, ranging from large integrated mills to s
 
 **Step 3: Request Quotations**
 
-Request quotations from shortlisted suppliers. Quotations should clearly state grade, moisture content, surface finish, dimensions, and dimensional accuracy.
+Request quotations from shortlisted suppliers. Quotations should clearly state grade, moisture content, surface finish, dimensions, and dimensional accuracy. Browse our <a href="/products/lumber-boards">product range</a> to understand the full scope of available products.
 
 **Step 4: Conduct Due Diligence**
 
-Before placing an order, verify the supplier's export registration, request references from other buyers, and check for relevant certifications.
+Before placing an order, verify the supplier's export registration, request references from other buyers, and check for relevant certifications. For sustainability requirements, see our <a href="/blog/fsc-certified-pine-argentina">FSC certification guide</a>.
 
 **Step 5: Place Your Order**
 
-Place your order with a clear written purchase order specifying all agreed specifications, quantities, prices, and delivery terms.`,
+Place your order with a clear written purchase order specifying all agreed specifications, quantities, prices, and delivery terms. You can also <a href="/contact">contact us directly</a> to discuss your sourcing requirements.`,
   },
   {
     slug: "argentina-pine-export-ports-guide",
@@ -520,11 +520,11 @@ Place your order with a clear written purchase order specifying all agreed speci
     date: "2025-06-09",
     category: "Sourcing",
     excerpt: "An overview of the main ports used for Argentine pine exports — location, facilities, and what buyers need to know.",
-    body: `Understanding Argentina's export port infrastructure is important for buyers planning to source pine products from the country.
+    body: `Understanding Argentina's export port infrastructure is important for buyers planning to source pine products from the country. For a full logistics overview including container specifications and documentation, see our <a href="/sourcing/argentine-pine-ports-logistics">Ports & Logistics sourcing guide</a>.
 
 **The Port of Buenos Aires**
 
-All Argentine pine exports are shipped through the Port of Buenos Aires (Puerto de Buenos Aires), Argentina's primary container port. The port is well-equipped for container handling of pine timber and processed wood products, with regular liner services to Asia, the Middle East, Oceania, and Europe. Sawn timber from the Mesopotamia growing regions in northeastern Argentina is transported by road and rail to Buenos Aires for container loading and export.
+All Argentine pine exports are shipped through the Port of Buenos Aires (Puerto de Buenos Aires), Argentina's primary container port. The port is well-equipped for container handling of <a href="/products/lumber-boards">pine timber</a> and processed wood products, with regular liner services to Asia, the Middle East, Oceania, and Europe. Sawn timber from the Mesopotamia growing regions in northeastern Argentina is transported by road and rail to Buenos Aires for container loading and export.
 
 **Transit Times from Buenos Aires**
 
@@ -539,7 +539,7 @@ Typical ocean transit times from the Port of Buenos Aires to major destination p
 
 **Container Specifications**
 
-Pine timber is typically shipped in 20-foot or 40-foot dry containers. Buyers should confirm fumigation and phytosanitary requirements with their customs broker before shipment.`,
+Pine timber is typically shipped in 20-foot or 40-foot dry containers. For detailed container loading guidance, see our <a href="/blog/container-loading-pine-lumber">container loading guide</a>. Buyers should confirm fumigation and phytosanitary requirements with their customs broker — see our <a href="/blog/phytosanitary-requirements-pine-imports">phytosanitary requirements guide</a> for an overview.`,
   },
   {
     slug: "kiln-drying-argentine-pine",
@@ -547,7 +547,7 @@ Pine timber is typically shipped in 20-foot or 40-foot dry containers. Buyers sh
     date: "2025-06-30",
     category: "Products",
     excerpt: "An explanation of kiln drying for Argentine pine — why it matters, what moisture content to specify, and how to verify it.",
-    body: `Kiln drying is one of the most important processing steps for pine timber and processed wood products, and it is a critical factor in the quality and performance of Argentine pine in service.
+    body: `Kiln drying is one of the most important processing steps for <a href="/products/lumber-boards">pine timber</a> and processed wood products, and it is a critical factor in the quality and performance of Argentine pine in service.
 
 **Why Kiln Drying Matters**
 
@@ -560,9 +560,11 @@ As a general guide:
 - General construction in temperate climates: 15–19% MC
 - Exterior applications (before treatment): 18–22% MC
 
+For a more detailed breakdown of moisture content specifications by product type, see our <a href="/blog/pine-lumber-moisture-content-guide">moisture content buyer's guide</a>.
+
 **How to Verify Moisture Content**
 
-Moisture content can be verified using a calibrated pin-type or capacitance-type moisture meter. For large shipments, buyers should request a moisture content certificate from the supplier.`,
+Moisture content can be verified using a calibrated pin-type or capacitance-type moisture meter. For large shipments, buyers should request a moisture content certificate from the supplier. All <a href="/products/lumber-boards">Timber & Boards</a> and <a href="/products/pine-mouldings">mouldings</a> supplied through ArgentinaPine are kiln-dried to specification. <a href="/contact">Contact us</a> to discuss moisture content requirements for your application.`,
   },
   {
     slug: "fsc-certified-pine-argentina",
@@ -578,11 +580,11 @@ FSC certification is an independent, third-party certification system that verif
 
 **FSC in Argentina**
 
-A growing number of Argentina's pine plantations and processing mills hold FSC certification. FSC-certified plantation area in Argentina has expanded significantly over the past decade, driven by demand from export markets — particularly in Europe and North America.
+A growing number of Argentina's pine plantations and processing mills hold FSC certification. FSC-certified plantation area in Argentina has expanded significantly over the past decade, driven by demand from export markets — particularly in Europe and North America. All certified timber is grown in the <a href="/blog/pinus-taeda-growing-regions-argentina">Mesopotamia plantation regions</a> of northeastern Argentina.
 
 **How to Source FSC-Certified Argentine Pine**
 
-Buyers seeking FSC-certified Argentine pine should specify this requirement in their purchase inquiry and request a copy of the supplier's FSC Chain of Custody certificate. Buyers can verify the authenticity of FSC certificates through the FSC certificate database at info.fsc.org.`,
+Buyers seeking FSC-certified Argentine pine should specify this requirement in their purchase inquiry and request a copy of the supplier's FSC Chain of Custody certificate. Buyers can verify the authenticity of FSC certificates through the FSC certificate database at info.fsc.org. FSC-certified material is available across our full range, including <a href="/products/lumber-boards">Timber & Boards</a>, <a href="/products/pine-mouldings">Pine Mouldings</a>, and <a href="/products/panels-sheet-goods">Panels & Sheet Goods</a>. <a href="/contact">Contact us</a> to confirm availability for your order.`,
   },
   {
     slug: "pine-mouldings-vietnam-market",
@@ -590,19 +592,19 @@ Buyers seeking FSC-certified Argentine pine should specify this requirement in t
     date: "2025-08-11",
     category: "Market Intelligence",
     excerpt: "How Argentine pine mouldings are used in Vietnam's furniture and joinery industry, and what Vietnamese buyers look for.",
-    body: `Vietnam has become one of the most important markets for Argentine pine mouldings, with significant volumes imported annually for use in furniture manufacturing, interior joinery, and construction.
+    body: `Vietnam has become one of the most important markets for Argentine <a href="/products/pine-mouldings">pine mouldings</a>, with significant volumes imported annually for use in furniture manufacturing, interior joinery, and construction.
 
 **Vietnam's Wood Products Industry**
 
-Vietnam is one of the world's largest exporters of wood furniture and interior products, with a manufacturing industry that sources timber from a wide range of countries. Argentine pine has become an important raw material for Vietnamese furniture and joinery manufacturers.
+Vietnam is one of the world's largest exporters of wood furniture and interior products, with a manufacturing industry that sources timber from a wide range of countries. Argentine pine has become an important raw material for Vietnamese furniture and joinery manufacturers. For a deeper look at the sourcing process, see our guide to <a href="/blog/sourcing-pine-mouldings-vietnam-buyers">sourcing pine mouldings for Vietnamese furniture manufacturers</a>.
 
 **How Argentine Pine Mouldings Are Used**
 
-In Vietnam, Argentine pine mouldings are used primarily in furniture manufacturing (door frames, cabinet components, decorative trim), interior joinery (architraves, skirting boards, cornice mouldings), and construction.
+In Vietnam, Argentine pine mouldings are used primarily in furniture manufacturing (door frames, cabinet components, decorative trim), interior joinery (architraves, skirting boards, cornice mouldings), and construction. <a href="/products/finger-joint-mouldings">Finger joint mouldings</a> are particularly popular for paint-grade door and window components.
 
 **What Vietnamese Buyers Look For**
 
-Vietnamese buyers typically prioritise consistent quality, competitive pricing, reliable supply, and appropriate moisture content (12–15%) for Argentine pine mouldings.`,
+Vietnamese buyers typically prioritise consistent quality, competitive pricing, reliable supply, and appropriate moisture content (12–15%) for Argentine pine mouldings. For a full technical specification guide, see our <a href="/blog/pine-mouldings-specifications-guide">moulding specification article</a>. To discuss your requirements, <a href="/contact">contact us</a>.`,
   },
   {
     slug: "pine-panels-furniture-manufacturing",
@@ -610,15 +612,15 @@ Vietnamese buyers typically prioritise consistent quality, competitive pricing, 
     date: "2025-09-01",
     category: "Products",
     excerpt: "How Argentine pine panels are used in furniture manufacturing, and what specifications furniture producers should look for.",
-    body: `Argentine pine panels have become an important raw material for furniture manufacturers in Asia and the Middle East, offering a combination of workability, dimensional stability, and competitive pricing.
+    body: `Argentine <a href="/products/panels-sheet-goods">pine panels</a> have become an important raw material for furniture manufacturers in Asia and the Middle East, offering a combination of workability, dimensional stability, and competitive pricing.
 
 **Panel Types for Furniture**
 
-The most commonly used panel types in furniture manufacturing are edge-glued panels (EGP) and laminated boards. EGP is typically preferred because it has a more natural appearance and is suitable for both paint and stain finishes.
+The most commonly used panel types in furniture manufacturing are edge-glued panels (EGP) and laminated boards. EGP is typically preferred because it has a more natural appearance and is suitable for both paint and stain finishes. For a detailed overview of the EGP production process, see our <a href="/blog/edge-glued-panels-argentina">edge-glued panels guide</a>.
 
 **Key Specifications for Furniture Producers**
 
-Furniture producers should pay particular attention to: moisture content (8–12% for furniture applications), surface quality (sanded S2S), dimensional accuracy, and glue type (interior-grade PVA for most applications, exterior-grade MUF for moisture-exposed applications).`,
+Furniture producers should pay particular attention to: moisture content (8–12% for furniture applications), surface quality (sanded S2S), dimensional accuracy, and glue type (interior-grade PVA for most applications, exterior-grade MUF for moisture-exposed applications). All panels are produced from kiln-dried <a href="/species/what-is-pinus-taeda">Pinus taeda</a>. To request specifications or a quotation, <a href="/contact">contact us</a>.`,
   },
   {
     slug: "container-loading-pine-lumber",
@@ -626,7 +628,7 @@ Furniture producers should pay particular attention to: moisture content (8–12
     date: "2025-09-22",
     category: "Sourcing",
     excerpt: "A practical guide to container loading for pine timber — how to maximise container utilisation and what to specify for efficient loading.",
-    body: `Efficient container loading is important for buyers of pine timber, as it directly affects the cost per cubic metre of product delivered to the destination port.
+    body: `Efficient container loading is important for buyers of <a href="/products/lumber-boards">pine timber</a>, as it directly affects the cost per cubic metre of product delivered to the destination port. All Argentine pine exports depart from the <a href="/sourcing/argentine-pine-ports-logistics">Port of Buenos Aires</a>.
 
 **Container Types**
 
@@ -640,7 +642,7 @@ Pine timber is typically shipped in 20-foot or 40-foot dry containers. For most 
 
 **Fumigation**
 
-Most destination countries require pine timber to be fumigated or heat-treated before import to prevent the introduction of wood-boring insects and other pests. The most common treatment is methyl bromide fumigation or heat treatment to ISPM 15 standards.`,
+Most destination countries require pine timber to be fumigated or heat-treated before import to prevent the introduction of wood-boring insects and other pests. The most common treatment is methyl bromide fumigation or heat treatment to ISPM 15 standards. For a full overview of phytosanitary requirements by destination market, see our <a href="/blog/phytosanitary-requirements-pine-imports">phytosanitary requirements guide</a>. To discuss container loading and logistics for your order, <a href="/contact">contact us</a>.`,
   },
   {
     slug: "argentine-pine-vs-new-zealand-radiata",
@@ -648,7 +650,7 @@ Most destination countries require pine timber to be fumigated or heat-treated b
     date: "2025-10-13",
     category: "Market Intelligence",
     excerpt: "A detailed comparison of Argentine Pinus taeda and New Zealand Pinus radiata for international buyers — quality, pricing, availability, and applications.",
-    body: `Argentine Pinus taeda and New Zealand Pinus radiata are the two most widely traded plantation softwoods in the Asia-Pacific region.
+    body: `Argentine <a href="/species/what-is-pinus-taeda">Pinus taeda</a> and New Zealand Pinus radiata are the two most widely traded plantation softwoods in the Asia-Pacific region. For a detailed species-level comparison, see our <a href="/species/pinus-taeda-vs-radiata-pine">Pinus taeda vs Radiata Pine</a> species guide.
 
 **Quality Comparison**
 
@@ -660,7 +662,7 @@ Argentine pine is generally priced at a discount to New Zealand radiata pine, ty
 
 **Recommendation**
 
-For buyers with strict quality requirements and established supply chains, New Zealand radiata pine remains the benchmark. For buyers seeking a cost-competitive alternative without significant compromise on quality, Argentine Pinus taeda is an excellent option, particularly for paint-grade mouldings, finger joint products, and panels.`,
+For buyers with strict quality requirements and established supply chains, New Zealand radiata pine remains the benchmark. For buyers seeking a cost-competitive alternative without significant compromise on quality, Argentine Pinus taeda is an excellent option, particularly for paint-grade <a href="/products/pine-mouldings">mouldings</a>, <a href="/products/finger-joint-mouldings">finger joint products</a>, and <a href="/products/panels-sheet-goods">panels</a>. <a href="/contact">Contact us</a> to discuss switching your supply to Argentine pine.`,
   },
   {
     slug: "pine-lumber-moisture-content-guide",
@@ -668,7 +670,7 @@ For buyers with strict quality requirements and established supply chains, New Z
     date: "2025-11-03",
     category: "Products",
     excerpt: "Understanding moisture content in pine wood — why it matters, how to specify it, and how to verify it on arrival.",
-    body: `Moisture content is one of the most important quality parameters for pine wood and processed timber products.
+    body: `Moisture content is one of the most important quality parameters for <a href="/products/lumber-boards">pine timber</a> and processed wood products.
 
 **What is Moisture Content?**
 
@@ -676,14 +678,16 @@ Moisture content (MC) is the weight of water in wood expressed as a percentage o
 
 **Why Does Moisture Content Matter?**
 
-Wood with too high a moisture content will continue to dry and shrink after installation, potentially causing gaps, warping, or splitting. Matching the moisture content of the timber to the equilibrium moisture content of the environment where it will be used is the key to dimensional stability in service.
+Wood with too high a moisture content will continue to dry and shrink after installation, potentially causing gaps, warping, or splitting. Matching the moisture content of the timber to the equilibrium moisture content of the environment where it will be used is the key to dimensional stability in service. For a deeper explanation of the kiln-drying process itself, see our <a href="/blog/kiln-drying-argentine-pine">kiln drying guide</a>.
 
 **Recommended Moisture Content Levels**
 
 - Interior furniture and joinery in air-conditioned environments: 8–12%
 - Interior construction in temperate climates: 12–16%
 - General construction in tropical climates: 15–19%
-- Exterior applications (before treatment): 18–22%`,
+- Exterior applications (before treatment): 18–22%
+
+All products supplied through ArgentinaPine are kiln-dried (KD) to specification. This applies to <a href="/products/lumber-boards">Timber & Boards</a>, <a href="/products/pine-mouldings">Pine Mouldings</a>, <a href="/products/finger-joint-mouldings">Finger Joint Mouldings</a>, <a href="/products/panels-sheet-goods">Panels</a>, and <a href="/products/pallet-wood">Pallet Wood</a>. <a href="/contact">Contact us</a> to specify your moisture content requirements.`,
   },
   {
     slug: "phytosanitary-requirements-pine-imports",
@@ -691,7 +695,7 @@ Wood with too high a moisture content will continue to dry and shrink after inst
     date: "2025-11-24",
     category: "Sourcing",
     excerpt: "An overview of phytosanitary and biosecurity requirements for importing pine products from Argentina into key destination markets.",
-    body: `Phytosanitary and biosecurity requirements are an important consideration for buyers importing pine products from Argentina.
+    body: `Phytosanitary and biosecurity requirements are an important consideration for buyers importing pine products from Argentina. All shipments depart from the <a href="/sourcing/argentine-pine-ports-logistics">Port of Buenos Aires</a> with full export documentation.
 
 **What are Phytosanitary Requirements?**
 
@@ -703,7 +707,7 @@ ISPM 15 is an international standard that specifies approved treatments for wood
 
 **Requirements for Key Destination Markets**
 
-Vietnam, China, Australia, and New Zealand all require phytosanitary certificates and may require additional treatment for pine products. Buyers should confirm current requirements with their customs broker before ordering.`,
+Vietnam, China, Australia, and New Zealand all require phytosanitary certificates and may require additional treatment for pine products. Buyers should confirm current requirements with their customs broker before ordering. Our <a href="/products/pallet-wood">Pallet Wood</a> is available with ISPM 15 Heat Treatment (HT mark) for export packaging applications. For container loading and documentation requirements, see our <a href="/blog/container-loading-pine-lumber">container loading guide</a>. <a href="/contact">Contact us</a> to confirm treatment options for your shipment.`,
   },
   {
     slug: "argentina-pine-industry-outlook-2024",
@@ -711,15 +715,15 @@ Vietnam, China, Australia, and New Zealand all require phytosanitary certificate
     date: "2025-12-15",
     category: "Market Intelligence",
     excerpt: "An assessment of Argentina's pine industry outlook — production trends, investment, export growth, and key challenges.",
-    body: `Argentina's pine industry has experienced significant growth and transformation over the past decade, and the outlook for the coming years is broadly positive for international buyers.
+    body: `Argentina's pine industry has experienced significant growth and transformation over the past decade, and the outlook for the coming years is broadly positive for international buyers. For a full overview of Argentina's export infrastructure, see our <a href="/sourcing/argentine-pine-export-overview">Argentine pine export overview</a>.
 
 **Production Growth**
 
-Argentina's pine plantation area has grown steadily over the past two decades, supported by government incentives for afforestation and private investment. Investment in processing capacity has also been significant, with new sawmills, kiln-drying facilities, moulding plants, and panel mills coming online in recent years.
+Argentina's pine plantation area has grown steadily over the past two decades, supported by government incentives for afforestation and private investment. Investment in processing capacity has also been significant, with new sawmills, kiln-drying facilities, moulding plants, and panel mills coming online in recent years. The dominant species in all new plantings is <a href="/species/what-is-pinus-taeda">Pinus taeda</a>.
 
 **Export Growth**
 
-Argentine pine exports have grown significantly over the past decade, driven by demand from Asian markets — particularly Vietnam, China, and South Korea.
+Argentine pine exports have grown significantly over the past decade, driven by demand from Asian markets — particularly Vietnam, China, and South Korea. The full product range available for export includes <a href="/products/lumber-boards">sawn timber</a>, <a href="/products/pine-mouldings">mouldings</a>, <a href="/products/panels-sheet-goods">panels</a>, and <a href="/products/pallet-wood">pallet wood</a>.
 
 **Currency and Economic Challenges**
 
@@ -727,7 +731,7 @@ Argentina's chronic economic instability and currency volatility have been a per
 
 **Outlook**
 
-The overall outlook for Argentine pine exports is positive, with growing production, improving quality, and expanding export markets.`,
+The overall outlook for Argentine pine exports is positive, with growing production, improving quality, and expanding export markets. <a href="/contact">Contact us</a> to discuss how Argentine pine can fit into your supply chain.`,
   },
   {
     slug: "pine-mouldings-specifications-guide",
@@ -735,11 +739,11 @@ The overall outlook for Argentine pine exports is positive, with growing product
     date: "2026-01-19",
     category: "Products",
     excerpt: "A technical guide to specifying pine mouldings — profile dimensions, tolerances, moisture content, and surface finish.",
-    body: `Specifying pine mouldings correctly is essential for getting the product you need from your supplier.
+    body: `Specifying <a href="/products/pine-mouldings">pine mouldings</a> correctly is essential for getting the product you need from your supplier. This guide covers the key parameters to include in any moulding specification.
 
 **Profile Dimensions**
 
-The most important dimension for a moulding is the profile — the cross-sectional shape of the finished piece. For standard profiles, buyers can reference the profile by name and provide a cross-section drawing. For custom profiles, a full-size drawing or a detailed cross-section specification should be provided.
+The most important dimension for a moulding is the profile — the cross-sectional shape of the finished piece. For standard profiles, buyers can reference the profile by name and provide a cross-section drawing. For custom profiles, a full-size drawing or a detailed cross-section specification should be provided. For paint-grade applications, consider <a href="/products/finger-joint-mouldings">finger joint mouldings</a>, which offer superior dimensional stability.
 
 **Dimensional Tolerances**
 
@@ -747,11 +751,11 @@ Typical tolerances for pine mouldings are: Width and thickness ±0.5mm; Length +
 
 **Moisture Content**
 
-A typical specification for interior applications: "KD 12–15%, maximum 18% for any individual piece."
+A typical specification for interior applications: "KD 12–15%, maximum 18% for any individual piece." For a full explanation of moisture content and why it matters, see our <a href="/blog/pine-lumber-moisture-content-guide">moisture content guide</a>.
 
 **Surface Finish**
 
-Surface finish should be specified as: rough machined (RM), smooth machined (SM), sanded (S), or primed (P).`,
+Surface finish should be specified as: rough machined (RM), smooth machined (SM), sanded (S), or primed (P). To request a quotation based on your specification, <a href="/contact">contact us</a>.`,
   },
   {
     slug: "pine-lumber-uses-construction",
@@ -759,19 +763,19 @@ Surface finish should be specified as: rough machined (RM), smooth machined (SM)
     date: "2026-02-16",
     category: "Products",
     excerpt: "How pine timber from Argentina is used in construction applications, and which grades are appropriate for different uses.",
-    body: `Pine timber is one of the most versatile construction materials in the world, used in applications ranging from structural framing to interior fit-out.
+    body: `<a href="/products/lumber-boards">Pine timber</a> is one of the most versatile construction materials in the world, used in applications ranging from structural framing to interior fit-out. For a full explanation of the available grades, see our <a href="/blog/argentine-pine-lumber-grades-explained">timber grades guide</a>.
 
 **Structural Framing**
 
-Pine timber is widely used for structural framing in residential and light commercial construction, including wall framing, floor joists, roof rafters, and beams. For structural applications, timber must be graded to a recognised structural grading standard.
+Pine timber is widely used for structural framing in residential and light commercial construction, including wall framing, floor joists, roof rafters, and beams. For structural applications, timber must be graded to a recognised structural grading standard. Millrun and Industrial grades from our <a href="/products/lumber-boards">Timber & Boards</a> range are suitable for these applications.
 
 **Interior Fit-Out**
 
-Pine timber is widely used in interior fit-out applications, including door and window frames, stair components, shelving, and decorative trim. For these applications, appearance is important, and higher grades (Select or No. 1 Common) are typically specified.
+Pine timber is widely used in interior fit-out applications, including door and window frames, stair components, shelving, and decorative trim. For these applications, appearance is important, and Clears or COL-A / COL-Select grades are typically specified. <a href="/products/pine-mouldings">Pine mouldings</a> and <a href="/products/finger-joint-mouldings">finger joint mouldings</a> are ideal for architraves, skirting, and cornice profiles.
 
 **Packing and Crating**
 
-Lower-grade pine wood (Utility or Economy grade) is widely used for packing cases, crates, and pallets. For these applications, structural performance is more important than appearance.`,
+Lower-grade pine wood is widely used for packing cases, crates, and pallets. For these applications, structural performance is more important than appearance. See our dedicated <a href="/products/pallet-wood">Pallet Wood</a> page for cut-to-length pallet components with ISPM 15 heat treatment. <a href="/contact">Contact us</a> to discuss construction timber requirements.`,
   },
   {
     slug: "sourcing-pine-mouldings-vietnam-buyers",
@@ -779,23 +783,23 @@ Lower-grade pine wood (Utility or Economy grade) is widely used for packing case
     date: "2026-03-10",
     category: "Market Intelligence",
     excerpt: "A guide for Vietnamese furniture manufacturers sourcing pine mouldings from Argentina — what to look for, how to order, and common pitfalls.",
-    body: `Vietnamese furniture manufacturers are among the largest buyers of Argentine pine mouldings in the world.
+    body: `Vietnamese furniture manufacturers are among the largest buyers of Argentine <a href="/products/pine-mouldings">pine mouldings</a> in the world.
 
 **Why Argentine Pine?**
 
-Argentine pine mouldings offer Vietnamese furniture manufacturers a combination of consistent quality, competitive pricing, and a wide range of available profiles.
+Argentine pine mouldings offer Vietnamese furniture manufacturers a combination of consistent quality, competitive pricing, and a wide range of available profiles. All mouldings are produced from kiln-dried <a href="/species/what-is-pinus-taeda">Pinus taeda</a> and are available in solid or <a href="/products/finger-joint-mouldings">finger joint</a> form.
 
 **What to Look For**
 
-Vietnamese furniture manufacturers should prioritise: moisture content (12–15%), surface quality (smooth, free of machining marks), dimensional consistency, and profile accuracy.
+Vietnamese furniture manufacturers should prioritise: moisture content (12–15%), surface quality (smooth, free of machining marks), dimensional consistency, and profile accuracy. For a full specification checklist, see our <a href="/blog/pine-mouldings-specifications-guide">moulding specification guide</a>.
 
 **Common Pitfalls**
 
-Allow sufficient lead time (6–12 weeks for production items). Provide a clear, written specification for all products ordered. Confirm grade, moisture content, and surface finish in writing before the order is placed.
+Allow sufficient lead time (6–12 weeks for production items). Provide a clear, written specification for all products ordered. Confirm grade, moisture content, and surface finish in writing before the order is placed. For an overview of the full sourcing process, see our <a href="/blog/sourcing-pine-from-argentina-first-time-buyers">first-time buyer's guide</a>.
 
 **Building a Long-Term Relationship**
 
-The most successful buyers build long-term relationships with their suppliers, with regular orders, clear communication, and mutual investment in quality improvement.`,
+The most successful buyers build long-term relationships with their suppliers, with regular orders, clear communication, and mutual investment in quality improvement. <a href="/contact">Contact us</a> to start a conversation about your moulding requirements.`,
   },
   {
     slug: "pine-products-middle-east-market",
@@ -807,18 +811,18 @@ The most successful buyers build long-term relationships with their suppliers, w
 
 **Market Overview**
 
-The Middle East's construction boom has created strong demand for timber products across the region. Argentina has established itself as a reliable supplier of pine timber, mouldings, and panels to buyers in Saudi Arabia, the UAE, Qatar, and other Gulf states.
+The Middle East's construction boom has created strong demand for timber products across the region. Argentina has established itself as a reliable supplier of <a href="/products/lumber-boards">pine timber</a>, <a href="/products/pine-mouldings">mouldings</a>, and <a href="/products/panels-sheet-goods">panels</a> to buyers in Saudi Arabia, the UAE, Qatar, and other Gulf states.
 
 **Key Applications**
 
-Pine timber is used in construction for formwork and temporary structures. Pine mouldings, finger joint products, and panels are widely used in interior fit-out applications. A growing furniture manufacturing sector in Saudi Arabia, UAE, and Egypt uses Argentine pine panels and sawn timber.
+Pine timber is used in construction for formwork and temporary structures. <a href="/products/pine-mouldings">Pine mouldings</a>, <a href="/products/finger-joint-mouldings">finger joint products</a>, and <a href="/products/panels-sheet-goods">panels</a> are widely used in interior fit-out applications. A growing furniture manufacturing sector in Saudi Arabia, UAE, and Egypt uses Argentine pine panels and sawn timber.
 
 **What Middle Eastern Buyers Look For**
 
-Middle Eastern buyers typically prioritise consistent quality, competitive pricing, reliable supply, and comprehensive documentation for customs clearance.
+Middle Eastern buyers typically prioritise consistent quality, competitive pricing, reliable supply, and comprehensive documentation for customs clearance. For an overview of export documentation and phytosanitary requirements, see our <a href="/blog/phytosanitary-requirements-pine-imports">phytosanitary requirements guide</a>.
 
 **Logistics**
 
-Argentine pine products are typically shipped to Middle Eastern ports via the Atlantic route, with transit times of approximately 20–30 days from Argentine ports.`,
+Argentine pine products are shipped to Middle Eastern ports via the Atlantic route from the <a href="/sourcing/argentine-pine-ports-logistics">Port of Buenos Aires</a>, with transit times of approximately 20–30 days. <a href="/contact">Contact us</a> to discuss supply to the Middle East.`,
   },
 ];

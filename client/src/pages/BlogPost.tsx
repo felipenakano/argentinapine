@@ -12,8 +12,43 @@ interface Props {
   params: { slug: string };
 }
 
+// Parse a text string that may contain <a href="...">text</a> tags into React nodes.
+function parseInlineLinks(text: string): React.ReactNode[] {
+  const parts: React.ReactNode[] = [];
+  const linkRegex = /<a href="([^"]+)">(.*?)<\/a>/g;
+  let lastIndex = 0;
+  let match: RegExpExecArray | null;
+  while ((match = linkRegex.exec(text)) !== null) {
+    if (match.index > lastIndex) {
+      parts.push(text.slice(lastIndex, match.index));
+    }
+    const href = match[1];
+    const label = match[2];
+    parts.push(
+      <Link
+        key={match.index}
+        href={href}
+        style={{
+          color: "var(--pine-green)",
+          textDecoration: "underline",
+          textUnderlineOffset: "3px",
+          fontWeight: 600,
+        }}
+      >
+        {label}
+      </Link>
+    );
+    lastIndex = match.index + match[0].length;
+  }
+  if (lastIndex < text.length) {
+    parts.push(text.slice(lastIndex));
+  }
+  return parts;
+}
+
 function renderBody(body: string) {
   return body.split("\n\n").map((para, i) => {
+    // Heading block: **Heading Text**\nBody line(s)
     if (para.startsWith("**") && para.includes("**\n")) {
       const [heading, ...rest] = para.split("\n");
       const headingText = heading.replace(/\*\*/g, "");
@@ -24,27 +59,30 @@ function renderBody(body: string) {
           </h2>
           {rest.map((line, j) => (
             <p key={j} className="text-base leading-relaxed mb-4" style={{ color: "#3a3a38", fontFamily: "'Lato', sans-serif" }}>
-              {line}
+              {parseInlineLinks(line)}
             </p>
           ))}
         </div>
       );
     }
-    if (para.startsWith("*") && !para.startsWith("**")) {
-      const items = para.split("\n").filter(l => l.startsWith("*"));
+    // Bullet list: lines starting with * or -
+    if ((para.startsWith("* ") || para.startsWith("- ")) && !para.startsWith("**")) {
+      const items = para.split("\n").filter(l => l.startsWith("* ") || l.startsWith("- "));
       return (
         <ul key={i} className="list-disc pl-5 mb-4 space-y-1">
           {items.map((item, j) => (
             <li key={j} className="text-base" style={{ color: "#3a3a38", fontFamily: "'Lato', sans-serif" }}>
-              {item.replace(/^\* /, "")}
+              {parseInlineLinks(item.replace(/^[*-] /, ""))}
             </li>
           ))}
         </ul>
       );
     }
+    // Plain paragraph — strip **bold** markers, parse links
+    const cleaned = para.replace(/\*\*/g, "");
     return (
       <p key={i} className="text-base leading-relaxed mb-5" style={{ color: "#3a3a38", fontFamily: "'Lato', sans-serif" }}>
-        {para.replace(/\*\*/g, "")}
+        {parseInlineLinks(cleaned)}
       </p>
     );
   });
