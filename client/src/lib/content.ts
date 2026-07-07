@@ -822,7 +822,77 @@ Pine timber is used in construction for formwork and temporary structures. <a hr
 Middle Eastern buyers typically prioritise consistent quality, competitive pricing, reliable supply, and comprehensive documentation for customs clearance. For an overview of export documentation and phytosanitary requirements, see our <a href="/blog/phytosanitary-requirements-pine-imports">phytosanitary requirements guide</a>.
 
 **Logistics**
-
 Argentine pine products are shipped to Middle Eastern ports via the Atlantic route from the <a href="/sourcing/argentine-pine-ports-logistics">Port of Buenos Aires</a>, with transit times of approximately 20–30 days. <a href="/contact">Contact us</a> to discuss supply to the Middle East.`,
+  },
+  {
+    slug: "converting-inches-feet-to-mm",
+    title: "Converting Inches and Feet to Millimetres: A Timber Buyer's Reference",
+    date: "2026-07-07",
+    category: "Products",
+    excerpt: "A practical conversion reference for international timber buyers — how to convert inches and feet to millimetres, with common lumber dimensions already converted.",
+    body: `International timber buyers regularly encounter dimension specifications in both imperial (inches and feet) and metric (millimetres) systems. Argentine pine is produced and sold in metric dimensions, but many buyers — particularly those in the United States, the Philippines, and parts of Southeast Asia — are accustomed to working in imperial units. This guide provides the conversions you need when reviewing <a href="/products/lumber-boards">timber specifications</a> or placing an order.
+
+**The Basic Conversion Factors**
+The two numbers to remember are:
+* 1 inch = 25.4 mm
+* 1 foot = 304.8 mm
+
+These are exact, defined values — not approximations. All other conversions follow from them. To convert any inch measurement to millimetres, multiply by 25.4. To convert any foot measurement to millimetres, multiply by 304.8.
+
+**Common Timber Thickness Conversions**
+Thickness is the dimension where imperial and metric specifications diverge most visibly in the timber trade. The table below shows the most common nominal imperial thicknesses and their metric equivalents as typically supplied by Argentine mills:
+
+1 inch (1") = 25 mm (nominal) / 22–25 mm dressed
+1.5 inches (1½") = 38 mm
+2 inches (2") = 50 mm
+3 inches (3") = 75 mm
+4 inches (4") = 100 mm
+
+Note that "nominal" dimensions in the imperial system refer to the rough-sawn size before dressing. A "2×4" in North American framing is actually 38 mm × 89 mm dressed. Argentine mills quote actual dimensions, so there is no ambiguity — what is stated on the <a href="/products/lumber-boards">lumber specification</a> is what is delivered.
+
+**Common Timber Width Conversions**
+Widths follow the same 25.4 mm per inch rule:
+
+2 inches = 50 mm
+3 inches = 75 mm
+4 inches = 100 mm
+6 inches = 150 mm
+8 inches = 200 mm
+10 inches = 250 mm
+12 inches = 300 mm
+
+**Common Length Conversions**
+Timber lengths are typically quoted in feet in the imperial system and metres in metric. Argentine pine is available in standard lengths from 1.8 m to 6.0 m. The conversions below show the imperial equivalents:
+
+6 feet = 1,829 mm (≈ 1.8 m)
+8 feet = 2,438 mm (≈ 2.4 m)
+10 feet = 3,048 mm (= 3.0 m exactly)
+12 feet = 3,658 mm (≈ 3.6 m)
+14 feet = 4,267 mm (≈ 4.2 m)
+16 feet = 4,877 mm (≈ 4.8 m)
+18 feet = 5,486 mm (≈ 5.4 m)
+20 feet = 6,096 mm (≈ 6.0 m)
+
+Argentine mills round to the nearest 100 mm for standard lengths, so a 10-foot length is supplied as exactly 3,000 mm and a 12-foot length as 3,600 mm — slightly shorter than the true imperial equivalent.
+
+**Moulding Profile Conversions**
+<a href="/products/pine-mouldings">Pine mouldings</a> and <a href="/products/finger-joint-mouldings">finger joint mouldings</a> are specified by their cross-section dimensions. Common profile sizes and their imperial equivalents:
+
+42 mm × 18 mm ≈ 1⅝" × ¾"
+58 mm × 18 mm ≈ 2¼" × ¾"
+68 mm × 18 mm ≈ 2⅝" × ¾"
+90 mm × 18 mm ≈ 3½" × ¾"
+140 mm × 18 mm ≈ 5½" × ¾"
+
+For a full breakdown of moulding dimensions and tolerances, see our <a href="/blog/pine-mouldings-specifications-guide">mouldings specifications guide</a>.
+
+**A Quick Mental Conversion Method**
+When you need a rough conversion without a calculator, use this approximation: multiply inches by 25 and add 2% for each inch. For example, 4 inches × 25 = 100 mm, plus 2% × 4 = 2 mm, giving 102 mm (the exact answer is 101.6 mm). This method is accurate to within 1% for dimensions up to 12 inches — sufficient for most ordering decisions.
+
+**Why Argentine Pine Uses Metric**
+Argentina adopted the metric system in 1887 and all commercial and industrial activity uses SI units. Mill specifications, shipping documents, and customs declarations are all in millimetres and metres. When you receive a proforma invoice or packing list from an Argentine supplier, all dimensions will be metric. If your own specifications are in imperial, convert them before sending — this avoids misunderstandings and reduces the risk of receiving the wrong product. For guidance on placing your first order, see our <a href="/blog/sourcing-pine-from-argentina-first-time-buyers">first-time buyer's guide</a>.
+
+**Useful Conversion Tools**
+For day-to-day use, any scientific calculator or spreadsheet can handle the conversion. In a spreadsheet, multiply the inch value in cell A1 by 25.4 to get millimetres. For bulk dimension conversion across a cutting list, this approach is faster and less error-prone than manual calculation. <a href="/contact">Contact us</a> if you need help converting your specifications to metric for an Argentine pine order.`,
   },
 ];
