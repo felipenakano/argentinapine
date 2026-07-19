@@ -987,4 +987,107 @@ For pallet manufacturers and logistics operators, <a href="/products/pallet-wood
 
 The best choice depends on your specific application, budget, and supply chain priorities. <a href="/contact">Contact us</a> to discuss your pallet wood requirements and receive a detailed comparison for your specific use case.`,
   },
+  {
+    slug: "pefc-certification-timber-buyers",
+    title: "PEFC Certification: What Timber Buyers Need to Know",
+    date: "2026-07-21",
+    category: "Sourcing",
+    excerpt: "A guide to PEFC certification for timber buyers — what it is, how it differs from FSC, why it matters, and how to verify PEFC-certified pine from Argentina.",
+    body: `PEFC (Programme for the Endorsement of Forest Certification) is one of the world's two major forest certification systems, yet many timber buyers are unfamiliar with it or confuse it with FSC (Forest Stewardship Council). This guide explains PEFC certification, its importance, and how to source PEFC-certified <a href="/products/lumber-boards">Argentine pine</a> for your projects.
+
+**What is PEFC?**
+PEFC is an international non-profit organisation that endorses and monitors national forest certification schemes. It was founded in 1999 in response to the Rio Earth Summit's call for sustainable forest management. Today, PEFC is the world's largest forest certification system by area, certifying over 400 million hectares of forests across more than 80 countries.
+
+PEFC does not directly certify forests. Instead, it endorses national certification schemes that meet its standards. For example, in Argentina, PEFC endorses the CERTFOR scheme, which certifies Argentine pine plantations and sawmills. When you buy PEFC-certified Argentine pine, you are buying timber from a forest or mill certified under a PEFC-endorsed national scheme.
+
+**PEFC vs FSC: Key Differences**
+
+Both PEFC and FSC certify forests and timber products, but they differ in approach, governance, and stakeholder focus.
+
+| Aspect | PEFC | FSC |
+|---|---|---|
+| **Governance** | Industry-led (forest owners, companies) | Multi-stakeholder (NGOs, indigenous groups, businesses) |
+| **Geographic focus** | Developed countries, industrial plantations | Global, including tropical forests |
+| **Certification area** | 400+ million hectares | 200+ million hectares |
+| **Strictness** | Moderate; emphasises economic viability | Stricter; emphasises conservation and social impact |
+| **Cost** | Generally lower | Generally higher |
+| **Market perception** | Strong in Europe, Asia, industrial sectors | Strong in consumer/retail sectors |
+| **Plantation focus** | Yes; well-suited to industrial plantations | Yes, but also covers natural forests |
+
+Neither is "better" — they serve different markets and priorities. FSC is often preferred by consumer brands and retailers seeking to demonstrate environmental commitment to end consumers. PEFC is often preferred by industrial buyers and in regions with strong plantation industries, like Argentina, New Zealand, and Scandinavia.
+
+**How PEFC Works**
+
+PEFC certification involves three layers:
+
+1. **Forest Management Certification** — The forest owner or manager (e.g., an Argentine pine plantation company) is audited against national PEFC standards. Auditors verify that the forest is managed sustainably, with attention to biodiversity, soil health, water quality, and worker safety.
+
+2. **Chain of Custody (CoC) Certification** — Sawmills, traders, and manufacturers that handle PEFC-certified timber are audited to ensure the certified timber is tracked and not mixed with uncertified timber. This prevents fraud and ensures the final product is genuinely PEFC-certified.
+
+3. **Product Labelling** — Only products from certified forests and mills with valid CoC certification can carry the PEFC label. The label on the product (or packing list) proves the timber came from a certified source.
+
+**Why PEFC Matters for Timber Buyers**
+
+PEFC certification provides three key benefits:
+
+**1. Environmental Assurance** — PEFC-certified forests are managed to maintain biodiversity, protect water resources, and prevent soil degradation. For buyers concerned about environmental impact, PEFC certification is evidence that the timber was sourced responsibly.
+
+**2. Market Access** — Many retailers, architects, and construction companies now require PEFC or FSC certification for timber purchases. If you are supplying to these buyers, PEFC certification is essential. Some government procurement policies also mandate certified timber.
+
+**3. Supply Chain Transparency** — PEFC Chain of Custody certification ensures that the timber you receive is genuinely from a certified forest and has not been mixed with uncertified material. This is important for buyers who need to verify the origin and legality of their timber.
+
+**PEFC in Argentina**
+
+Argentina has a strong PEFC presence. The country's pine plantation industry is certified under CERTFOR, a PEFC-endorsed national scheme. CERTFOR certifies both forest management (the plantations) and chain of custody (the mills and traders).
+
+Most major Argentine pine mills hold PEFC/CERTFOR certification. When you buy <a href="/products/lumber-boards">Argentine pine timber</a>, <a href="/products/pine-mouldings">mouldings</a>, or <a href="/products/panels-sheet-goods">panels</a> from a reputable supplier, the product is often available with PEFC certification.
+
+**How to Verify PEFC Certification**
+
+When sourcing PEFC-certified timber, follow these steps:
+
+1. **Ask for the PEFC Certificate** — Request a copy of the supplier's PEFC/CERTFOR certificate. The certificate should show the certification body, the scope (forest management, chain of custody, or both), and the expiry date.
+
+2. **Check the Certificate Number** — Visit the PEFC website (pefc.org) or the CERTFOR website (certfor.org.ar) and search for the certificate number. This confirms the certificate is valid and has not been revoked.
+
+3. **Verify Chain of Custody** — Ensure the supplier holds PEFC Chain of Custody certification, not just forest management certification. CoC certification is essential for tracking certified timber through the supply chain.
+
+4. **Request Certified Shipment Documentation** — When you receive timber, ask for documentation (packing list, invoice) that identifies the shipment as PEFC-certified. The documentation should reference the PEFC certificate number.
+
+**PEFC vs FSC: Which Should You Choose?**
+
+The choice between PEFC and FSC depends on your market and priorities:
+
+**Choose PEFC if:**
+- You are sourcing from Argentina, New Zealand, or Scandinavia (regions with strong PEFC presence)
+- You are in industrial sectors (construction, pallets, packaging) where PEFC is standard
+- You want lower certification costs
+- Your customers accept PEFC as equivalent to FSC
+- You value the plantation focus (PEFC is well-suited to industrial plantations)
+
+**Choose FSC if:**
+- You are supplying to consumer brands or retailers
+- Your customers specifically require FSC
+- You are sourcing from tropical regions where FSC is more common
+- You want the strongest environmental and social credentials
+- You are targeting markets (Europe, North America) where FSC is preferred
+
+**Many suppliers offer both** — Large Argentine mills often hold both PEFC and FSC certification, giving buyers the flexibility to choose. When requesting a quote, specify which certification you need.
+
+**PEFC and Legality**
+
+It is important to note that PEFC certification is not the same as legal compliance. A timber product can be legal (compliant with export laws and phytosanitary requirements) but not certified. Conversely, PEFC certification implies legal compliance but goes beyond it by adding environmental and social standards.
+
+For international trade, <a href="/blog/phytosanitary-requirements-pine-imports">phytosanitary compliance</a> is mandatory. PEFC certification is voluntary but increasingly expected by buyers in developed markets.
+
+**Cost Impact**
+
+PEFC certification adds a small cost to timber products — typically 2–5% of the base price. This premium reflects the cost of audits, documentation, and chain of custody tracking. For many buyers, this premium is justified by market access or customer requirements. For others, uncertified timber remains the most cost-effective choice.
+
+**The Bottom Line**
+
+PEFC certification is a credible, internationally recognised standard for sustainable forest management. For timber buyers in industrial sectors or sourcing from Argentina, PEFC is a natural choice. For those supplying to consumer markets or requiring the strongest environmental credentials, FSC may be preferred. Many suppliers offer both, giving buyers flexibility.
+
+If your customers require certified timber or you want to demonstrate environmental responsibility, <a href="/contact">contact us</a> to discuss PEFC-certified Argentine pine options and pricing.`,
+  },
 ];
