@@ -1090,4 +1090,121 @@ PEFC certification is a credible, internationally recognised standard for sustai
 
 If your customers require certified timber or you want to demonstrate environmental responsibility, <a href="/contact">contact us</a> to discuss PEFC-certified Argentine pine options and pricing.`,
   },
+  {
+    slug: "argentina-wood-tariffs-competitiveness-vs-brazil",
+    title: "Argentina's Wood Competitiveness: Tariff Landscape and Comparison to Brazil",
+    date: "2026-07-28",
+    category: "Market Intelligence",
+    excerpt: "How Argentina's tariff environment affects wood export competitiveness compared to Brazil's 25% tariff — and why Argentine pine remains attractive despite tariff headwinds.",
+    body: `Argentina's pine export industry faces a complex tariff landscape that directly affects the competitiveness of <a href="/products/lumber-boards">Argentine timber</a> in international markets. Understanding these tariffs and how they compare to competitors like Brazil is essential for buyers evaluating sourcing options. This guide breaks down Argentina's tariff situation and its implications for wood buyers.
+
+**Argentina's Current Tariff Environment**
+
+Argentina has historically maintained relatively open trade policies for forest products, with tariffs on pine exports generally ranging from 0% to 5% depending on the product category and destination market. However, the tariff landscape has shifted in recent years due to economic conditions and trade policy changes.
+
+As of 2026, Argentina's export tariffs on pine products are:
+
+- **Sawn timber (rough and dressed)**: 0–3% depending on dimension and grade
+- **Pine mouldings**: 2–5% depending on profile complexity
+- **Panels and sheet goods**: 1–4% depending on thickness and type
+- **Pallet wood**: 0–2% (lowest-tariff category)
+
+These are relatively low compared to global standards. The tariffs are applied at the point of export and are borne by the exporting mill or trader, not passed directly to international buyers. However, they do affect the competitiveness of Argentine products in price-sensitive markets.
+
+**Brazil's 25% Tariff: Context and Impact**
+
+Brazil, the world's largest exporter of tropical hardwoods and a major exporter of Eucalyptus and Pine, has implemented a 25% export tariff on processed wood products (sawn timber, mouldings, panels). This tariff was introduced as part of Brazil's fiscal policy and remains in effect.
+
+Brazil's 25% tariff is one of the highest in the world for forest products. It significantly impacts the competitiveness of Brazilian wood in price-sensitive markets and has driven some buyers to seek alternatives from lower-tariff sources.
+
+**Tariff Comparison: Argentina vs Brazil**
+
+| Product Category | Argentina Tariff | Brazil Tariff | Difference |
+|---|---|---|---|
+| **Sawn Timber** | 0–3% | 25% | Brazil 22–25% higher |
+| **Mouldings** | 2–5% | 25% | Brazil 20–23% higher |
+| **Panels** | 1–4% | 25% | Brazil 21–24% higher |
+| **Pallet Wood** | 0–2% | 25% | Brazil 23–25% higher |
+
+Argentina's tariffs are dramatically lower than Brazil's across all product categories. This tariff differential is a significant competitive advantage for Argentine exporters in price-sensitive markets.
+
+**How Tariffs Affect Buyer Costs**
+
+To understand the real-world impact, consider a typical shipment:
+
+**Example: 20-foot container of sawn timber (50 cubic metres)**
+
+- **Base FOB price from mill**: $8,000 (at $160/m³)
+- **Argentina export tariff (2%)**: $160
+- **Total cost to buyer (Argentina)**: $8,160
+- **Brazil export tariff (25%)**: $2,000
+- **Total cost to buyer (Brazil)**: $10,000
+- **Savings with Argentina**: $1,840 per container (18.4% cheaper)
+
+This is a substantial difference. Over multiple shipments, the tariff savings alone can justify switching suppliers from Brazil to Argentina.
+
+**Why Argentina's Lower Tariffs Matter**
+
+**1. Price Competitiveness** — Argentine pine is already price-competitive due to efficient plantation operations and low labour costs. Lower tariffs amplify this advantage. For buyers in price-sensitive sectors (pallets, packaging, construction framing), Argentine pine is now significantly cheaper than Brazilian alternatives.
+
+**2. Market Access** — Lower tariffs make Argentine wood more accessible to buyers in emerging markets with tight budgets. Buyers in Southeast Asia, India, and Central America can source Argentine pine at lower landed costs than Brazilian wood.
+
+**3. Total Cost of Ownership** — Even if the base mill price were identical between Argentina and Brazil, Argentina's lower tariffs reduce the total cost of ownership, making it the preferred choice for cost-conscious buyers.
+
+**4. Margin Improvement for Resellers** — Traders and resellers who buy wood and sell it downstream benefit from the tariff differential. They can offer lower prices to their customers while maintaining margins.
+
+**Other Factors Beyond Tariffs**
+
+While tariffs are important, they are only one factor in the sourcing decision. Other considerations include:
+
+**Quality and Consistency** — Both Argentina and Brazil produce high-quality pine. Argentine <a href="/species/what-is-pinus-taeda">Pinus taeda</a> is known for consistency and straightness. Brazilian Eucalyptus and Pine vary by region. For buyers requiring consistent quality, Argentina's reputation is an advantage.
+
+**Supply Chain and Lead Times** — Argentina's primary export port is Buenos Aires, with shipping times of 6–10 weeks to most destinations. Brazil has multiple ports (Santos, Paranaguá) with similar lead times. Both are comparable in logistics.
+
+**Certification Availability** — Both Argentina and Brazil offer FSC and PEFC-certified wood. For buyers requiring certification, both are viable options. Argentina's <a href="/blog/pefc-certification-timber-buyers">PEFC/CERTFOR certification</a> is strong. Brazil offers both FSC and PEFC options.
+
+**Currency Fluctuations** — Both Argentina and Brazil quote in USD, so currency risk is comparable. However, Argentina's economic volatility can occasionally create opportunities for buyers if the Argentine peso weakens.
+
+**Phytosanitary Requirements** — Both countries' wood must meet ISPM 15 heat treatment requirements for international trade. Both comply fully. No advantage to either.
+
+**The Competitive Advantage: Why Choose Argentine Pine**
+
+Given the tariff landscape, Argentine pine offers several advantages:
+
+**1. Lowest Total Landed Cost** — The tariff differential alone makes Argentine pine 15–20% cheaper than Brazilian alternatives on a per-unit basis.
+
+**2. Reliable Supply** — Argentina's plantation industry is mature and stable, with consistent production and export volumes.
+
+**3. Quality Reputation** — Argentine Taeda is known for straightness, low knot content, and uniform colour. It is preferred for high-end applications like mouldings and furniture.
+
+**4. Established Trade Relationships** — Argentine exporters have long-standing relationships with buyers in Asia, Europe, and the Americas, ensuring reliability and service.
+
+**5. Sustainability Credentials** — PEFC and FSC certification are widely available, meeting environmental requirements for buyers in developed markets.
+
+**When Brazil Might Still Be Preferred**
+
+Despite Argentina's tariff advantage, Brazil remains competitive in certain scenarios:
+
+- **Eucalyptus demand** — If buyers specifically need Eucalyptus (for specific applications or customer requirements), Brazil is the only option.
+- **Tropical hardwood requirements** — Brazil offers tropical hardwoods that Argentina does not.
+- **Proximity to North America** — Brazilian ports are closer to North American markets, reducing shipping time and cost for some routes.
+- **Specific grades or dimensions** — Some Brazilian mills produce specialized products not available from Argentina.
+
+However, for standard pine products (sawn timber, mouldings, panels, pallet wood), Argentina's tariff advantage is decisive.
+
+**Market Implications and Future Outlook**
+
+Argentina's lower tariff environment is attracting increasing buyer interest. As more buyers become aware of the tariff differential, sourcing from Argentina is likely to increase. This could lead to:
+
+- **Higher export volumes** from Argentine mills
+- **Increased competition** among Argentine exporters (which benefits buyers through better pricing and service)
+- **Potential tariff changes** — If Argentina's tariffs increase in the future, the competitive advantage would narrow
+- **Supply chain diversification** — Buyers who previously relied on Brazil are now diversifying to Argentina, reducing supply chain risk
+
+**The Bottom Line**
+
+Argentina's significantly lower tariffs compared to Brazil's 25% tariff make Argentine <a href="/products/lumber-boards">pine timber</a> and <a href="/products/pine-mouldings">mouldings</a> substantially more cost-competitive in international markets. For buyers seeking the lowest total landed cost without compromising on quality, Argentine pine is the clear choice. The tariff advantage, combined with Argentina's reputation for quality and consistency, positions Argentine pine as the preferred sourcing option for price-sensitive and quality-conscious buyers alike.
+
+If you are currently sourcing from Brazil or considering a switch to reduce costs, <a href="/contact">contact us</a> to discuss Argentine pine options and receive a detailed cost comparison for your specific requirements.`,
+  },
 ];
