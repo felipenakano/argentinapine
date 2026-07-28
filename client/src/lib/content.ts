@@ -1207,4 +1207,181 @@ Argentina's significantly lower tariffs compared to Brazil's 25% tariff make Arg
 
 If you are currently sourcing from Brazil or considering a switch to reduce costs, <a href="/contact">contact us</a> to discuss Argentine pine options and receive a detailed cost comparison for your specific requirements.`,
   },
+  {
+    slug: "types-of-knots-pine-wood",
+    title: "Types of Knots in Pine Wood: Classification, Impact, and Quality Implications",
+    date: "2026-08-04",
+    category: "Products",
+    excerpt: "A technical guide to knot types in pine wood — how they form, how they are classified, their impact on strength and appearance, and how to specify knot limits in your order.",
+    body: `Knots are one of the most visible and important quality characteristics in <a href="/products/lumber-boards">pine timber</a> and <a href="/products/pine-mouldings">mouldings</a>. Understanding knot types, their causes, and their impact on performance is essential for buyers specifying timber for different applications. This guide explains the science of knots and how to use knot specifications to get the right product for your needs.
+
+**What is a Knot?**
+
+A knot is a branch or limb that has been enclosed in the wood as the tree grows. When a tree grows, it sheds lower branches naturally. If a branch falls off while the tree is young, the tree heals over the wound and the wood grows around the scar, creating a knot. The size, type, and density of knots depend on the tree's age, growing conditions, and the branch structure.
+
+**The Two Main Knot Categories**
+
+Knots are classified into two broad categories based on how they formed:
+
+**1. Live Knots (Intergrown Knots)**
+
+Live knots form when a branch is still alive and attached to the tree when the wood is cut. The branch tissue is still living and connected to the tree's vascular system. When the timber is sawn, the live knot is tightly integrated with the surrounding wood.
+
+**Characteristics of live knots:**
+- Firmly attached to the surrounding wood
+- No separation or gaps around the knot
+- Darker colour than the surrounding wood (due to the branch's different growth pattern)
+- Stronger than dead knots (the wood fibres are continuous through the knot)
+- More common in younger trees with dense branching
+
+**2. Dead Knots (Loose Knots)**
+
+Dead knots form when a branch dies and falls off before the tree is cut. The tree heals over the wound, but the dead branch tissue is not integrated with the new wood growth. When the timber is sawn, the dead knot is only loosely held in place by the surrounding wood.
+
+**Characteristics of dead knots:**
+- Loosely attached to the surrounding wood
+- May fall out or become loose during processing, drying, or use
+- Often surrounded by a ring of darker wood (the tree's healing response)
+- Weaker than live knots (wood fibres are discontinuous)
+- More common in older trees or trees that have lost lower branches
+
+**Knot Classification by Size and Position**
+
+Within the live and dead categories, knots are further classified by size and position:
+
+**By Size:**
+- **Pin knots**: Less than 6 mm diameter
+- **Small knots**: 6–15 mm diameter
+- **Medium knots**: 15–30 mm diameter
+- **Large knots**: Greater than 30 mm diameter
+
+**By Position:**
+- **Face knots**: Visible on the wide face of the board
+- **Edge knots**: Located on the narrow edge of the board
+- **Corner knots**: Located at the corner where two faces meet
+
+**By Distribution:**
+- **Scattered knots**: Randomly distributed across the board
+- **Clustered knots**: Multiple knots grouped together in one area
+- **Knot-free**: No knots (rare in natural wood)
+
+**How Knots Affect Wood Properties**
+
+**Strength**
+
+Knots reduce the strength of wood by interrupting the grain structure. A large knot can reduce the tensile strength (pulling force) of timber by 20–50% depending on the knot's size and position. Dead knots have a greater impact on strength than live knots because the wood fibres are not continuous through the knot.
+
+For structural applications (beams, joists, framing), knot size and position are critical specifications. A large knot near the edge of a beam has minimal impact on strength, but a large knot in the centre of the beam can significantly reduce load-bearing capacity.
+
+**Appearance**
+
+Knots are highly visible and significantly affect the aesthetic appearance of timber. For appearance-grade applications (furniture, mouldings, interior trim), knot size and frequency are key quality parameters. Buyers often specify "clear" or "select" grades to minimize visible knots.
+
+**Workability**
+
+Knots are harder than the surrounding wood and can damage cutting tools, causing tool wear and producing rough cuts. For machining operations (milling mouldings, cutting joinery), knot-free or low-knot timber is preferred to reduce tool wear and improve surface finish.
+
+**Drying**
+
+Knots dry more slowly than the surrounding wood, creating internal stress and potentially causing checking (radial cracks) around the knot. Timber with large knots may require slower drying schedules to prevent defects.
+
+**Knot Grading Standards**
+
+Most timber-producing countries have standardized grading systems that specify maximum knot sizes and frequencies for different grades. Argentine <a href="/species/what-is-pinus-taeda">Pinus taeda</a> is graded according to several standards:
+
+**Argentine Grading System (IRAM)**
+
+| Grade | Description | Max Knot Size | Typical Uses |
+|---|---|---|---|
+| **Clears** | No knots, no pith | 0 mm (knot-free) | High-end furniture, appearance applications |
+| **COL-A / Select** | Very small, tight knots | Up to 6 mm | Paint-grade joinery, mouldings, trim |
+| **COL-B** | Small to medium knots | Up to 15 mm | General construction, framing |
+| **Millrun** | Mixed knots as sawn | Up to 30 mm | Structural framing, pallets |
+| **Industrial** | Large knots permitted | Greater than 30 mm | Packing, crating, low-grade uses |
+
+**How to Specify Knots in Your Order**
+
+When ordering <a href="/products/lumber-boards">pine timber</a> or mouldings, you should specify knot requirements clearly:
+
+**1. Choose a Grade**
+
+Start with a grade that matches your application:
+- **Clears**: For high-end furniture, visible trim, or appearance-critical applications
+- **Select/COL-A**: For painted joinery, mouldings, or applications where appearance matters but perfection is not required
+- **General/COL-B**: For construction framing, structural applications, or where appearance is not critical
+- **Millrun**: For pallets, packaging, or structural applications where cost is the priority
+
+**2. Specify Maximum Knot Size**
+
+If the standard grades do not match your needs, specify a maximum knot size. For example: "Maximum 10 mm knots, no dead knots" or "Maximum 5 mm live knots only."
+
+**3. Specify Knot Frequency**
+
+For some applications, you may need to limit the number of knots per unit length. For example: "No more than 2 knots per metre" or "Maximum 1 knot per 500 mm."
+
+**4. Specify Knot Position**
+
+For some applications, knot position matters. For example: "No knots on the visible face" or "No knots in the centre 50 mm of the board width."
+
+**5. Specify Knot Type**
+
+For critical applications, specify live knots only: "Live knots only, no dead knots." Dead knots are weaker and more likely to cause problems.
+
+**Knots in Argentine Pine**
+
+Argentine <a href="/species/what-is-pinus-taeda">Pinus taeda</a> is known for relatively low knot content compared to other pine species. The trees are grown in plantations with controlled spacing and pruning, which reduces branch density and knot frequency. However, knots are still present and vary by grade:
+
+- **Clears**: Genuinely knot-free, suitable for high-end applications
+- **Select**: Very few, very small knots; suitable for mouldings and trim
+- **General**: Moderate knots; suitable for construction and framing
+- **Millrun**: Variable knots; suitable for structural and pallet applications
+
+Argentine mills are experienced at grading for knot content and can reliably supply timber to specific knot specifications. When ordering, specify your knot requirements clearly and the mill will sort and grade accordingly.
+
+**Knot Defects and How to Avoid Them**
+
+**Loose Knots**
+
+Dead knots can fall out during processing, drying, or in use, leaving a hole. To avoid loose knots:
+- Specify live knots only
+- Specify lower maximum knot sizes
+- Request "tight knots" in your specification
+- Inspect timber upon arrival and reject shipments with loose knots
+
+**Knot Checking**
+
+Large knots can cause radial cracks (checking) to develop around the knot during drying. To avoid knot checking:
+- Specify lower maximum knot sizes
+- Request slower kiln-drying schedules (longer drying times reduce stress)
+- Specify kiln-dried (KD) timber rather than air-dried (AD) to ensure controlled drying
+
+**Knot Holes**
+
+If a dead knot falls out, it leaves a hole. To minimize knot holes:
+- Specify live knots only
+- Request lower knot sizes
+- Inspect timber and reject boards with holes
+
+**Cost Implications**
+
+Knot specifications directly affect price. Timber with fewer and smaller knots costs more because:
+
+1. **Grading labour** — Sorting timber by knot size requires manual inspection and is labour-intensive
+2. **Yield loss** — Boards with large knots must be rejected or downgraded, reducing the mill's yield
+3. **Market demand** — Clear and select grades are in higher demand and command premium prices
+
+As a rough guide:
+- **Clears**: 50–100% premium over millrun
+- **Select**: 20–50% premium over millrun
+- **General**: 5–15% premium over millrun
+- **Millrun**: Baseline price
+
+When specifying knot limits, balance your quality requirements against cost. Tighter knot specifications will increase cost but may be justified if appearance or performance is critical.
+
+**The Bottom Line**
+
+Knots are a natural part of wood and cannot be eliminated. However, understanding knot types and specifying knot limits allows you to get the right product for your application at the right price. For appearance-critical applications, specify Clears or Select grades. For structural applications, Millrun or General grades are cost-effective. For custom requirements, work with your supplier to specify maximum knot sizes and types.
+
+When ordering <a href="/products/lumber-boards">Argentine pine timber</a> or <a href="/products/pine-mouldings">mouldings</a>, specify your knot requirements clearly and you will receive exactly what you need. <a href="/contact">Contact us</a> to discuss knot specifications for your specific application and receive a detailed quote.`,
+  },
 ];
