@@ -1556,4 +1556,197 @@ Drying timber transforms green wood into a superior product: stronger, more stab
 
 When sourcing <a href="/products/lumber-boards">pine timber</a>, always specify kiln-dried product. Argentine <a href="/species/what-is-pinus-taeda">Pinus taeda</a> is routinely kiln-dried to 12–18% MC and is ready for immediate use in your applications. <a href="/contact">Contact us</a> to discuss your drying and moisture content requirements and receive a detailed specification.`,
   },
+  {
+    slug: "lumber-vs-timber-terminology-countries",
+    title: "Lumber vs Timber: Understanding Terminology Across Countries and Argentina",
+    date: "2026-08-18",
+    category: "Sourcing",
+    excerpt: "A guide to lumber and timber terminology across English-speaking countries, how terminology differs regionally, and what terminology is used in Argentina for pine products.",
+    body: `When sourcing wood products internationally, one of the first confusions buyers encounter is terminology. In the United States, people talk about "lumber." In the United Kingdom and Australia, they say "timber." In Canada, both terms are used interchangeably. In Argentina, the terminology is different again. Understanding these regional differences is essential for communicating clearly with suppliers and avoiding miscommunication. This guide explains the terminology landscape and what you need to know when sourcing from Argentina.
+
+**The Core Difference: Lumber vs Timber**
+
+In English-speaking countries, "lumber" and "timber" are often used interchangeably, but they have subtle regional meanings:
+
+**Lumber (North American usage)**
+
+In the United States and Canada, "lumber" refers to sawn wood products of any size. Lumber includes:
+
+- Rough-sawn boards (unplaned)
+- Dressed lumber (planed smooth)
+- Dimension lumber (standard sizes like 2x4, 2x6)
+- Boards and planks
+- Beams and timbers
+
+The term "lumber" is neutral and encompasses all sawn wood products. When a North American buyer says "I need lumber," they mean sawn wood ready for use.
+
+**Timber (British and Commonwealth usage)**
+
+In the United Kingdom, Australia, New Zealand, and South Africa, "timber" is the standard term for sawn wood. It is used exactly as North Americans use "lumber." British and Commonwealth buyers say "I need timber" to mean sawn wood products.
+
+However, in British English, "timber" can also refer to trees standing in a forest ("timber resources") or wood in general. The context determines whether it means sawn products or raw trees.
+
+**Regional Terminology Breakdown**
+
+| Region | Primary Term | Secondary Term | Usage |
+|---|---|---|---|
+| **United States** | Lumber | Timber (rare) | "I need lumber for framing" |
+| **Canada** | Lumber / Timber | Both used equally | "Lumber" more common in trade |
+| **United Kingdom** | Timber | Lumber (not used) | "I need timber for construction" |
+| **Australia** | Timber | Lumber (not used) | "Timber" is standard |
+| **New Zealand** | Timber | Lumber (not used) | "Timber" is standard |
+| **South Africa** | Timber | Lumber (not used) | "Timber" is standard |
+
+**Product-Specific Terminology**
+
+Beyond the lumber/timber distinction, different countries use different terms for specific product types:
+
+**Boards and Planks**
+
+- **North America**: "Boards" (less than 2 inches thick), "Planks" (2 inches or thicker)
+- **UK/Commonwealth**: "Boards" (general term), "Planks" (thicker boards)
+- **Argentina**: "Tablas" (boards), "Tablones" (thicker planks)
+
+**Dimension Lumber**
+
+- **North America**: "2x4," "2x6," "2x8" (nominal dimensions in inches)
+- **UK/Commonwealth**: "50x100," "50x150" (actual dimensions in mm)
+- **Argentina**: "Escuadrías" (standard dimensions in mm)
+
+**Beams and Timbers**
+
+- **North America**: "Beams," "Timbers" (large structural pieces)
+- **UK/Commonwealth**: "Beams," "Timbers" (same usage)
+- **Argentina**: "Vigas" (beams), "Piezas de madera" (timber pieces)
+
+**Mouldings and Trim**
+
+- **North America**: "Mouldings," "Trim," "Millwork"
+- **UK/Commonwealth**: "Mouldings," "Trim," "Joinery"
+- **Argentina**: "Molduras" (mouldings), "Perfiles" (profiles)
+
+**Panels and Sheet Goods**
+
+- **North America**: "Plywood," "OSB," "Panels"
+- **UK/Commonwealth**: "Plywood," "OSB," "Sheet materials"
+- **Argentina**: "Tableros" (panels), "Contrachapado" (plywood)
+
+**Argentine Terminology**
+
+Argentina uses Spanish terminology for wood products. Understanding Argentine terminology is essential when communicating with Argentine suppliers:
+
+**Common Argentine Wood Terms**
+
+| Spanish Term | English Equivalent | Category |
+|---|---|---|
+| **Madera** | Wood (general) | General |
+| **Madera aserrada** | Sawn wood / Lumber | General |
+| **Tablas** | Boards | Sawn products |
+| **Tablones** | Planks (thick boards) | Sawn products |
+| **Escuadrías** | Dimension lumber / Standard sizes | Sawn products |
+| **Vigas** | Beams | Structural |
+| **Piezas** | Pieces / Timber pieces | Structural |
+| **Molduras** | Mouldings | Trim |
+| **Perfiles** | Profiles / Moulding profiles | Trim |
+| **Tableros** | Panels / Sheet goods | Panels |
+| **Contrachapado** | Plywood | Panels |
+| **Madera maciza** | Solid wood | General |
+| **Madera aglomerada** | Particle board | Panels |
+| **Madera seca** | Dried wood / Kiln-dried | Processing |
+| **Madera verde** | Green wood / Fresh-sawn | Processing |
+| **Humedad** | Moisture content | Specification |
+| **Grado** | Grade | Quality |
+| **Defectos** | Defects | Quality |
+
+**Argentine Pine Terminology**
+
+When sourcing <a href="/species/what-is-pinus-taeda">Pinus taeda</a> from Argentina, you will encounter these specific terms:
+
+- **Pino taeda** or **Pino de Argentina**: Argentine pine (Pinus taeda)
+- **Madera aserrada de pino**: Sawn pine lumber
+- **Tablas de pino**: Pine boards
+- **Molduras de pino**: Pine mouldings
+- **Tableros de pino**: Pine panels
+- **Pino seco**: Kiln-dried pine
+- **Pino verde**: Green pine (fresh-sawn)
+- **Pino clasificado**: Graded pine
+- **Pino sin nudos** or **Pino claro**: Clear pine (knot-free)
+
+**Communicating with Argentine Suppliers**
+
+When communicating with Argentine suppliers, use Spanish terms where possible, but English is widely understood in the timber trade. Here are key phrases:
+
+**Ordering Lumber:**
+- "Necesito madera aserrada de pino taeda" = "I need sawn Pinus taeda lumber"
+- "¿Tienen tablas de pino seco?" = "Do you have kiln-dried pine boards?"
+- "¿Cuál es el precio de las molduras de pino?" = "What is the price of pine mouldings?"
+
+**Specifying Quality:**
+- "Necesito pino seco, grado A" = "I need kiln-dried pine, Grade A"
+- "Sin nudos grandes" = "No large knots"
+- "Humedad entre 12-18%" = "Moisture content between 12-18%"
+
+**Asking About Availability:**
+- "¿Tienen disponibilidad de pino taeda en este momento?" = "Do you have Pinus taeda available right now?"
+- "¿Cuánto tiempo para entregar?" = "How long for delivery?"
+
+**Confusion Points: What to Watch For**
+
+**1. "Timber" in British English Can Mean Trees**
+
+When a British buyer says "timber," they usually mean sawn wood. However, in forestry contexts, "timber" can refer to standing trees or raw logs. If you are communicating with a British forestry company, clarify whether they are talking about sawn products or raw timber.
+
+**2. North American Dimension Sizing**
+
+North American lumber is sold by nominal dimensions (e.g., "2x4") which are larger than actual dimensions (actual: 1.5" x 3.5"). Argentine and European suppliers sell by actual dimensions in millimetres. A "2x4" North American board is approximately 50x100 mm in metric terms. Always clarify whether dimensions are nominal or actual.
+
+**3. Argentine Grading Terminology**
+
+Argentine grading uses terms like "COL-A," "COL-B," and "Millrun" which differ from North American grading ("Select," "#1," "#2"). When ordering from Argentina, ask for the grading standard and clarify what each grade means for your application.
+
+**4. Moisture Content Terminology**
+
+Argentine suppliers may refer to "madera seca" (dried wood) without specifying the exact moisture content. Always ask for the specific moisture content percentage (e.g., "12-18% MC") rather than relying on general terms.
+
+**5. Moulding Profile Terminology**
+
+Moulding profiles have different names in different countries. A "crown moulding" in North America might be called "cornice" in the UK or "cornisa" in Argentina. When ordering mouldings, provide a drawing or sample rather than relying on terminology alone.
+
+**Navigating International Sourcing**
+
+When sourcing from Argentina or any international supplier, follow these best practices:
+
+**1. Use Drawings and Specifications**
+
+Don't rely on terminology alone. Provide detailed drawings, dimensions in millimetres, and written specifications. A picture is worth a thousand words in any language.
+
+**2. Clarify Dimensions**
+
+Always specify whether dimensions are nominal or actual, and always use millimetres for international orders. North American nominal sizing (2x4, 2x6) is confusing internationally.
+
+**3. Specify Moisture Content Exactly**
+
+Don't say "dried wood." Say "kiln-dried to 12-18% moisture content" or whatever your target is.
+
+**4. Reference Grading Standards**
+
+When specifying grade, reference the grading standard (e.g., "IRAM Grade COL-A" for Argentine pine or "USDA Grade #1" for North American lumber).
+
+**5. Use Technical Specifications**
+
+Provide a detailed specification sheet that includes:
+- Species (e.g., Pinus taeda)
+- Product type (e.g., sawn boards, mouldings)
+- Dimensions (length, width, thickness in mm)
+- Grade (with reference to grading standard)
+- Moisture content (target percentage)
+- Quantity (in cubic metres or board feet, clearly specified)
+- Delivery location and timeline
+
+**The Bottom Line**
+
+While terminology varies across countries, the underlying products are the same. A board is a board whether you call it "lumber" or "timber." The key to successful international sourcing is clarity: use drawings, specify dimensions in metric, clarify moisture content, and reference grading standards. When sourcing from Argentina, familiarity with Spanish terminology helps, but English is widely understood in the timber trade.
+
+When ordering <a href="/products/lumber-boards">Argentine pine lumber</a>, <a href="/products/pine-mouldings">mouldings</a>, or <a href="/products/panels-sheet-goods">panels</a>, provide detailed specifications in English or Spanish, and you will receive exactly what you need. <a href="/contact">Contact us</a> to discuss your product requirements and receive a detailed quote with clear specifications.`,
+  },
 ];
