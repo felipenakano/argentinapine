@@ -2149,4 +2149,296 @@ Pallet wood from Argentina can be a competitive sourcing option for UAE buyers w
 
 If you are a UAE pallet manufacturer, logistics operator, or importer evaluating Argentine supply, <a href="/contact">contact our team</a> with your pallet drawing, component list, target volume, and delivery location. We can help prepare a clear quotation and specification for shipment from Argentina to the UAE.`,
   },
+  {
+    slug: "european-pallet-size-eur-pallet-argentina",
+    title: "European Pallet Size: Why Source EUR Pallet Wood from Argentina?",
+    date: "2026-08-31",
+    category: "Market Intelligence",
+    excerpt: "A practical guide to the 1,200 × 800 mm EUR pallet format, EPAL licensing, component specifications, and the case for sourcing compatible pallet wood from Argentina.",
+    body: `The European pallet, commonly called the EUR pallet or Euro pallet, is one of the most recognizable pallet formats in international logistics. Its 1,200 × 800 mm footprint is designed for efficient use of European warehouse aisles, trucks, containers, and racking systems. For pallet manufacturers and exporters outside Europe, understanding the format is essential before purchasing components or quoting finished pallets.
+
+Argentina can be an attractive origin for compatible softwood pallet boards because buyers can specify the species, grade, dimensions, moisture content, and treatment required for their own production programme. The important distinction is that Argentine pallet wood is a component supply option; it is not automatically an EPAL-licensed pallet or permission to use EPAL branding.
+
+**What Is the European Pallet Size?**
+
+The standard EUR/EPAL 1 pallet measures **1,200 mm long × 800 mm wide × 144 mm high**. EPAL’s official specification lists 11 boards, 9 blocks, 78 nails, an approximate weight of 25 kg, and a safe working load of 1,500 kg under the stated conditions. <a href="https://www.epal-pallets.org/eu-en/load-carriers/epal-euro-pallet">Read the official EPAL 1 specification</a>.
+
+The 1,200 × 800 mm footprint is narrower than the widely used 1,200 × 1,000 mm industrial format. This makes it useful where warehouse space, conveyor width, truck loading, or European racking dimensions favour a more compact pallet.
+
+| Parameter | EUR/EPAL 1 reference |
+|---|---:|
+| Length | 1,200 mm |
+| Width | 800 mm |
+| Height | 144 mm |
+| Approximate weight | 25 kg |
+| Boards | 11 |
+| Blocks | 9 |
+| Nails | 78 |
+| Safe working load | 1,500 kg under stated conditions |
+
+These figures describe the EPAL 1 reference product. A generic 1,200 × 800 mm pallet made for a private supply chain may have a different deck layout, board thickness, block design, nail pattern, or working load. Buyers should therefore specify the finished pallet design rather than assuming that every 1,200 × 800 mm pallet is interchangeable.
+
+**EUR Pallet, Euro Pallet, or EPAL Pallet?**
+
+The terms are often used interchangeably in casual conversation, but they are not identical in a commercial specification.
+
+A **1,200 × 800 mm European pallet** describes a size and general format. A **EUR/EPAL pallet** refers to a pallet made within the relevant EPAL system and subject to its licensing, technical, marking, inspection, repair, and exchange requirements.
+
+EPAL’s official markings include the EPAL branding, IPPC marking, country code, plant-protection registration number, treatment method, control staple, and licence/date information. A pallet manufacturer should confirm current rules directly with EPAL before using the EPAL name, marks, or exchange-pool claims. The <a href="https://www.epal-pallets.org/eu-en/the-success-system/ispm-15">EPAL ISPM 15 guidance</a> also explains the relationship between licensed EPAL operations and heat treatment.
+
+Argentine pallet wood can be supplied for a buyer’s own pallet programme, including a 1,200 × 800 mm design, but the material does not become an EPAL pallet simply because it has the correct dimensions. EPAL licence status and product compliance remain separate matters.
+
+**Why Argentine Pine Can Work for EUR-Format Pallets**
+
+Argentine <a href="/species/what-is-pinus-taeda">Pinus taeda</a> is a plantation-grown softwood that can be processed into pallet boards, blocks, and other packaging components. For a buyer developing EUR-format pallets, the sourcing case is based on controllable specifications rather than origin marketing alone.
+
+First, a buyer can define board dimensions to match the planned deck and bottom layout. Second, the choice between <a href="/products/pallet-wood">Pallet Grade A and Pallet Grade B</a> can align material cost with reuse cycles and appearance requirements. Third, kiln-dried, heat-treated material can simplify weight control, machining, and international packaging compliance when the correct treatment and marking process is documented.
+
+The species should still be evaluated alongside pallet engineering. Nail withdrawal, board stiffness, block strength, moisture exposure, load distribution, and the number of intended trips all affect the final pallet’s performance. A responsible supplier should review the component schedule and intended use before recommending a grade.
+
+**Component Specification for a 1,200 × 800 mm Pallet**
+
+Do not order only “EUR pallet wood.” Send the mill a component schedule that identifies the exact board and block requirements.
+
+| Component requirement | What to define | Procurement reason |
+|---|---|---|
+| Deck boards | Number, thickness, width, length, and tolerance | Controls top-deck coverage and load distribution |
+| Bottom boards | Number, dimensions, and edge treatment | Affects floor contact and handling stability |
+| Blocks or stringers | Material, section, height, and placement | Determines four-way entry and fork clearance |
+| Grade | A or B, with defect limits | Controls sorting, strength, and assembly yield |
+| Moisture content | Target at shipment and on arrival | Limits weight variation and dimensional movement |
+| Fasteners | Nail type, length, and count | Supports repeatable assembly and holding power |
+| Treatment | Heat treatment, mark, and documentation | Supports regulated international movement where required |
+| Packing | Bundle count, straps, and loading plan | Reduces handling damage and counting errors |
+
+For a complete sourcing discussion, see our <a href="/blog/argentina-pallet-wood-export-uae">export guide for Argentine pallet wood</a>, which explains documentation, quality control, and landed-cost questions for international buyers.
+
+**The Advantages of the 1,200 × 800 mm Format**
+
+The EUR footprint can be useful when a supply chain is designed around European warehouse and transport infrastructure. Its narrower width can improve manoeuvrability in constrained aisles, while the standardized footprint can simplify pallet pooling and handling where the receiving network already accepts the format.
+
+The format can also support efficient product grouping for cartons and packaged goods. However, the pallet footprint alone does not guarantee better cube utilization. Buyers should test the actual carton dimensions, overhang limits, rack clearances, truck interior, and container loading pattern before committing to a production design.
+
+A 1,200 × 800 mm pallet may be the wrong choice when the cargo is wide, when local customers use 1,200 × 1,000 mm pallets, or when the product needs a custom heavy-duty base. The best format is determined by the entire logistics system, not by the name “Euro pallet.”
+
+**ISPM 15 and International Shipment**
+
+The IPPC explains that ISPM 15 establishes a harmonized approach for managing pest risks associated with international wood packaging, including pallets and dunnage. Treatment and marking requirements should be confirmed for the destination and the exact product. Review our <a href="/blog/pefc-certification-timber-buyers">certification guide</a> separately if the buyer also needs a forest-management or chain-of-custody claim; PEFC or FSC certification is not the same as ISPM 15 treatment.
+
+For a shipment from Argentina, the buyer should request the treatment method, applicable mark, treatment record, invoice, packing list, bill of lading, and any origin or plant-health documents required by the importer and carrier. The correct documents depend on the shipment and destination. A timber supplier should not promise that one certificate will satisfy every country or every buyer.
+
+**Cost and Sourcing Questions**
+
+Sourcing components from Argentina can be attractive when the buyer has enough volume to plan containerized procurement and can provide a repeatable cutting list. Compare the complete delivered cost rather than the mill price alone. Include board price, treatment, packing, inland haulage, ocean freight, insurance, destination charges, customs and tax treatment, broker fees, sorting loss, storage, and assembly yield.
+
+Ask whether the quotation is for fixed lengths or a range, whether mixed widths are permitted, how defects are measured, and whether the material is supplied in bundles that can be counted efficiently. These details often have a greater operational impact than a small difference in nominal board price.
+
+For background on the material itself, our guide to <a href="/blog/pallet-wood-taeda-vs-spf-radiata">Taeda pine versus SPF and Radiata</a> compares species considerations for pallet applications. The comparison should be treated as a starting point; the finished pallet design and buyer’s test protocol remain decisive.
+
+**Quality-Control Checklist Before Buying**
+
+Before placing a repeat order, confirm that the supplier can document the species, dimensions, grade, moisture content, knot and wane limits, splits, warp, treatment, bundle count, and loading plan. If the pallet will enter a closed exchange pool, verify the separate pool and licensing requirements with the pool operator.
+
+A pre-shipment inspection should use the same sampling method on every order. Record moisture readings, dimensions, bundle labels, photographs, container condition, and loading sequence. After arrival, compare the received material with the inspection record and track assembly rejects and pallet performance.
+
+**The Bottom Line**
+
+The European pallet size is a **1,200 × 800 mm** format, while an EPAL pallet is a licensed and technically controlled product within the EPAL system. That distinction matters when sourcing from Argentina. Argentine Pinus taeda pallet wood can be a flexible input for a EUR-format pallet programme when the buyer provides a precise component schedule, selects the appropriate grade, confirms moisture and treatment requirements, and evaluates the full landed cost.
+
+If you are developing a 1,200 × 800 mm pallet programme or need compatible pallet boards from Argentina, <a href="/contact">contact our team</a> with your component list, target volume, destination, and intended use. We can help prepare a practical specification for quotation.`,
+  },
+  {
+    slug: "european-pallet-size-eur-pallet-argentina",
+    title: "European Pallet Size: Why Source EUR Pallet Wood from Argentina?",
+    date: "2026-08-31",
+    category: "Market Intelligence",
+    excerpt: "A practical guide to the 1,200 × 800 mm EUR pallet format, EPAL licensing, component specifications, and the case for sourcing compatible pallet wood from Argentina.",
+    body: `The European pallet, commonly called the EUR pallet or Euro pallet, is one of the most recognizable pallet formats in international logistics. Its 1,200 × 800 mm footprint is designed for efficient use of European warehouse aisles, trucks, containers, and racking systems. For pallet manufacturers and exporters outside Europe, understanding the format is essential before purchasing components or quoting finished pallets.
+
+Argentina can be an attractive origin for compatible softwood pallet boards because buyers can specify the species, grade, dimensions, moisture content, and treatment required for their own production programme. The important distinction is that Argentine pallet wood is a component supply option; it is not automatically an EPAL-licensed pallet or permission to use EPAL branding.
+
+**What Is the European Pallet Size?**
+
+The standard EUR/EPAL 1 pallet measures **1,200 mm long × 800 mm wide × 144 mm high**. EPAL’s official specification lists 11 boards, 9 blocks, 78 nails, an approximate weight of 25 kg, and a safe working load of 1,500 kg under the stated conditions. <a href="https://www.epal-pallets.org/eu-en/load-carriers/epal-euro-pallet">Read the official EPAL 1 specification</a>.
+
+The 1,200 × 800 mm footprint is narrower than the widely used 1,200 × 1,000 mm industrial format. This makes it useful where warehouse space, conveyor width, truck loading, or European racking dimensions favour a more compact pallet.
+
+| Parameter | EUR/EPAL 1 reference |
+|---|---:|
+| Length | 1,200 mm |
+| Width | 800 mm |
+| Height | 144 mm |
+| Approximate weight | 25 kg |
+| Boards | 11 |
+| Blocks | 9 |
+| Nails | 78 |
+| Safe working load | 1,500 kg under stated conditions |
+
+These figures describe the EPAL 1 reference product. A generic 1,200 × 800 mm pallet made for a private supply chain may have a different deck layout, board thickness, block design, nail pattern, or working load. Buyers should therefore specify the finished pallet design rather than assuming that every 1,200 × 800 mm pallet is interchangeable.
+
+**EUR Pallet, Euro Pallet, or EPAL Pallet?**
+
+The terms are often used interchangeably in casual conversation, but they are not identical in a commercial specification.
+
+A **1,200 × 800 mm European pallet** describes a size and general format. A **EUR/EPAL pallet** refers to a pallet made within the relevant EPAL system and subject to its licensing, technical, marking, inspection, repair, and exchange requirements.
+
+EPAL’s official markings include EPAL branding, IPPC marking, country code, plant-protection registration number, treatment method, control staple, and licence/date information. A pallet manufacturer should confirm current rules directly with EPAL before using the EPAL name, marks, or exchange-pool claims. The <a href="https://www.epal-pallets.org/eu-en/the-success-system/ispm-15">EPAL ISPM 15 guidance</a> explains the relationship between licensed EPAL operations and heat treatment.
+
+Argentine pallet wood can be supplied for a buyer’s own pallet programme, including a 1,200 × 800 mm design, but the material does not become an EPAL pallet simply because it has the correct dimensions. EPAL licence status and product compliance remain separate matters.
+
+**Why Argentine Pine Can Work for EUR-Format Pallets**
+
+Argentine <a href="/species/what-is-pinus-taeda">Pinus taeda</a> is a plantation-grown softwood that can be processed into pallet boards, blocks, and other packaging components. For a buyer developing EUR-format pallets, the sourcing case is based on controllable specifications rather than origin marketing alone.
+
+A buyer can define board dimensions to match the planned deck and bottom layout. The choice between <a href="/products/pallet-wood">Pallet Grade A and Pallet Grade B</a> can align material cost with reuse cycles and appearance requirements. Kiln-dried, heat-treated material can also simplify weight control, machining, and international packaging compliance when the correct treatment and marking process is documented.
+
+The species should still be evaluated alongside pallet engineering. Nail withdrawal, board stiffness, block strength, moisture exposure, load distribution, and the number of intended trips all affect final pallet performance. A responsible supplier should review the component schedule and intended use before recommending a grade.
+
+**Component Specification for a 1,200 × 800 mm Pallet**
+
+Do not order only “EUR pallet wood.” Send the mill a component schedule that identifies the exact board and block requirements.
+
+| Component requirement | What to define | Procurement reason |
+|---|---|---|
+| Deck boards | Number, thickness, width, length, and tolerance | Controls top-deck coverage and load distribution |
+| Bottom boards | Number, dimensions, and edge treatment | Affects floor contact and handling stability |
+| Blocks or stringers | Material, section, height, and placement | Determines four-way entry and fork clearance |
+| Grade | A or B, with defect limits | Controls sorting, strength, and assembly yield |
+| Moisture content | Target at shipment and on arrival | Limits weight variation and dimensional movement |
+| Fasteners | Nail type, length, and count | Supports repeatable assembly and holding power |
+| Treatment | Heat treatment, mark, and documentation | Supports regulated international movement where required |
+| Packing | Bundle count, straps, and loading plan | Reduces handling damage and counting errors |
+
+For a complete sourcing discussion, see our <a href="/blog/argentina-pallet-wood-export-uae">export guide for Argentine pallet wood</a>, which explains documentation, quality control, and landed-cost questions for international buyers.
+
+**The Advantages of the 1,200 × 800 mm Format**
+
+The EUR footprint can be useful when a supply chain is designed around European warehouse and transport infrastructure. Its narrower width can improve manoeuvrability in constrained aisles, while the standardized footprint can simplify pallet pooling and handling where the receiving network already accepts the format.
+
+The format can also support efficient product grouping for cartons and packaged goods. However, the pallet footprint alone does not guarantee better cube utilization. Buyers should test actual carton dimensions, overhang limits, rack clearances, truck interior, and container loading pattern before committing to a production design.
+
+A 1,200 × 800 mm pallet may be the wrong choice when cargo is wide, when local customers use 1,200 × 1,000 mm pallets, or when the product needs a custom heavy-duty base. The best format is determined by the entire logistics system, not by the name “Euro pallet.”
+
+**ISPM 15 and International Shipment**
+
+The IPPC explains that ISPM 15 establishes a harmonized approach for managing pest risks associated with international wood packaging, including pallets and dunnage. Treatment and marking requirements should be confirmed for the destination and exact product. Review our <a href="/blog/pefc-certification-timber-buyers">certification guide</a> separately if the buyer also needs a forest-management or chain-of-custody claim; PEFC or FSC certification is not the same as ISPM 15 treatment.
+
+For a shipment from Argentina, the buyer should request the treatment method, applicable mark, treatment record, invoice, packing list, bill of lading, and any origin or plant-health documents required by the importer and carrier. The correct documents depend on the shipment and destination. A timber supplier should not promise that one certificate will satisfy every country or every buyer.
+
+**Cost and Sourcing Questions**
+
+Sourcing components from Argentina can be attractive when the buyer has enough volume to plan containerized procurement and can provide a repeatable cutting list. Compare complete delivered cost rather than the mill price alone. Include board price, treatment, packing, inland haulage, ocean freight, insurance, destination charges, customs and tax treatment, broker fees, sorting loss, storage, and assembly yield.
+
+Ask whether the quotation is for fixed lengths or a range, whether mixed widths are permitted, how defects are measured, and whether the material is supplied in bundles that can be counted efficiently. These details can have a greater operational impact than a small difference in nominal board price.
+
+For background on the material itself, our guide to <a href="/blog/pallet-wood-taeda-vs-spf-radiata">Taeda pine versus SPF and Radiata</a> compares species considerations for pallet applications. The comparison should be treated as a starting point; the finished pallet design and buyer’s test protocol remain decisive.
+
+**Quality-Control Checklist Before Buying**
+
+Before placing a repeat order, confirm that the supplier can document species, dimensions, grade, moisture content, knot and wane limits, splits, warp, treatment, bundle count, and loading plan. If the pallet will enter a closed exchange pool, verify the separate pool and licensing requirements with the pool operator.
+
+A pre-shipment inspection should use the same sampling method on every order. Record moisture readings, dimensions, bundle labels, photographs, container condition, and loading sequence. After arrival, compare the received material with the inspection record and track assembly rejects and pallet performance.
+
+**The Bottom Line**
+
+The European pallet size is a **1,200 × 800 mm** format, while an EPAL pallet is a licensed and technically controlled product within the EPAL system. That distinction matters when sourcing from Argentina. Argentine Pinus taeda pallet wood can be a flexible input for a EUR-format pallet programme when the buyer provides a precise component schedule, selects the appropriate grade, confirms moisture and treatment requirements, and evaluates the full landed cost.
+
+If you are developing a 1,200 × 800 mm pallet programme or need compatible pallet boards from Argentina, <a href="/contact">contact our team</a> with your component list, target volume, destination, and intended use. We can help prepare a practical specification for quotation.`,
+  },
+  {
+    slug: "european-pallet-size-eur-pallet-argentina",
+    title: "European Pallet Size: Why Source EUR Pallet Wood from Argentina?",
+    date: "2026-08-31",
+    category: "Market Intelligence",
+    excerpt: "A practical guide to the 1,200 × 800 mm EUR pallet format, EPAL licensing, component specifications, and the case for sourcing compatible pallet wood from Argentina.",
+    body: `The European pallet, commonly called the EUR pallet or Euro pallet, is one of the most recognizable pallet formats in international logistics. Its 1,200 × 800 mm footprint is designed for efficient use of European warehouse aisles, trucks, containers, and racking systems. For pallet manufacturers and exporters outside Europe, understanding the format is essential before purchasing components or quoting finished pallets.
+
+Argentina can be an attractive origin for compatible softwood pallet boards because buyers can specify the species, grade, dimensions, moisture content, and treatment required for their own production programme. The important distinction is that Argentine pallet wood is a component supply option; it is not automatically an EPAL-licensed pallet or permission to use EPAL branding.
+
+**What Is the European Pallet Size?**
+
+The standard EUR/EPAL 1 pallet measures **1,200 mm long × 800 mm wide × 144 mm high**. EPAL’s official specification lists 11 boards, 9 blocks, 78 nails, an approximate weight of 25 kg, and a safe working load of 1,500 kg under the stated conditions. <a href="https://www.epal-pallets.org/eu-en/load-carriers/epal-euro-pallet">Read the official EPAL 1 specification</a>.
+
+The 1,200 × 800 mm footprint is narrower than the widely used 1,200 × 1,000 mm industrial format. This makes it useful where warehouse space, conveyor width, truck loading, or European racking dimensions favour a more compact pallet.
+
+| Parameter | EUR/EPAL 1 reference |
+|---|---:|
+| Length | 1,200 mm |
+| Width | 800 mm |
+| Height | 144 mm |
+| Approximate weight | 25 kg |
+| Boards | 11 |
+| Blocks | 9 |
+| Nails | 78 |
+| Safe working load | 1,500 kg under stated conditions |
+
+These figures describe the EPAL 1 reference product. A generic 1,200 × 800 mm pallet made for a private supply chain may have a different deck layout, board thickness, block design, nail pattern, or working load. Buyers should specify the finished pallet design rather than assuming that every 1,200 × 800 mm pallet is interchangeable.
+
+**EUR Pallet, Euro Pallet, or EPAL Pallet?**
+
+The terms are often used interchangeably in casual conversation, but they are not identical in a commercial specification. A **1,200 × 800 mm European pallet** describes a size and general format. A **EUR/EPAL pallet** refers to a pallet made within the relevant EPAL system and subject to its licensing, technical, marking, inspection, repair, and exchange requirements.
+
+EPAL’s official markings include EPAL branding, IPPC marking, country code, plant-protection registration number, treatment method, control staple, and licence/date information. A pallet manufacturer should confirm current rules directly with EPAL before using the EPAL name, marks, or exchange-pool claims. The <a href="https://www.epal-pallets.org/eu-en/the-success-system/ispm-15">EPAL ISPM 15 guidance</a> explains the relationship between licensed EPAL operations and heat treatment.
+
+Argentine pallet wood can be supplied for a buyer’s own pallet programme, including a 1,200 × 800 mm design, but the material does not become an EPAL pallet simply because it has the correct dimensions. EPAL licence status and product compliance remain separate matters.
+
+**Why Argentine Pine Can Work for EUR-Format Pallets**
+
+Argentine <a href="/species/what-is-pinus-taeda">Pinus taeda</a> is a plantation-grown softwood that can be processed into pallet boards, blocks, and other packaging components. For a buyer developing EUR-format pallets, the sourcing case is based on controllable specifications rather than origin marketing alone.
+
+A buyer can define board dimensions to match the planned deck and bottom layout. The choice between <a href="/products/pallet-wood">Pallet Grade A and Pallet Grade B</a> can align material cost with reuse cycles and appearance requirements. Kiln-dried, heat-treated material can also simplify weight control, machining, and international packaging compliance when the correct treatment and marking process is documented.
+
+The species should still be evaluated alongside pallet engineering. Nail withdrawal, board stiffness, block strength, moisture exposure, load distribution, and the number of intended trips all affect final pallet performance. A responsible supplier should review the component schedule and intended use before recommending a grade.
+
+**Component Specification for a 1,200 × 800 mm Pallet**
+
+Do not order only “EUR pallet wood.” Send the mill a component schedule that identifies the exact board and block requirements.
+
+| Component requirement | What to define | Procurement reason |
+|---|---|---|
+| Deck boards | Number, thickness, width, length, and tolerance | Controls top-deck coverage and load distribution |
+| Bottom boards | Number, dimensions, and edge treatment | Affects floor contact and handling stability |
+| Blocks or stringers | Material, section, height, and placement | Determines four-way entry and fork clearance |
+| Grade | A or B, with defect limits | Controls sorting, strength, and assembly yield |
+| Moisture content | Target at shipment and on arrival | Limits weight variation and dimensional movement |
+| Fasteners | Nail type, length, and count | Supports repeatable assembly and holding power |
+| Treatment | Heat treatment, mark, and documentation | Supports regulated international movement where required |
+| Packing | Bundle count, straps, and loading plan | Reduces handling damage and counting errors |
+
+For a complete sourcing discussion, see our <a href="/blog/argentina-pallet-wood-export-uae">export guide for Argentine pallet wood</a>, which explains documentation, quality control, and landed-cost questions for international buyers.
+
+**The Advantages of the 1,200 × 800 mm Format**
+
+The EUR footprint can be useful when a supply chain is designed around European warehouse and transport infrastructure. Its narrower width can improve manoeuvrability in constrained aisles, while the standardized footprint can simplify pallet pooling and handling where the receiving network already accepts the format.
+
+The format can also support efficient product grouping for cartons and packaged goods. However, the pallet footprint alone does not guarantee better cube utilization. Buyers should test actual carton dimensions, overhang limits, rack clearances, truck interior, and container loading pattern before committing to a production design.
+
+A 1,200 × 800 mm pallet may be the wrong choice when cargo is wide, when local customers use 1,200 × 1,000 mm pallets, or when the product needs a custom heavy-duty base. The best format is determined by the entire logistics system, not by the name “Euro pallet.”
+
+**ISPM 15 and International Shipment**
+
+The IPPC explains that ISPM 15 establishes a harmonized approach for managing pest risks associated with international wood packaging, including pallets and dunnage. Treatment and marking requirements should be confirmed for the destination and exact product. Review our <a href="/blog/pefc-certification-timber-buyers">certification guide</a> separately if the buyer also needs a forest-management or chain-of-custody claim; PEFC or FSC certification is not the same as ISPM 15 treatment.
+
+For a shipment from Argentina, the buyer should request the treatment method, applicable mark, treatment record, invoice, packing list, bill of lading, and any origin or plant-health documents required by the importer and carrier. The correct documents depend on the shipment and destination. A timber supplier should not promise that one certificate will satisfy every country or every buyer.
+
+**Cost and Sourcing Questions**
+
+Sourcing components from Argentina can be attractive when the buyer has enough volume to plan containerized procurement and can provide a repeatable cutting list. Compare complete delivered cost rather than the mill price alone. Include board price, treatment, packing, inland haulage, ocean freight, insurance, destination charges, customs and tax treatment, broker fees, sorting loss, storage, and assembly yield.
+
+Ask whether the quotation is for fixed lengths or a range, whether mixed widths are permitted, how defects are measured, and whether the material is supplied in bundles that can be counted efficiently. These details can have a greater operational impact than a small difference in nominal board price.
+
+For background on the material itself, our guide to <a href="/blog/pallet-wood-taeda-vs-spf-radiata">Taeda pine versus SPF and Radiata</a> compares species considerations for pallet applications. The comparison should be treated as a starting point; the finished pallet design and buyer’s test protocol remain decisive.
+
+**Quality-Control Checklist Before Buying**
+
+Before placing a repeat order, confirm that the supplier can document species, dimensions, grade, moisture content, knot and wane limits, splits, warp, treatment, bundle count, and loading plan. If the pallet will enter a closed exchange pool, verify the separate pool and licensing requirements with the pool operator.
+
+A pre-shipment inspection should use the same sampling method on every order. Record moisture readings, dimensions, bundle labels, photographs, container condition, and loading sequence. After arrival, compare the received material with the inspection record and track assembly rejects and pallet performance.
+
+**The Bottom Line**
+
+The European pallet size is a **1,200 × 800 mm** format, while an EPAL pallet is a licensed and technically controlled product within the EPAL system. That distinction matters when sourcing from Argentina. Argentine Pinus taeda pallet wood can be a flexible input for a EUR-format pallet programme when the buyer provides a precise component schedule, selects the appropriate grade, confirms moisture and treatment requirements, and evaluates the full landed cost.
+
+If you are developing a 1,200 × 800 mm pallet programme or need compatible pallet boards from Argentina, <a href="/contact">contact our team</a> with your component list, target volume, destination, and intended use. We can help prepare a practical specification for quotation.`,
+  },
 ];
