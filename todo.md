@@ -1,41 +1,40 @@
-# EUR/EPAL Pallet Article
+# Argentina Sawmill Payment Terms Article
 
-- [ ] Verify current EUR/EPAL dimensions, markings, and licensing terminology from authoritative sources.
-- [ ] Research relevant pallet wood, ISPM 15, and export/logistics context for Argentina.
-- [ ] Inspect existing market posts and confirm a distinct slug, angle, and internal-link set.
-- [ ] Add the new EUR/EPAL pallet article to `client/src/lib/content.ts`.
+- [ ] Verify documentary payment terminology and risk allocation from authoritative trade-finance sources.
+- [ ] Inspect existing content and choose a distinct commercial slug and internal-link set.
+- [ ] Add the new article to `client/src/lib/content.ts`.
 - [ ] Add English, Vietnamese, Filipino, and Simplified Chinese URLs to `client/public/sitemap.xml`.
-- [ ] Run the TypeScript check and verify the article route/build.
+- [ ] Run TypeScript validation, production build, and route verification.
 - [ ] Save a checkpoint and push `main` to the GitHub remote for Netlify deployment.
 - [ ] Report the published URL and deployment status.
 
 ## Notes
 
-The article must distinguish the generic 1,200 × 800 mm European pallet format from licensed EUR/EPAL exchange pallets. Do not imply that Argentine pallet wood is automatically EPAL-certified or that a component shipment grants permission to manufacture a branded EPAL pallet. Avoid fabricated prices, tariffs, transit times, customer results, reviews, or testimonials. Advise buyers to confirm current licensing, inspection, customs, and destination requirements with EPAL, the importer, and their broker.
+Present 20% deposit / 80% balance by documentary letter of credit or payment against documents as a negotiable commercial structure, not as a universal Argentine sawmill rule. Explain that final terms depend on supplier relationship, buyer credit, order size, product, country, bank requirements, Incoterms, and contract negotiation. Do not provide individualized financial or legal advice. Do not fabricate prices, customer results, testimonials, or supplier guarantees. Advise buyers to have banks, brokers, and trade counsel confirm wording and documentary requirements.
 
 The existing site uses relative internal links and the blog renderer supports inline HTML anchors in body strings.
 
 ## Research findings
 
-- EPAL identifies the EPAL Euro Pallet (EPAL 1) as 800 mm wide × 1,200 mm long × 144 mm high, with approximately 25 kg weight, 11 boards, 9 blocks, 78 nails, and a safe working load of 1,500 kg under the stated conditions. Source: official EPAL Euro Pallet page.
-- EPAL distinguishes its licensed exchange pallet through EPAL branded markings, IPPC marking, country code, plant-protection registration number, treatment method, control staple, and licence/date information. The article must distinguish a generic 1,200 × 800 mm European pallet from a licensed EPAL pallet.
-- EPAL states that its licensed production and repair operations comply with ISPM 15, and describes heat treatment at a minimum core temperature of 56°C for at least 30 minutes. The article should present this as the EPAL/ISPM 15 context and advise buyers to verify current destination and licensing requirements.
-- Do not claim Argentine pallet wood is automatically EPAL-certified. Argentine material can be discussed as a potential component input or compatible pallet-board supply, while EPAL branding, licensed manufacture, inspection, and exchange-pool eligibility remain separate requirements.
+- The U.S. International Trade Administration defines a letter of credit as a contractual commitment by the buyer’s bank to pay once the exporter ships and presents the required documents. It notes that LCs can protect both sides but involve bank fees, detailed documentary requirements, and discrepancy risk. Source: ITA, Letter of Credit.
+- ITA describes documentary collection as the exporter entrusting payment collection to its bank, which sends title/shipping documents to the importer’s bank with instructions to release them against payment or acceptance. Documents against payment (D/P) is payable at sight; documents against acceptance (D/A) is payable on a specified future date. Documentary collections are generally less expensive than LCs but provide limited recourse and no bank verification of the buyer’s ability or willingness to pay.
+- The article should describe 20% deposit plus 80% LC or D/P as a negotiable structure that can balance production commitment, seller cash flow, buyer risk, and documentary control. It must not claim that all Argentine sawmills use this structure or that an LC guarantees product quality.
+- The article should distinguish “payment against documents” from an LC. D/P is normally a documentary collection rather than a bank payment undertaking; the exact documents, release instructions, banks, fees, and remedies must be written into the contract and collection instructions.
 
 ## Sources
 
-- [1] EPAL — [EPAL Euro Pallet (EPAL 1)](https://www.epal-pallets.org/eu-en/load-carriers/epal-euro-pallet)
-- [2] EPAL — [ISPM 15](https://www.epal-pallets.org/eu-en/the-success-system/ispm-15)
+- [1] U.S. International Trade Administration — [Letter of Credit](https://www.trade.gov/letter-credit)
+- [2] U.S. International Trade Administration — [Methods of Payment](https://www.trade.gov/methods-payment)
+- [3] U.S. International Trade Administration — [Documentary Collections](https://www.trade.gov/documentary-collections)
 
 ## Publication notes
 
-- Added the article at `/blog/european-pallet-size-eur-pallet-argentina` with internal links to the Pallet Wood product, Pinus taeda species page, UAE export guide, PEFC guide, Taeda vs SPF/Radiata comparison, and contact page.
-- Added official EPAL specification and ISPM 15 links as clickable HTML anchors after verifying the renderer.
-- Preview route verified: title, 1,200 × 800 mm dimensions, EPAL distinction, internal links, source links, and contact CTA render correctly.
+- Added the article at `/blog/payment-terms-argentina-sawmills-20-deposit-lc-documents` with internal links to timber boards, export sourcing, tariff competitiveness, and contact pages.
+- Added official U.S. International Trade Administration links for letters of credit, methods of payment, and documentary collections as clickable HTML anchors.
+- Preview route verified: title, 20% deposit / 80% LC or D/P explanation, comparison tables, source links, internal links, and inquiry CTA render correctly.
 - TypeScript check and production build passed. Build emitted only the existing large-chunk warning and pnpm configuration warning.
-- Note: the current renderer displays pipe-table text rather than formatting Markdown tables; this matches existing article behavior and does not block publication.
 - Pending: save checkpoint, push `main` to GitHub, and report deployment status.
 
 ## Style Decisions
 
-Use the existing Timber Atlas editorial style and write for B2B pallet manufacturers, exporters, distributors, and procurement teams.
+Use the existing Timber Atlas editorial style for B2B importers, procurement teams, sawmills, and trade-finance departments.

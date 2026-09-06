@@ -2441,4 +2441,110 @@ The European pallet size is a **1,200 × 800 mm** format, while an EPAL pallet i
 
 If you are developing a 1,200 × 800 mm pallet programme or need compatible pallet boards from Argentina, <a href="/contact">contact our team</a> with your component list, target volume, destination, and intended use. We can help prepare a practical specification for quotation.`,
   },
+  {
+    slug: "payment-terms-argentina-sawmills-20-deposit-lc-documents",
+    title: "Payment Terms When Buying Pine Timber from Argentine Sawmills",
+    date: "2026-09-07",
+    category: "Sourcing",
+    excerpt: "A practical guide to a 20% deposit and 80% balance by letter of credit or payment against documents when buying Argentine pine timber, including risks, documents, and negotiation points.",
+    body: `Payment terms are one of the first commercial questions an international buyer should clarify when sourcing pine timber from Argentina. The right structure must give the sawmill enough confidence to reserve production capacity while giving the buyer appropriate control over shipment, documents, and payment risk.
+
+One negotiable structure used in export discussions is **20% paid as a deposit and 80% settled after shipment through either a documentary letter of credit or payment against documents**. This is not a universal Argentine sawmill rule, and it is not automatically available for every buyer, product, destination, or order size. It is a commercial proposal that should be agreed in writing by the buyer, supplier, and banks before production begins.
+
+**The Basic 20% / 80% Structure**
+
+The deposit helps the supplier commit raw material, schedule production, prepare treatment, and reserve export logistics. The remaining 80% is linked to a documentary process after the goods have been shipped or the agreed documents have been presented.
+
+| Payment stage | Typical purpose | What must be agreed |
+|---|---|---|
+| 20% deposit | Confirms the order and supports production planning | Deposit timing, refund or cancellation rules, currency, and bank charges |
+| 80% by documentary LC | Bank-mediated payment against complying documents | Issuing bank, confirmation, expiry, shipment window, and exact document list |
+| 80% by D/P | Documents released against payment through banks | Collection instructions, presenting bank, payment currency, and release conditions |
+| 80% by another agreed method | Used when both parties accept a different risk profile | Written contract, due date, security, and remedies |
+
+The percentages are illustrative rather than mandatory. A first transaction may require stronger security, while a long-standing relationship may support more flexible terms. The final structure should reflect the buyer’s credit profile, the sawmill’s production exposure, the destination country, the value of the shipment, and the requirements of the banks involved.
+
+**What Is the 20% Deposit For?**
+
+A deposit is not simply an administrative fee. For a sawmill, an export order can require logs or sawn timber allocation, grading, kiln drying, machining, packaging, treatment, inland transport, and container booking. The deposit can demonstrate that the buyer is committed to the order before the supplier incurs those costs.
+
+The contract should state exactly what the deposit covers and when it becomes payable. It should also explain what happens if the buyer changes dimensions, delays shipping instructions, fails to open the agreed LC, or cancels after production has started. A supplier should not begin non-standard production on the basis of an informal email alone.
+
+For buyers, the deposit is normally the portion of the transaction that is most exposed before shipment. Confirm the supplier’s legal identity, product specification, bank details, export capability, and production plan before transferring funds. Use independently verified banking instructions and require written confirmation of any change to payment details.
+
+**Option One: 80% by Documentary Letter of Credit**
+
+A documentary letter of credit is a bank undertaking linked to the presentation of documents that comply with the credit terms. The U.S. International Trade Administration explains that the buyer’s bank commits to pay once the exporter ships and presents the required documentation to the exporter’s bank. <a href="https://www.trade.gov/letter-credit">Read the official letter-of-credit guidance</a>.
+
+An LC can be useful when the supplier needs stronger payment assurance or when the buyer and seller do not yet have an established trading history. It can also create a defined document checklist for both sides. However, the bank examines documents, not the physical quality of the timber. An LC does not replace a pre-shipment inspection, agreed specification, or claims procedure.
+
+The buyer should ask the bank and supplier to review the draft LC before issuance. Common points to clarify include:
+
+| LC point | Why it matters |
+|---|---|
+| Issuing and advising banks | Determines how the credit is transmitted and advised |
+| Confirmation | May add another bank’s undertaking, subject to bank approval and cost |
+| Amount and tolerance | Prevents disputes over quantity, value, and permitted variation |
+| Shipment window | Must match production, inspection, booking, and vessel schedules |
+| Latest presentation date | Gives the exporter enough time to present documents correctly |
+| Required documents | Must be obtainable, accurate, and consistent across all documents |
+| Partial shipments and transhipment | Determines whether the planned logistics are permitted |
+| Bank charges | States which party pays issuing, advising, confirmation, and discrepancy fees |
+| Discrepancy rules | Explains how document errors are handled and who authorizes amendments |
+
+The exact LC wording matters. A small inconsistency in a commercial invoice, packing list, bill of lading, certificate, or treatment document can delay payment or require a waiver. Both parties should have their banks review the credit before shipment.
+
+**Option Two: 80% Payment Against Documents**
+
+“Payment against documents” usually refers to a documentary collection, often called **documents against payment** or **D/P**. Under D/P, the exporter’s bank sends commercial and shipping documents to the importer’s bank with instructions to release them only after payment. The importer pays through the banking channel and then receives the documents needed to claim or clear the goods.
+
+The ITA explains that documentary collections can be made payable at sight or on a specified future date. It also notes that banks facilitate the collection but do not provide the same payment undertaking or verification process as an LC, and that collections generally offer less recourse if the buyer does not pay. <a href="https://www.trade.gov/methods-payment">See the official methods-of-payment overview</a>.
+
+D/P can be less expensive and administratively lighter than an LC, but it is not risk-free for the exporter. If the buyer refuses or cannot pay when the documents arrive, the goods may remain at the destination while storage, demurrage, re-routing, resale, or disposal decisions are negotiated. For the buyer, D/P provides document control but not a guarantee that the timber will meet the contract specification.
+
+The collection instruction should identify the exact documents, the bank handling them, the payment currency, whether payment is at sight, who pays bank and destination charges, and what the bank should do if the buyer does not pay. The <a href="https://www.trade.gov/documentary-collections">ITA documentary-collections guidance</a> is a useful starting point, but the parties should follow their own banks’ current requirements.
+
+**LC Versus D/P: Which Is More Suitable?**
+
+The choice depends on the relationship and the risk each party is prepared to accept. An LC generally offers a stronger bank-mediated payment framework but costs more and requires stricter documentary accuracy. D/P can be more economical and straightforward but leaves more non-payment and destination risk with the supplier.
+
+| Consideration | Documentary LC | D/P collection |
+|---|---|---|
+| Bank payment undertaking | Available subject to complying documents and credit terms | Generally not provided |
+| Documentary control | Strong, defined by the credit | Defined by collection instructions |
+| Bank fees and complexity | Usually higher | Usually lower |
+| Document discrepancies | Can delay or prevent payment under the credit | Can still delay release, but no LC examination undertaking applies |
+| Buyer’s cargo access | Documents released under the agreed LC process | Documents released after payment at sight under D/P |
+| Best fit | Newer or higher-risk relationships, larger transactions, or requested credit support | Established relationships or transactions where both sides accept collection risk |
+
+Neither instrument guarantees timber quality. The commercial contract should define species, grade, dimensions, moisture content, treatment, packing, tolerance, inspection, claims, and governing law separately from the payment mechanism.
+
+**Documents Buyers Should Expect to Review**
+
+The exact list changes by product and destination, but a timber export file may include a commercial invoice, packing list, bill of lading, certificate of origin, treatment or phytosanitary documentation where applicable, inspection certificate, insurance certificate when required by the sale term, and any buyer-specific declarations.
+
+Make sure names, addresses, quantities, weights, package counts, container numbers, marks, and dates are consistent. The product description should match the sales contract and the buyer’s import requirements. If the shipment includes kiln-dried or heat-treated <a href="/products/timber-boards">pine timber and boards</a>, specify the moisture and treatment evidence required before the LC or collection instructions are finalized.
+
+**Inspection and Payment Are Different Controls**
+
+Payment against documents does not mean payment against inspection results. An LC also does not make the bank responsible for grading the wood. Buyers should establish a pre-shipment inspection procedure covering species, grade, dimensions, defects, moisture, treatment, bundle count, and container loading.
+
+If an independent inspection certificate is required, the contract must identify the inspector, inspection standard, sampling method, inspection location, and deadline for issuing the certificate. If the buyer wants photographs, moisture readings, or a loading report, those requirements should be agreed before shipment rather than requested after the documents are presented.
+
+Our <a href="/sourcing/export-overview">export sourcing guide</a> and <a href="/blog/argentina-pine-wood-tariffs-competitiveness-vs-brazil">tariff and competitiveness article</a> provide broader context for evaluating Argentine supply, but the payment clause should be tailored to the specific transaction.
+
+**A Practical Negotiation Sequence**
+
+Start with a written product specification and quotation. Confirm the species, grade, dimensions, moisture target, treatment, quantity, packaging, delivery term, shipment window, and destination. Then agree the deposit percentage, the balance instrument, bank charges, document list, inspection process, and remedies for delay or non-conformity.
+
+Next, ask the buyer’s bank whether it can issue or handle the proposed LC or collection and ask the supplier’s bank whether it can advise, confirm, or collect it. Resolve bankability issues before production begins. Finally, attach the agreed payment schedule and document list to the sales contract and purchase order.
+
+**The Bottom Line**
+
+A **20% deposit with 80% by documentary letter of credit or documents against payment** can be a practical starting point for negotiating Argentine sawmill exports, but it is not a universal market rule. The deposit supports production commitment; the LC or D/P structure determines how documents and payment are handled after shipment.
+
+Buyers should remember that an LC is not a quality guarantee and D/P is not a bank payment undertaking. The safest transaction combines a precise timber specification, verified counterparties, a documented inspection process, carefully drafted payment instructions, and bank review before funds or production are committed.
+
+If you are evaluating Argentine pine timber or pallet wood and want to discuss a quotation structure, <a href="/contact">contact our team</a> with your product specification, quantity, destination, and preferred payment instrument.`,
+  },
 ];
