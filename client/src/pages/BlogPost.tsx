@@ -20,32 +20,51 @@ interface Props {
   params: { slug: string };
 }
 
-// Parse a text string that may contain <a href="...">text</a> tags into React nodes.
+// Parse a text string that may contain HTML internal links or Markdown source links into React nodes.
 function parseInlineLinks(text: string): React.ReactNode[] {
   const parts: React.ReactNode[] = [];
-  const linkRegex = /<a href="([^"]+)">(.*?)<\/a>/g;
+  const linkRegex = /<a href="([^"]+)">(.*?)<\/a>|\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g;
   let lastIndex = 0;
   let match: RegExpExecArray | null;
   while ((match = linkRegex.exec(text)) !== null) {
     if (match.index > lastIndex) {
       parts.push(text.slice(lastIndex, match.index));
     }
-    const href = match[1];
-    const label = match[2];
-    parts.push(
-      <Link
-        key={match.index}
-        href={href}
-        style={{
-          color: "var(--pine-green)",
-          textDecoration: "underline",
-          textUnderlineOffset: "3px",
-          fontWeight: 600,
-        }}
-      >
-        {label}
-      </Link>
-    );
+    const href = match[1] ?? match[4];
+    const label = match[2] ?? match[3];
+    if (href.startsWith("http")) {
+      parts.push(
+        <a
+          key={match.index}
+          href={href}
+          target="_blank"
+          rel="noreferrer"
+          style={{
+            color: "var(--pine-green)",
+            textDecoration: "underline",
+            textUnderlineOffset: "3px",
+            fontWeight: 600,
+          }}
+        >
+          {label}
+        </a>
+      );
+    } else {
+      parts.push(
+        <Link
+          key={match.index}
+          href={href}
+          style={{
+            color: "var(--pine-green)",
+            textDecoration: "underline",
+            textUnderlineOffset: "3px",
+            fontWeight: 600,
+          }}
+        >
+          {label}
+        </Link>
+      );
+    }
     lastIndex = match.index + match[0].length;
   }
   if (lastIndex < text.length) {
@@ -56,6 +75,31 @@ function parseInlineLinks(text: string): React.ReactNode[] {
 
 function renderBody(body: string) {
   return body.split("\n\n").map((para, i) => {
+    // Markdown table blocks: render a compact, responsive table rather than raw pipe syntax.
+    const tableLines = para.split("\n").filter(line => line.trim().startsWith("|"));
+    if (tableLines.length >= 3 && tableLines[1].includes("---")) {
+      const cells = (line: string) => line.trim().replace(/^\|/, "").replace(/\|$/, "").split("|").map(cell => cell.trim());
+      const headers = cells(tableLines[0]);
+      const rows = tableLines.slice(2).map(cells);
+      return (
+        <div key={i} className="overflow-x-auto mb-6">
+          <table className="w-full min-w-[620px] border-collapse text-sm" style={{ color: "#3a3a38", fontFamily: "'Lato', sans-serif" }}>
+            <thead>
+              <tr style={{ backgroundColor: "var(--cream)", color: "var(--pine-green)" }}>
+                {headers.map((header, j) => <th key={j} className="border-b px-3 py-2 text-left font-semibold">{parseInlineLinks(header)}</th>)}
+              </tr>
+            </thead>
+            <tbody>
+              {rows.map((row, j) => (
+                <tr key={j} style={{ backgroundColor: j % 2 === 0 ? "rgba(247,243,234,0.45)" : "transparent" }}>
+                  {headers.map((_, k) => <td key={k} className="border-b px-3 py-2 align-top">{parseInlineLinks(row[k] ?? "")}</td>)}
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      );
+    }
     // Heading block: **Heading Text**\nBody line(s)
     if (para.startsWith("**") && para.includes("**\n")) {
       const [heading, ...rest] = para.split("\n");
@@ -86,8 +130,21 @@ function renderBody(body: string) {
         </ul>
       );
     }
+    // Numbered lists: lines beginning with 1., 2., etc.
+    if (/^\d+\. /.test(para)) {
+      const items = para.split("\n").filter(line => /^\d+\. /.test(line));
+      return (
+        <ol key={i} className="list-decimal pl-5 mb-4 space-y-1">
+          {items.map((item, j) => (
+            <li key={j} className="text-base" style={{ color: "#3a3a38", fontFamily: "'Lato', sans-serif" }}>
+              {parseInlineLinks(item.replace(/^\d+\. /, ""))}
+            </li>
+          ))}
+        </ol>
+      );
+    }
     // Plain paragraph — strip **bold** markers, parse links
-    const cleaned = para.replace(/\*\*/g, "");
+    const cleaned = para.replace(/\*\*/g, "").replace(/\*([^*]+)\*/g, "$1");
     return (
       <p key={i} className="text-base leading-relaxed mb-5" style={{ color: "#3a3a38", fontFamily: "'Lato', sans-serif" }}>
         {parseInlineLinks(cleaned)}
