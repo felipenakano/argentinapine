@@ -21,6 +21,7 @@ export default function Footer() {
   const resourceLinks = [
     { href: `${prefix}/species`, label: t.nav.species },
     { href: `${prefix}/sourcing`, label: t.nav.sourcing },
+    { href: `${prefix}/buy-wood-argentina`, label: "Buy Wood from Argentina" },
     { href: `${prefix}/blog`, label: t.nav.blog },
     { href: `${prefix}/about`, label: t.nav.about },
     { href: `${prefix}/contact`, label: t.nav.contact },

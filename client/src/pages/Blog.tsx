@@ -16,9 +16,9 @@ export default function Blog() {
   const prefix = LANGUAGE_PATH_PREFIX[lang];
   const [activeCategory, setActiveCategory] = useState<string | null>(null);
 
-  const filtered = activeCategory
-    ? blogPosts.filter(p => p.category === activeCategory)
-    : blogPosts;
+  const filtered = [...blogPosts]
+    .filter(p => !activeCategory || p.category === activeCategory)
+    .sort((a, b) => b.date.localeCompare(a.date));
 
   return (
     <Layout>

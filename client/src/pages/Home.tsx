@@ -5,16 +5,24 @@ import { Link } from "wouter";
 import { useLang } from "@/contexts/LangContext";
 import { LANGUAGE_PATH_PREFIX } from "@/lib/i18n";
 import Layout from "@/components/Layout";
+import SEOHead from "@/components/SEOHead";
 import { products, blogPosts, HERO_IMAGE, PRODUCT_IMAGES } from "@/lib/content";
 import { ArrowRight, CheckCircle2 } from "lucide-react";
 
 export default function Home() {
   const { t, lang } = useLang();
   const prefix = LANGUAGE_PATH_PREFIX[lang];
-  const featuredPosts = blogPosts.slice(0, 3);
+  const featuredPosts = [...blogPosts]
+    .sort((a, b) => b.date.localeCompare(a.date))
+    .slice(0, 3);
 
   return (
     <Layout>
+      <SEOHead
+        title="Buy Pine & Wood from Argentina | Export Timber Supplier"
+        description="Buy pine timber and export wood from Argentina: Pinus taeda boards, mouldings, panels, and pallet wood shipped from Buenos Aires."
+        canonical="https://www.argentinapine.com/"
+      />
       {/* ── HERO ─────────────────────────────────────────────────────────── */}
       <section
         className="relative overflow-hidden"
@@ -92,6 +100,13 @@ export default function Home() {
                 style={{ color: "var(--pine-green)", fontFamily: "'Lato', sans-serif" }}
               >
                 {t.common.learnMore} <ArrowRight size={14} />
+              </Link>
+              <Link
+                href={`${prefix}/buy-wood-argentina`}
+                className="mt-4 inline-flex items-center gap-2 text-sm font-bold link-underline"
+                style={{ color: "var(--pine-green)", fontFamily: "'Lato', sans-serif" }}
+              >
+                Buy wood from Argentina <ArrowRight size={14} />
               </Link>
             </div>
             {/* Stats block */}

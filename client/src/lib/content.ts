@@ -2701,4 +2701,109 @@ Southern Yellow Pine is a valuable commercial group made up principally of loblo
 Argentine *Pinus taeda* is the same botanical species as loblolly pine, but a shipment from Argentina should be evaluated on its own documented origin, plantation supply, processing, drying, grade, dimensions, and logistics. For international buyers, the best purchase specification is precise: name the species, define the grade, measure the product, set the moisture target, and state the treatment and inspection requirements.`,
   },
 
+  {
+    slug: "buy-wood-from-argentina-international-buyers-guide",
+    title: "Buy Wood from Argentina: An International Buyer's Guide",
+    date: "2026-10-11",
+    category: "Sourcing",
+    excerpt: "What international buyers should know before buying wood from Argentina: species, export-ready products, specifications, Buenos Aires shipping, and inquiry requirements.",
+    body: `If you are searching for how to **buy wood from Argentina**, the first step is to define the product rather than asking for "wood" as a general commodity. Argentina can supply several wood product categories, but the correct quotation depends on species, dimensions, grade, moisture content, treatment, volume, and destination.
+
+ArgentinaPine.com is a practical starting point for international buyers comparing <a href="/buy-wood-argentina">wood from Argentina</a>. The site focuses on export-ready pine products, especially plantation-grown <a href="/species/what-is-pinus-taeda">Pinus taeda</a>, with commercial guidance for importers, manufacturers, distributors, pallet producers, and construction buyers.
+
+**What Wood Products Can You Buy from Argentina?**
+
+The most useful way to compare Argentine supply is by finished product form:
+
+- **Pine timber and boards:** Rough-sawn or dressed boards for construction, furniture, joinery, crates, and industrial applications. See the <a href="/products/lumber-boards">timber and boards specifications</a>.
+- **Pine mouldings:** Profiled, kiln-dried material for architraves, skirting, trim, furniture components, and interior fit-out.
+- **Finger-joint mouldings:** Clear, paint-grade components made from short clear sections and machined to a specified profile.
+- **Panels and sheet goods:** Edge-glued panels, laminated boards, LVL, and other engineered or furniture-oriented products.
+- **Pallet wood:** Cut-to-length boards and components for pallet manufacturing, export packaging, crating, and dunnage. Review the <a href="/products/pallet-wood">pallet wood product page</a> for typical dimensions and treatment options.
+
+The Argentine Ministry of Foreign Affairs identifies sawn and profiled wood, fibreboards, particle boards, and other processed products among the country's wood-sector export categories. Its sector overview also describes Argentina's plantation base, processing capacity, and regional forestry clusters. <a href="https://chamb.cancilleria.gob.ar/en/world-products-%E2%80%93-forest-and-wood-products">Read the government overview of Argentine forest and wood products</a> before comparing suppliers and product categories.
+
+**What Species Should You Specify?**
+
+For Argentine pine, the main commercial species is **Pinus taeda**, commonly known as loblolly pine. The name matters because "pine" can refer to different species with different density, grain, drying behaviour, and structural performance.
+
+A clear order should say whether the buyer requires Pinus taeda only or accepts another species. It should also state whether the material is plantation-grown in Argentina, because origin and growing conditions influence the product alongside the species name.
+
+For a broader explanation of the species, read <a href="/species/what-is-pinus-taeda">What is Pinus taeda?</a> Buyers comparing Argentine pine with other plantation softwoods can also review our <a href="/species/pinus-taeda-vs-radiata-pine">Pinus taeda versus radiata pine comparison</a>.
+
+**Buy Export-Ready Material, Not an Undefined Commodity**
+
+International buyers should avoid a quotation that only says "pine wood" or "Argentine timber." Those descriptions do not establish the condition of the goods. A commercial export specification should include:
+
+1. **Species:** Pinus taeda, or the accepted species group.
+2. **Product:** Sawn board, moulding blank, panel, pallet board, stringer stock, or another defined form.
+3. **Dimensions:** Actual thickness, width, and length in millimetres.
+4. **Tolerance:** Permitted variation, straightness, warp, wane, splits, and other defects.
+5. **Grade:** Appearance, general, structural, pallet, or the supplier's named grade with defect limits.
+6. **Moisture:** A target range for kiln-dried material and a maximum individual-piece limit where necessary.
+7. **Treatment:** Heat treatment or another agreed treatment, including the required mark and documentation.
+8. **Packing:** Bundle count, strapping, protection, labels, and container-loading method.
+9. **Quantity:** Cubic metres, pieces, linear metres, or another unambiguous unit.
+10. **Delivery:** Incoterm, export port, destination, shipment window, and document requirements.
+
+This detail is not unnecessary bureaucracy. It is what allows a sawmill or exporter to price the correct product and allows the buyer to inspect the shipment against the same standard.
+
+**Kiln-Dried and Heat-Treated Supply**
+
+For most international buying programmes, moisture condition should be explicit. Kiln-dried timber is produced to a controlled moisture target that helps reduce movement, weight variation, and problems during machining or assembly. The right target depends on the application and destination climate, so a buyer should specify the target rather than simply asking for "dry wood."
+
+Heat treatment is a separate requirement. It may be needed for wood packaging, pallets, dunnage, or other regulated international movements. The buyer should state the treatment requirement, marking, certificate or record, and the destination's import rules. Forest certification, such as FSC or PEFC, is also separate from phytosanitary heat treatment. A certification claim does not replace an ISPM 15 treatment requirement where that requirement applies.
+
+**How Argentine Wood Is Exported**
+
+For this supply route, the export basis should be confirmed as the **Port of Buenos Aires**. The inland movement from the plantation and sawmill region, the container plan, the shipping window, and the ocean route all affect the delivered cost.
+
+Ask for a quotation that separates or clearly explains:
+
+- product price and grade;
+- kiln drying or heat-treatment charges;
+- packing and bundle preparation;
+- inland haulage to Buenos Aires;
+- ocean freight and insurance;
+- export documents and bank charges;
+- destination port, customs, broker, storage, and delivery costs.
+
+Our <a href="/sourcing/argentina-pine-export-ports-guide">Argentina pine export ports guide</a> explains the logistics questions to raise before a shipment is booked. Buyers who want to compare a complete landed cost should not rely on the mill price alone.
+
+**What Buyers in Different Markets Usually Need to Clarify**
+
+The same Argentine product may need a different commercial brief depending on the destination and use. A Vietnamese furniture manufacturer may prioritise moulding profiles, paint-grade sorting, and moisture content. A Philippine importer may need clear metric dimensions, container packing, and reliable repeat supply. A Chinese buyer may require a detailed product sheet and documentary consistency. A UAE buyer may focus on kiln-dried material, storage conditions, treatment, and Jebel Ali delivery planning. A Mexican or Central American pallet manufacturer may prioritise cut-to-length components, ISPM 15, fastener holding, and landed cost.
+
+The buyer should send the end use and destination with the first inquiry. That information helps the exporter recommend a product form and avoid quoting material that is technically correct but commercially unsuitable.
+
+**Payment Terms and Buyer Controls**
+
+Payment terms should be discussed alongside the product specification. One negotiable structure used in export discussions is a 20% deposit with the remaining 80% handled through a documentary letter of credit or payment against documents. That structure is not a universal rule and must be agreed by the buyer, supplier, and banks before production begins.
+
+The <a href="/blog/payment-terms-argentina-sawmills-20-deposit-lc-documents">payment terms guide for Argentine sawmills</a> explains the difference between a documentary LC and D/P collection, the documents that may be required, and why inspection and payment are separate controls. For a new supplier relationship, verify the legal entity, bank instructions, product capacity, inspection plan, and export documentation before sending a deposit.
+
+**How to Send a Strong Buying Inquiry**
+
+A useful first inquiry can be short if it contains the right information. Include:
+
+- company name and country;
+- product and application;
+- species preference;
+- dimensions and tolerance;
+- grade and visible-defect requirements;
+- kiln-dried or heat-treated condition;
+- volume and repeat-order expectation;
+- destination port;
+- target shipment window;
+- preferred Incoterm and payment structure.
+
+If the product is custom, attach a drawing, cutting list, pallet component schedule, moulding profile, or packing diagram. Metric drawings reduce the risk of confusion and make it easier for the supplier to confirm yield and price.
+
+**The Bottom Line**
+
+Buying wood from Argentina works best when the buyer treats the purchase as a documented export programme rather than a generic commodity order. Start with the required product, confirm Pinus taeda or the accepted species, specify KD or HT condition, define the grade and dimensions, and compare the complete delivered cost from Buenos Aires.
+
+For a structured starting point, visit our <a href="/buy-wood-argentina">Buy Wood from Argentina</a> page, review the relevant <a href="/products">product specifications</a>, and <a href="/contact">send a buying inquiry</a> with your quantity, destination, and technical requirements.`,
+  },
+
 ];

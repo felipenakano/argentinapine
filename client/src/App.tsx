@@ -21,6 +21,7 @@ import Blog from "./pages/Blog";
 import BlogPost from "./pages/BlogPost";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
+import BuyWoodArgentina from "./pages/BuyWoodArgentina";
 import NotFound from "./pages/NotFound";
 
 // Build routes for a given language prefix
@@ -39,6 +40,7 @@ function buildRoutes(prefix: string) {
       <Route path={`${p}/blog/:slug`} component={BlogPost} />
       <Route path={`${p}/about`} component={About} />
       <Route path={`${p}/contact`} component={Contact} />
+      <Route path={`${p}/buy-wood-argentina`} component={BuyWoodArgentina} />
     </>
   );
 }

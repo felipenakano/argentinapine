@@ -233,6 +233,30 @@
     transform: scale(0.97);
   }
 
+  /* Amber filled CTA for high-contrast commercial actions */
+  .btn-amber {
+    background-color: var(--amber);
+    color: var(--pine-green-dark);
+    font-family: 'Lato', system-ui, sans-serif;
+    font-weight: 700;
+    font-size: 0.875rem;
+    letter-spacing: 0.04em;
+    padding: 0.75rem 1.75rem;
+    border-radius: var(--radius);
+    border: 2px solid var(--amber);
+    transition: background-color 160ms ease-out, color 160ms ease-out, transform 100ms ease-out;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .btn-amber:hover {
+    background-color: var(--amber-light);
+    border-color: var(--amber-light);
+  }
+  .btn-amber:active {
+    transform: scale(0.97);
+  }
+
   /* Amber outline button */
   .btn-amber-outline {
     background-color: transparent;
